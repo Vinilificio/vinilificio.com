@@ -16,9 +16,31 @@ jobs:
           root: '.'
           paths:
             - _site
-  deploy:
+  deploy_staging:
     docker:
       - image: circleci/python:3.4
+    environment:
+      - CNAME: www.vinilificio.chialab.io
+    steps:
+      - run:
+          name: install AWS CLI
+          command: pip install awscli
+      - attach_workspace:
+          at: '.'
+      - run:
+          name: update `robots.txt`
+          command: mv _sync/robots-dev.txt _sync/robots.txt
+      - deploy:
+          name: deploy on S3
+          command: aws s3 sync _site s3://$CNAME --region ${AWS_REGION:-eu-west-1} --delete --dryrun
+      - deploy:
+          name: create CloudFront invalidation
+          command: aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${CNAME}')].Id" --output text)
+  deploy_production:
+    docker:
+      - image: circleci/python:3.4
+    environment:
+      - CNAME: www.vinilificio.com
     steps:
       - run:
           name: install AWS CLI
@@ -37,16 +59,16 @@ workflows:
   build-deploy:
     jobs:
       - build
-      - deploy:
+      - deploy_staging:
           requires:
             - build
-          context: staging
+          context: vinilificio-staging
       - hold:
           type: approval
           requires:
             - build
-      - deploy:
+      - deploy_production:
           requires:
             - hold
-          context: production
+          context: vinilificio-production
 
