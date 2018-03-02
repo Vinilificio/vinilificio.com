@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="{{ page.lang }}">
+
+<!--    <div class="page-hero" {% if page.hero_img %}style="background-image:url('{{ page.hero_img }}')"{% endif %}></div>-->
+
+    {% include header.html %}
+
+    <div class="sidebar jsSidebar">
+        <h3 class="sidebar__main-title">{{ page.title }}</h3>
+        {% if page.menu %}
+        <ul class="menu vertical">
+            {% for menuItem in page.menu %}
+            <li class="sidebar__item"><a href="#{{menuItem.id}}" class="sidebar__link jsSidebarLink">{{ menuItem.titolo }}</a></li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+    </div>
+
+    <div class="main jsMain">
+        <div class="jsMainAnchor"></div>
+        <div class="main__content jsMainContent">
+            {{ content }}
+        </div>
+    </div>
+
+    {% include footer.html %}
+
+    <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+          $('.slideshow').slick({
+            //arrows: false,
+          });
+        });
+    </script>
+</body>
+
+</html>

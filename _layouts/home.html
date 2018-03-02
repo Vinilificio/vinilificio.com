@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="{{ page.lang }} template-home">
+    {% include header.html %}
+
+        <div class="sidebar">
+            <div class="sidebar__content">
+                {{ content }}
+                <h1 class="sidebar__main-title">Since 2005 <br>
+                We make vinyl</h1>
+                <div class="sidebar__actions">
+                    {% for slide in page.slideshow %}
+                        <h3 class="sidebar__action" id="slide-{{ forloop.index }}">{{ slide.titolo }}</h3>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+
+        <div class="slideshow-container">
+            <div class="slideshow">
+                <div>
+                    <div class="slideshow__item"></div>
+                </div>
+                {% for slideImg in page.slideshow %}
+                    <div>
+                        <div class="slideshow__item" style="background-image: url('{{ slideImg.img }}')">
+                            <div class="slideshow__dida">
+                                <p class="slideshow__dida-text">{{ slideImg.dida }}</p>
+                                <div class="slideshow__info">
+                                    {% if slideImg.app_button %}
+                                        <a class="button slideshow__info-primary" href="#">{{ site.locales[page.lang].make_vinyl }}</a>
+                                    {% endif %}
+                                    <a class="hollow button alert" href="{{ slideImg.page }}">{{ site.locales[page.lang].info }}</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+
+    {% include footer.html %}
+
+    <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+          $('.slideshow').slick({
+            arrows: false,
+          });
+        });
+    </script>
+</body>
+
+</html>
