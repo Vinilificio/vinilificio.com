@@ -61,13 +61,13 @@ I cookie sono stringhe di testo di piccole dimensioni che i siti visitati dall'u
 Nel corso della navigazione su un sito, l'utente può ricevere sul suo terminale anche cookie che vengono inviati da siti o da web server diversi (c.d. "terze parti"), sui quali possono risiedere alcuni elementi (quali, ad esempio, immagini, mappe, suoni, specifici link a pagine di altri domini) presenti sul sito che lo stesso sta visitando.
 In linea generale si distingue tra: 
 
-**a. Cookie tecnici**, che sono quelli utilizzati al solo fine di “effettuare la trasmissione di una comunicazione su una rete di comunicazione elettronica, o nella misura strettamente necessaria al fornitore di un servizio della società dell’informazione esplicitamente richiesto dall’abbonato o dall’utente a erogare tale servizio” (v. art. 122, comma 1, del Codice privacy). I cookie tecnici possono essere suddivisi in:
+**a. Cookie tecnici** che sono quelli utilizzati al solo fine di “effettuare la trasmissione di una comunicazione su una rete di comunicazione elettronica, o nella misura strettamente necessaria al fornitore di un servizio della società dell’informazione esplicitamente richiesto dall’abbonato o dall’utente a erogare tale servizio” (v. art. 122, comma 1, del Codice privacy). I cookie tecnici possono essere suddivisi in:
 
 * cookie di navigazione o di sessione, che garantiscono la normale navigazione e fruizione del sito web (permettendo, ad esempio, di realizzare un acquisto o autenticarsi per accedere ad aree riservate);
 * cookie analytics, assimilati ai cookie tecnici laddove utilizzati direttamente dal gestore del sito per raccogliere informazioni, in forma aggregata, sul numero degli utenti e su come questi visitano il sito stesso;
 * cookie di funzionalità, che permettono all'utente la navigazione in funzione di una serie di criteri selezionati (ad esempio, la lingua, i prodotti selezionati per l'acquisto) al fine di migliorare il servizio reso allo stesso.
 
-**b. Cookie di profilazione**, che sono quelli volti a creare profili relativi all’utente e vengono utilizzati al fine di inviare messaggi pubblicitari in linea con le preferenze manifestate dallo stesso nell’ambito della navigazione in rete.
+**b. Cookie di profilazione** che sono quelli volti a creare profili relativi all’utente e vengono utilizzati al fine di inviare messaggi pubblicitari in linea con le preferenze manifestate dallo stesso nell’ambito della navigazione in rete.
 
 ####  2. Tipologie di cookie utilizzati da questo sito
 **2.1. Cookie del Titolare**
