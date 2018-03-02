@@ -32,5 +32,9 @@ deploy:
       tags: true
 
 after_deploy:
-  - AWS_ACCESS_KEY_ID=$DEV_AWS_ACCESS_KEY_ID AWS_SECRET_ACCESS_KEY=$DEV_AWS_SECRET_ACCESS_KEY aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${DEV_CNAME}')].Id" --output text)
-  - AWS_ACCESS_KEY_ID=$PROD_AWS_ACCESS_KEY_ID AWS_SECRET_ACCESS_KEY=$PROD_AWS_SECRET_ACCESS_KEY aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${PROD_CNAME}')].Id" --output text)
+  - | # Invalidate cache in development environment.
+    export AWS_ACCESS_KEY_ID="${DEV_AWS_ACCESS_KEY_ID}" AWS_SECRET_ACCESS_KEY="${DEV_AWS_SECRET_ACCESS_KEY}" && \
+      aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${DEV_CNAME}')].Id" --output text)
+  - | # Invalidate cache in production environment.
+    export AWS_ACCESS_KEY_ID="${PROD_AWS_ACCESS_KEY_ID}" AWS_SECRET_ACCESS_KEY="${PROD_AWS_SECRET_ACCESS_KEY}" && \
+      aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${PROD_CNAME}')].Id" --output text)
