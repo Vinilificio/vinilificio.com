@@ -7,10 +7,10 @@ jobs:
     steps:
       - checkout
       - run:
-          name: install dependencies
+          name: Install dependencies
           command: bundle install
       - run:
-          name: build site
+          name: Build site
           command: bundle exec jekyll build
       - persist_to_workspace:
           root: '.'
@@ -18,40 +18,40 @@ jobs:
             - _site
   deploy_staging:
     docker:
-      - image: circleci/python:3.4
+      - image: circleci/python:3.6
     environment:
       - CNAME: www.vinilificio.chialab.io
     steps:
       - run:
-          name: install AWS CLI
-          command: pip install awscli
+          name: Install AWS CLI
+          command: pip install --user awscli
       - attach_workspace:
           at: '.'
       - run:
-          name: update `robots.txt`
+          name: Update `robots.txt`
           command: mv _sync/robots-dev.txt _sync/robots.txt
       - deploy:
-          name: deploy on S3
+          name: Deploy on S3
           command: aws s3 sync _site s3://$CNAME --region ${AWS_REGION:-eu-west-1} --delete --dryrun
       - deploy:
-          name: create CloudFront invalidation
+          name: Create CloudFront invalidation
           command: aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${CNAME}')].Id" --output text)
   deploy_production:
     docker:
-      - image: circleci/python:3.4
+      - image: circleci/python:3.6
     environment:
       - CNAME: www.vinilificio.com
     steps:
       - run:
-          name: install AWS CLI
-          command: pip install awscli
+          name: Install AWS CLI
+          command: pip install --user awscli
       - attach_workspace:
           at: '.'
       - deploy:
-          name: deploy on S3
+          name: Deploy on S3
           command: aws s3 sync _site s3://$CNAME --region ${AWS_REGION:-eu-west-1} --delete --dryrun
       - deploy:
-          name: create CloudFront invalidation
+          name: Create CloudFront invalidation
           command: aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${CNAME}')].Id" --output text)
 
 workflows:
