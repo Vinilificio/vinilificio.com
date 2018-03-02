@@ -24,7 +24,9 @@ jobs:
     steps:
       - run:
           name: Install AWS CLI
-          command: pip install --user awscli
+          command: |
+            pip install --user awscli
+            export PATH="$PATH:$HOME/.local/bin"
       - attach_workspace:
           at: '.'
       - run:
@@ -44,7 +46,9 @@ jobs:
     steps:
       - run:
           name: Install AWS CLI
-          command: pip install --user awscli
+          command: |
+            pip install --user awscli
+            export PATH="$PATH:$HOME/.local/bin"
       - attach_workspace:
           at: '.'
       - deploy:
