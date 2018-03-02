@@ -25,12 +25,12 @@ Since 2005, Vinilificio has been transferring your music onto single copies of r
 
 ### Single copy and small run
 
-We make your vinyl in single copy, some units or [small runs](https://vinilificio.github.io/small-run/).
+We make your vinyl in single copy, some units or [small runs](/small-run/).
 With the Vinilificio App you can calculate the cost of your order, simulate your vinyl, upload the audio, create your own artwork and place your order.
 
 ### Custom print cover and label
 
-We print in single copy (or in small runs) labels and covers in all formats, for single, double or triple vinyl record, single pocket or gatefold vinyl. Have fun with the [Vinilificio App](https://demo.vinilificio.chialab.io/), create easily your own graphics and order your vinyl. If you are famliar with graphic design, ask for specifications and templates to create the graphics of your cover and label.
+We print in single copy (or in small runs) labels and covers in all formats, for single, double or triple vinyl record, single pocket or gatefold vinyl. Have fun with the [Vinilificio App](https://app.vinilificio.com/), create easily your own graphics and order your vinyl. If you are famliar with graphic design, ask for specifications and templates to create the graphics of your cover and label.
 
 ### Audio
 
@@ -98,7 +98,7 @@ We take care of your mastering. Contact us for costs and information.
 
 ### Order your vinyl
 
-* Create your vinyl in 3 easy steps with [Vinilificio App](https://demo.vinilificio.chialab.io/)
+* Create your vinyl in 3 easy steps with [Vinilificio App](https://app.vinilificio.com/)
 
 or
 

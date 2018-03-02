@@ -26,8 +26,8 @@ I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come l
 
 ### Singola copia e piccole tirature
 
-Realizziamo il tuo vinile in singola copia, qualche unità o [piccole tirature](https://vinilificio.github.io/small-run/).
-Con la [App di Vinilificio](https://demo.vinilificio.chialab.io/#!/overview) in maniera semplice ed intuitiva puoi simulare il costo del tuo ordine, uploadare l'audio, realizzare le grafiche ed effettuare il tuo ordine.
+Realizziamo il tuo vinile in singola copia, qualche unità o [piccole tirature](/small-run/).
+Con la [App di Vinilificio](https://app.vinilificio.com) in maniera semplice ed intuitiva puoi simulare il costo del tuo ordine, uploadare l'audio, realizzare le grafiche ed effettuare il tuo ordine.
 
 ### Grafica
 
@@ -91,7 +91,7 @@ Accettiamo qualsiasi tipo di formato audio digitale. wav, aiff, mp3...
 **Non ci capisci niente e non sai come fare?** Ci occupiamo noi del tuo mastering. Contattaci per avere costi e informazioni.
 
 ### Ordina il tuo vinile
-* Crea il tuo vinile in maniera semplice ed intuitiva con l’[App di Vinilificio](https://demo.vinilificio.chialab.io/#!/overview) 
+* Crea il tuo vinile in maniera semplice ed intuitiva con l’[App di Vinilificio](https://app.vinilificio.com) 
 
 oppure
 
