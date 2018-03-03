@@ -21,7 +21,6 @@ jobs:
       - image: circleci/python:3.6
     environment:
       - CNAME: www.vinilificio.chialab.io
-      - PATH: "$PATH:$HOME/.local/bin"
     steps:
       - run:
           name: Install AWS CLI
@@ -34,16 +33,15 @@ jobs:
           command: mv _site/robots-dev.txt _site/robots.txt
       - deploy:
           name: Deploy on S3
-          command: aws s3 sync _site s3://$CNAME --region ${AWS_REGION:-eu-west-1} --delete --dryrun
+          command: ~/.library/bin/aws s3 sync _site s3://$CNAME --region ${AWS_REGION:-eu-west-1} --delete --dryrun
       - deploy:
           name: Create CloudFront invalidation
-          command: aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${CNAME}')].Id" --output text)
+          command: ~/.library/bin/aws cloudfront create-invalidation --paths '/*' --distribution-id $(~/.library/bin/aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${CNAME}')].Id" --output text)
   deploy_production:
     docker:
       - image: circleci/python:3.6
     environment:
       - CNAME: www.vinilificio.com
-      - PATH: "$PATH:$HOME/.local/bin"
     steps:
       - run:
           name: Install AWS CLI
@@ -53,10 +51,10 @@ jobs:
           at: '.'
       - deploy:
           name: Deploy on S3
-          command: aws s3 sync _site s3://$CNAME --region ${AWS_REGION:-eu-west-1} --delete --dryrun
+          command: ~/.library/bin/aws s3 sync _site s3://$CNAME --region ${AWS_REGION:-eu-west-1} --delete --dryrun
       - deploy:
           name: Create CloudFront invalidation
-          command: aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${CNAME}')].Id" --output text)
+          command: ~/.library/bin/aws cloudfront create-invalidation --paths '/*' --distribution-id $(~/.library/bin/aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${CNAME}')].Id" --output text)
 
 workflows:
   version: 2
