@@ -33,10 +33,10 @@ jobs:
           command: mv _site/robots-dev.txt _site/robots.txt
       - deploy:
           name: Deploy on S3
-          command: ~/.library/bin/aws s3 sync _site s3://$CNAME --region ${AWS_REGION:-eu-west-1} --delete --dryrun
+          command: ~/.local/bin/aws s3 sync _site s3://$CNAME --region ${AWS_REGION:-eu-west-1} --delete --dryrun
       - deploy:
           name: Create CloudFront invalidation
-          command: ~/.library/bin/aws cloudfront create-invalidation --paths '/*' --distribution-id $(~/.library/bin/aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${CNAME}')].Id" --output text)
+          command: ~/.local/bin/aws cloudfront create-invalidation --paths '/*' --distribution-id $(~/.local/bin/aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${CNAME}')].Id" --output text)
   deploy_production:
     docker:
       - image: circleci/python:3.6
@@ -51,10 +51,10 @@ jobs:
           at: '.'
       - deploy:
           name: Deploy on S3
-          command: ~/.library/bin/aws s3 sync _site s3://$CNAME --region ${AWS_REGION:-eu-west-1} --delete --dryrun
+          command: ~/.local/bin/aws s3 sync _site s3://$CNAME --region ${AWS_REGION:-eu-west-1} --delete --dryrun
       - deploy:
           name: Create CloudFront invalidation
-          command: ~/.library/bin/aws cloudfront create-invalidation --paths '/*' --distribution-id $(~/.library/bin/aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${CNAME}')].Id" --output text)
+          command: ~/.local/bin/aws cloudfront create-invalidation --paths '/*' --distribution-id $(~/.local/bin/aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${CNAME}')].Id" --output text)
 
 workflows:
   version: 2
