@@ -23,7 +23,7 @@ menu:
   id: importanza-del-mastering
 - titolo: Glossario
   id: glossario
-lang: en
+lang: it
 ref: faq
 ---
 
