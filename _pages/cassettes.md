@@ -15,7 +15,7 @@ menu:
 lang: en
 ref: cassette
 ---
-# Cassette
+# Cassettes
 
 ![cassetta](/img/cassette_vinilificio1.jpg)
 
