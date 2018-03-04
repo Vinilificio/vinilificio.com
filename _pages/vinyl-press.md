@@ -41,7 +41,7 @@ Vinilificio will guide you and advise you on the best choice: cost per copy, qua
 ### Gallery
 <div class="slideshow">
     <div>
-        <img src="{{ site.baseurl }}/img//Cmon_Tigre.jpg" alt="Red Vinyl Gatefold">
+        <img src="{{ site.baseurl }}/img/Cmon_Tigre.jpg" alt="Red Vinyl Gatefold">
     </div>
     <div>
         <img src="{{ site.baseurl }}/img/Confrontational.jpg" alt="Confrontational blue vinyl">
