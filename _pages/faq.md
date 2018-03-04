@@ -97,7 +97,7 @@ Prima di andare in stampa assicurati sempre della qualità del tuo master, ascol
 * Sleeve: Busta di carta
 * Inner Sleeve: Busta interna
 * Cover: Copertina di cartone
-* Gatefold: Copertina aprile per vinile doppio o singolo
+* Gatefold: Copertina apribile per vinile doppio o singolo
 * Bleed Zone: In grafica abbondanza (vd. Layout delle grafiche)
 
 
