@@ -4,100 +4,100 @@ position: footer
 index: 3
 menu:
 - titolo: Audio Transfer
-  id: audio-transfer-in-singola-copia
-- titolo: Vantaggio del riversamento su vinile
-  id: vantaggio-del-riversamento-su-vinile
-- titolo: Audio transfer su lacca
-  id: audio-transfer-su-lacca-o-acetato
-- titolo: Differenza tra vinile prodotto stampato e vinile inciso
-  id: differenza-tra-vinile-prodotto-stampato-e-vinile-inciso
-- titolo: Come viene prodotto industrialmente un vinile
-  id: come-viene-prodotto-industrialmente-un-vinile
-- titolo: Cos'è il test pressing
-  id: il-test-pressing
-- titolo: A cosa serve il test pressing
-  id: a-cosa-serve-il-test-pressing
-- titolo: A cosa serve il mastering
+  id: audio-transfer-in-single-copy
+- titolo: Advantages of the audio transfer on vinyl
+  id: advantages-of-the-audio-transfer-on_vinyl
+- titolo: Audio transfer on lacquer disc
+  id: audio-transfer-on-lacquer-disc
+- titolo: Difference between printed vinyl and engraved vinyl
+  id: difference-between-printed-vinyl-and-engraved-vinyl
+- titolo: How a vinyl is produced industrially
+  id: how-a-vinyl-is-produced-industrially
+- titolo: Test pres
+  id: test-press
+- titolo: Why the test press?
+  id: why-the-test-press
+- titolo: Mastering
   id: mastering
-- titolo: L'importanza del mastering
-  id: importanza-del-mastering
-- titolo: Glossario
-  id: glossario
-lang: it
+- titolo: The importance of mastering
+  id: the-importance-of-mastering
+- titolo: Glossary
+  id: glossary
+lang: en
 ref: faq
 ---
 
 # FAQ
 
-### Audio transfer in singola copia
-Si tratta di un trasferimento (o riversamento) di un master audio da un supporto (solitamente digitale, ma non necessariamente) al vinile. Il procedimento prevede l’incisione di un disco di vinile vergine tramite una speciale puntina di diamante. Il vinile inciso in copia unica, rappresenta una copia del master (ma non una duplicazione) e sarà pronto per l’ascolto, avrà resistenza all’usura e suono proprio come un classico vinile.
+### Audio transfer in single copy
+It is a transfer (or transfer) of an audio master from a medium (usually digital, but not necessarily) to vinyl. The procedure involves the engraving of a virgin vinyl disc using a special diamond needle. The vinyl engraved in a single copy, represents a copy of the master (but not a duplication) and will be ready for listening, will have resistance to wear and sound just like a classic vinyl.
 
-### Vantaggio del riversamento su vinile
-E’ un vinile unico, realizzato “manualmente” trasferendo l’audio 1X. Qualità ed usura sono praticamente identici ad un vinile prodotto industrialmente. Il riversamento audio su vinile è particolarmente adatto per chi necessita di un vinile unico o in piccole tirature.
+### Advantages of the transfer to vinyl
+It is a unique vinyl, made "manually" by transferring the 1X audio. Quality and wear are virtually identical to an industrially produced vinyl. The audio transfer on vinyl is particularly suitable for those who need a single vinyl or in small runs.
 
-### Audio transfer su lacca o acetato
-Si tratta di un trasferimento di un master audio da un supporto (solitamente digitale, ma non necessariamente) ad una lacca o acetato. Il procedimento prevede l’incisione di un disco solitamente di diametro 14” composto da un disco di metallo, ricoperto da una speciale lacca/vernice che poi verrà incisa da una puntina di zafiro. Questo speciale disco inciso (da non confondersi con il disco di vinile) è il primo procedimento della produzione di un vinile in scala industriale. La qualità dell’audio di questo disco è molto alta, ma subisce un forte deterioramento ad ogni ascolto.
+### Audio transfer on lacquer disc
+It is a transfer of an audio master from a medium (usually digital, but not necessarily) to a lacquer or acetate. The procedure involves the engraving of a disk usually of 14 "diameter composed of a metal disk, covered with a special lacquer / varnish which will then be engraved by a small needle of a sapphire. This special engraved record (not to be confused with the vinyl record) is the first step in the production of an industrial-scale vinyl. The sound quality of this disc is very high, but it undergoes a strong deterioration with each listening.
 
-### Differenza tra vinile prodotto stampato e vinile inciso
-Il vinile prodotto industrialmente prevede la realizzazione di matrici che serviranno per produrre (tramite pressatura) in serie e in quantità copie di dischi in vinile tutte uguali.
+### Difference between printed vinyl and engraved vinyl
+A vinyl record produced industrially involves the production of matrices that will be used to produce (by pressing) in series and in quantity copies of vinyl records all the same.
 
-Il vinile inciso tramite un procedimento di audio transfer è un vinile unico, realizzato singolarmente e non in serie.
+The vinyl engraved through an audio transfer process is a unique vinyl, made individually and not in series.
 
-Dal punto di vista della qualità audio e dell’usura il vinile inciso e i vinili prodotti industrialmente sono molto simili. Possono comunque esserci differenze nella profondità dei solchi, nel rumore di fondo (comunque presente in qualsiasi vinile) e nell’esaltazione di alcune frequenze medio alte.
+From the point of view of audio quality and wear, vinyl etched and industrially produced vinyl are very similar. However, there may be differences in the depth of the grooves, in the background noise (however present in any vinyl) and in the exaltation of some medium-high frequencies.
 
-Dal punto di vista  estetico il vinile prodotto industrialmente ha il bordo tipico a spina di pesce (questo perché viene pressato e rifilato), mentre il vinile per il transfer in singola copia presenta un bordo piatto (perché prodotto in lastre e tagliato con un fresa)
+From the aesthetic point of view, the industrially produced vinyl has the typical herringbone edge (this is because it is pressed and trimmed), while the vinyl for the single copy transfer has a flat edge (because it is produced in sheets and cut with a cutter)
 
-### Come viene prodotto industrialmente un vinile
-In estrema sintesi la produzione di un vinile avviene in questo modo:
+### How a vinyl is produced industrially
 
-1 – Audio transfer dal master audio alla lacca. Per incidere lato a e lato b vengono utilizzate due lacche. Una per lato.
+In a nutshell, the production of a vinyl takes place in this way:
 
-2 – Dalle lacche tramite dei processi di argentatura e bagni galvanici vengono prodotte delle matrici (positive e negative), una per lato.
+1 - Audio transfer from the audio master to the lacquer. Two incisions are used to engrave side a and side b. One on each side.
 
-3- Le matrici negative o “stampers”, dopo essere state forate al centro, tagliate a misura e controllate vengono successivamente utilizzate per andare in stampa. Le matrici positive vengono utilizzate come madre per realizzare altre matrici positive ed effettuare ristampe.
+2 - From the lacquers through the processes of silvering and galvanic baths, matrices (positive and negative) are produced, one on each side.
 
-4- Prima di andare in stampa solitamente si producono i test pressing. Il test pressing non è altro che una prova di stampa, prodotta in poche copie (possono variare a seconda della stamperia) per verificare che il prodotto non presenti difetti di produzione. E’ importante sapere che il test pressing è un vinile stampato esattamente uguale a quelli che saranno prodotti successivamente in serie. Pertanto, qualora ci siano difetti è necessario ri iniziare l’intera produzione.
+3- The negative matrices or "stampers", after being drilled in the center, cut to size and checked, are then used to print. Positive matrices are used as a mother to make other positive matrices and reprint.
 
-6- Nel frattempo vengono prodotti le etichette tonde che vanno posizionate al centro del vinile. Le etichette vengono stampate su una carta speciale resistente alle alte temperature.
+4- Pressing tests are usually produced before going to press. The pressing test is nothing more than a printing test, produced in a few copies (may vary depending on the printing house) to verify that the product does not present any production defects. It is important to know that the pressing test is a printed vinyl exactly like the ones that will be produced in series afterwards. Therefore, if there are defects it is necessary to restart the entire production.
 
-7- Le matrici negative o stamper o stampatori (lato a e b) vengno posizionate in una pressa che iniettando vinile tra le due matrici, pressa ad alta pressione e alta temperatura la pasta di vinile. Il centrino (etichetta o label) viene “incollato” durante la pressata.
+6- In the meantime, round labels are produced and placed in the center of the vinyl. The labels are printed on a special paper that is resistant to high temperatures.
 
-8- Il vinile, ancora nella pressa, viene rifilato a misura.
+7- Negative matrices or stampers or printers (side a and b) are placed in a press that injecting vinyl between the two matrices, high pressure and high temperature press the vinyl paste. The doily (label or label) is "glued" during the press.
 
-9- Uscito dalla pressa il vinile viene imbustato nella custodia interna e lasciato raffredare per circa 24 h.
+8- The vinyl, still in the press, is trimmed to size.
 
-10- Alcune stamperie inseriscono automaticamente il vinile nella custodia non appena uscito dalla pressa, altre stamperie inseriscono il vinile nella custodia passate le 24 h.
+9- After leaving the press, the vinyl is wrapped in the inner case and left to cool for around 24 hours.
 
-Per una descrizione più accurata:
+10- Some printers automatically insert the vinyl into the case as soon as it comes out of the press, other printers insert the vinyl in the case after 24 hours.
 
-Vd. Anche: <a target="blank" href="http://en.wikipedia.org/wiki/Production_of_gramophone_records">http://en.wikipedia.org/wiki/Production_of_gramophone_records</a><br>
+For a more accurate description:
+
+See also: <a target="blank" href="http://en.wikipedia.org/wiki/Production_of_gramophone_records">http://en.wikipedia.org/wiki/Production_of_gramophone_records</a><br>
 Video: <a target="blank" href="http://youtu.be/xUGRRUecBik"> pt.1 http://youtu.be/xUGRRUecBik</a><br>
 <a target="blank" href="http://youtu.be/IReDh9ec_rk">pt.2 http://youtu.be/IReDh9ec_rk</a>
 
-### Il test pressing
-Prima di andare in stampa solitamente si producono i test pressing. Il test pressing non è altro che una prova di stampa, prodotta in poche copie per verificare che il prodotto non presenti difetti di produzione. E’ importante sapere che il test pressing è un vinile stampato ed è esattamente uguale a quelli che saranno prodotti successivamente in serie. Pertanto, qualora ci siano difetti è necessario ri iniziare l’intera produzione. E’ importante non confondere il test pressing con il transfer audio su vinile. Sono due cose diverse, con funzioni diverse. Per saperne di più consulta [Come viene prodotto industrialmente un vinile](/faq/#come-viene-prodotto-industrialmente-un-vinile)
+### Test press
+Pressing tests are usually produced before going to press. The pressing test is nothing more than a test print, produced in a few copies to verify that the product does not present production defects. It is important to know that the pressing test is a printed vinyl and is exactly the same as the ones that will be produced subsequently in series. Therefore, if there are defects it is necessary to restart the entire production. It is important not to confuse the pressing test with the audio transfer on vinyl. They are two different things, with different functions. To learn more, see [How a vinyl is industrially produced] (/ faq / # come-comes-industrially-a-vinyl)
 
-### A cosa serve il test pressing
-Il test pressing è uno strumento molto importante al fine di verificare la qualità delle matrici che verranno utilizzate per produrre il vinile. Il test pressing essendo un vero e proprio vinile stampato permetterà di stabile se sono presenti difetti come salti di puntina, rumori eccessivi, chiusura del solco a fine corsa e così via. In caso il test pressing presenti reali problemi bisognerà procedere nuovamente con la produzione delle matrici (1-3) ed effettuare nuovi test pressing.
+### Why the test press
+The test pressing is a very important tool in order to verify the quality of the matrices that will be used to produce the vinyl. The pressing test being a real printed vinyl will allow stable if there are defects such as tip jumps, excessive noise, closing the groove at the end of the stroke and so on. If the pressing test has real problems, it will be necessary to proceed with the production of the matrices (1-3) and carry out new pressing tests.
 
 ### Mastering
-Il mastering è una forma di post-produzione audio. Si tratta di un processo di preparazione e trasferimento dell’audio registrato da una sorgente contenente il mix finale su un dispositivo di memorizzazione di dati (il master), ovvero la sorgente da cui tutte le copie saranno prodotte (tramite metodi quali pressatura, la duplicazione o la replica).<br>
-Il mastering prevede principalmente (ma non solo) interventi di correzione sulle equalizzazioni, valorizzazione delle dinamiche, controllo di eventuali contro fasi.
+Mastering is a form of audio post-production. It is a process of preparing and transferring the recorded audio from a source containing the final mix on a data storage device (the master), ie the source from which all copies will be produced (by methods such as pressing, duplication or the reply). <br>
+Mastering provides mainly (but not only) corrections on equalization, enhancement of dynamics, control of possible counter-phases.
 
-### Importanza del mastering
-Il mastering permette innanzi tutto di ottimizzare l’audio prodotto al supporto sul quale verrà successivamente duplicato. Un buon disco non è solo frutto di una buona registrazione e di un buon mixaggio ma anche da un mastering ben fatto. Non sottovalutare mai il mastering e affidati a tecnici competenti e con esperienza. Un cattivo mastering o una duplicazione di un master audio privo di mastering è sinonimo di un disco che non suona bene!<br>
-Prima di andare in stampa assicurati sempre della qualità del tuo master, ascoltalo su diversi impianti e sistemi ed eventualmente, se proprio non sei sicuro fai un transfer audio vinile per avere un test verosimile di quello che potrebbe essere il tuo master su vinile.
+### The importance of mastering
+The mastering allows first of all to optimize the audio produced to the support on which it will be subsequently duplicated. A good record is not only the result of a good recording and a good mix but also a well done mastering. Never underestimate the mastering and rely on competent and experienced technicians. A bad mastering or a duplication of a mastering audio without mastering is synonymous of a disk that does not sound good! <br>
+Before going to print always make sure of the quality of your master, listen to it on different systems and systems and, if you're not sure, make a vinyl audio transfer to have a probable test of what could be your master on vinyl.
 
-### Glossario
-* Riversamento audio su vinile: [Audio transfer su vinile](/faq/#audio-transfer-in-singola-copia)
-* 7″: vinile con diametro cm 17,78 noto anche come 45 giri o singolo
-* 10″: vinile con diametro cm 25,4 noto anche come EP
-* 12″: vinile con diametro cm 30,48 noto anche come 33 giri o LP
-* Label: o Centrino è l’etichetta tonda che sta al centro del vinile
-* Sleeve: Busta di carta
-* Inner Sleeve: Busta interna
-* Cover: Copertina di cartone
-* Gatefold: Copertina apribile per vinile doppio o singolo
-* Bleed Zone: In grafica abbondanza (vd. Layout delle grafiche)
-
+### Glossary
+* Audio transfer on vinyl: [Audio transfer su vinile](/faq/#audio-transfer-in-single-copy)
+* 7 ": vinyl disc with 17.78 cm diameter also known as 45 rpm or single
+* 10 ": vinyl disc with a diameter of 25.4 cm also known as EP
+* 12 ": vinyl disc with a diameter of 30.48 cm also known as 33 rpm or LP
+* Label is the round label at the center of the vinyl
+* Sleeve: Paper envelope
+* Inner Sleeve: Inner envelope
+* Cover: Cardboard cover
+* Gatefold: Double door cover for double or single vinyl
+* Bleed Zone: In abundance graphics (see graphic layout)
 
