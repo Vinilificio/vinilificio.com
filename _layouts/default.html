@@ -3,9 +3,7 @@
 
 {% include head.html %}
 
-<body class="{{ page.lang }}"> ///////////////////// {{base}}
-
-<!--    <div class="page-hero" {% if page.hero_img %}style="background-image:url('{{ page.hero_img }}')"{% endif %}></div>-->
+<body class="{{ page.lang }}">
 
     {% include header.html %}
 
@@ -32,9 +30,7 @@
     <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
     <script type="text/javascript">
         $(document).ready(function(){
-          $('.slideshow').slick({
-            //arrows: false,
-          });
+          $('.slideshow').slick();
         });
     </script>
 </body>
