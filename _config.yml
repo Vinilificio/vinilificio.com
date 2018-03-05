@@ -8,16 +8,14 @@
 #
 # Site settings
 #
-title: Your awesome title
-email: your-email@domain.com
+title: Vinilificio
+email: info@vinilificio.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Since 2005 Vinilificio produces vinyl records in single copy, small runs and quantities!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://www.vinilificio.com" # the base hostname & protocol for your site
+twitter_username: ''
+github_username:  ''
 
 #
 # Build settings
@@ -69,9 +67,11 @@ sass:
 # Locales
 locales:
   it:
+    description: "Dal 2005 Vinilificio produce vinili in singola copia, piccole tirature oppure stampe in quantità!"
     make_vinyl: "Crea il tuo vinile"
     info: "Informazioni"
 
   en:
+    description: "Since 2005 Vinilificio produces vinyl records in single copy, small runs and quantities!"
     make_vinyl: "Make your vinyl"
     info: "Information"
