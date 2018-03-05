@@ -16,7 +16,7 @@ ref: terms-conditions
 ### Acquisto dei servizi
 
 
-**VALIDITA’ DELL’ORDINE:**
+**VALIDITÀ DELL’ORDINE:**
 
 Gli ordini sono da ritenersi validi solo ed esclusivamente a pagamento avvenuto.
 
