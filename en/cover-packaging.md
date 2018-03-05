@@ -18,93 +18,88 @@ lang: en
 ref: packaging
 ---
 
-# Copertine e Packaging
+# Covers and Packaging
 
-### Copertina ad una tasca
-*con costina da 3mm, 5mm e 7mm*
-
-
-![12" cover costina 3mm](/img/Costina3mm_.jpg)
-
-Dimensioni: 7", 10", 12"<br>
-Costina: 3mm (per vinile singolo), 5mm (per vinile doppio), 7mm (per vinile triplo)<br>
-Caratteristiche:<br>
-Le copertine vengono stampate su carta 320 gr.
-
-Finiture:
-
-* Semilucida: la finitura standard
-* Opaca (Inside/out): la stampa viene fatta sul lato grezzo della copertina, in modo tale da ottenere una finutura opaca. La parte grezza del cartoncino ha un grado di assorbimento maggiore dell'inchiostro rispetto alla parte "finita" del cartoncino
-* Verniciature UV: Verniciature lucida
-* Verniciatura Opaca: Verniciatura opaca
-
-Scarica le specifiche:
-
-* <a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/7inch_cover.pdf" target="_blank">copertina 7" con costina da 3mm</a>
-* <a href="https://www.dropbox.com/home/public/TEMPLATES/Specs%20RAND?preview=12inch_cover_1lp_3mm.pdf" target="_blank">copertina 10" con costina da 3mm</a>
-* <a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/12inch_cover_1lp_3mm.pdf" target="_blank">copertina 12" con costina da 3mm</a>
-* <a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/12inch_cover_2lp_5mm.pdf" target="_blank">copertina 12" con costina da 5mm</a>
-* <a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/12inch_cover_3lp_7mm.pdf" target="_blank">copertina 12" con costina da 7mm</a>
+### Cover
+* with 3mm, 5mm and 7mm spine *
 
 
+! [12 "3mm spine cover] (/ img / Costina3mm_.jpg)
 
-### Copertina gatefold
+Dimensions: 7 ", 10", 12 "<br>
+Spine: 3mm (for single vinyl), 5mm (for double vinyl), 7mm (for triple vinyl)
+Features: The covers are printed on paper 320 gr.
 
-![12" gatefold cover](/img/gatefold800px.png)
+Finishes:
 
-Caratteristiche:
-Le copertine vengono stampate su carta 320 gr.
+* Semi-gloss: the standard finish
+* Matt (Inside / out): the printing is done on the rough side of the cover, so as to obtain an matt finish. The rough part of the cardboard has a higher degree of absorption of the ink compared to the "finished" part of the cardboard
+* UV varnishes: glossy varnishes
+* Matt varnishes 
 
-Finiture:
+Download the specifications:
 
-* Semilucida: la finitura standard
-* Opaca (Inside/out): la stampa viene fatta sul lato grezzo della copertina, in modo tale da ottenere una finutura opaca. La parte grezza del cartoncino ha un grado di assorbimento maggiore dell'inchiostro rispetto alla parte "finita" del cartoncino
-* Verniciature UV: Verniciature lucida
-* Verniciatura Opaca: Verniciatura opaca
-
-Scarica le specifiche:
-<a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/12inch_klappcover_7mm.pdf" target="_blank">copertina 12" gatefold</a>
-
-
-### Inserto
-
-
-![12" inserto]()
-
-Caratteristiche:
-Inseto stampato a colori, bianco e nero, fronte retro. L'inserto viene inserito nella copertina con costina da 3mm, 5mm e 7mm, oppure nelle buste in plastica PE o PVC.
-
-Carta:
-
-* 450 g/mq chromo board
-* 300 g/mq recycling cardboard
-* 80 g/mq recycling cardboard
-* 300 g/mq art print paper, matte
-* 170 g/mq art print paper, matte
-* 90 g/mq art print paper, matte
-* 90 g/mq art print paper, glossy
-* 170 g/mq art print paper, glossy
-* 250 g/mq offset paper
-* 150 g/mq offset paper
-* 120 g/mq offset paper
+* <a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/7inch_cover.pdf" target="_blank"> 7mm cover with 3mm spine </a>
+* <a href="https://www.dropbox.com/home/public/TEMPLATES/Specs%20RAND?preview=12inch_cover_1lp_3mm.pdf" target="_blank"> 10 "cover with 3mm spine </a>
+* <a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/12inch_cover_1lp_3mm.pdf" target="_blank"> 12 "cover with 3mm spine </a>
+* <a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/12inch_cover_2lp_5mm.pdf" target="_blank"> 12 "cover with 5mm spine </a>
+* <a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/12inch_cover_3lp_7mm.pdf" target="_blank"> 12 "cover with 7mm spine </a>
 
 
 
-Finiture:
+### Gatefold cover
 
-* Semilucida: la finitura standard
-* Opaca (Inside/out): la stampa viene fatta sul lato grezzo della copertina, in modo tale da ottenere una finutura opaca. La parte grezza del cartoncino ha un grado di assorbimento maggiore dell'inchiostro rispetto alla parte "finita" del cartoncino
-* Verniciature UV: Verniciature lucida
-* Verniciatura Opaca: Verniciatura opaca
+! [12 "gatefold cover] (/ img / gatefold800px.png)
 
-### Busta Interna
+Features: The covers are printed on paper 320 gr.
 
-Le buste interne sono su carta bianca o nera, con foro centrale, con o senza polylined antistatico.
+Finishes:
+
+* Semi-gloss: the standard finish
+* Matt (Inside / out): the printing is done on the rough side of the cover, so as to obtain an opaque finish. The rough part of the cardboard has a higher degree of absorption of the ink compared to the "finished" part of the cardboard
+* UV varnishes: glossy varnishes
+* Opaque varnishes
+
+Download the specifications:
+<a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/12inch_klappcover_7mm.pdf" target="_blank"> cover 12 "gatefold </a>
+
+
+### Inlay
+
+
+! [12 "insert] ()
+
+Features:
+Inlay printed in color, black and white, front/back. The inlay is inserted into the cover with 3mm, 5mm and 7mm ribs, or in PE or PVC plastic bags.
+
+Paper:
+
+* 450 g / sqm chromo board
+* 300 g / sqm recycling cardboard
+* 80 g / sqm recycling cardboard
+* 300 g / sqm art print paper, matte
+* 170 g / sqm art print paper, matte
+* 90 g / sqm art print paper, matte
+* 90 g / sqm art print paper, glossy
+* 170 g / sqm art print paper, glossy
+* 250 g / mq offset paper
+* 150 g / mq offset paper
+* 120 g / mq offset paper
+
+
+
+Finishes:
+
+* Semi-gloss: the standard finish
+* Matt (Inside / out): the printing is done on the rough side of the cover, so as to obtain an opaque finish. The rough part of the cardboard has a higher degree of absorption of the ink compared to the "finished" part of the cardboard
+* UV varnishes: glossy varnishes
+* Matt varnishes
+
+### Internal envelope
+
+The inner envelopes are on white or black paper, with a central hole, with or without antistatic polylined.
 
 
 ### Disco Bag
 
-Le disco bag sono particolarmente indicate per i dj poiché non necessitano di busta interna. Hanno il doppio foro centrale. Sono disponibile su cartoncino nero, bianco o marrone riclato, oppure possono essere stampate.
-
-
-### Lable
+The disc bags are particularly suitable for DJs because they do not require an internal envelope. They have the double central hole. They are available on black, white or brown embossed cardboard, or they can be printed.
