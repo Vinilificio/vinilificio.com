@@ -33,7 +33,7 @@ jobs:
           command: mv _site/robots-dev.txt _site/robots.txt
       - deploy:
           name: Deploy on S3
-          command: ~/.local/bin/aws s3 sync _site s3://$CNAME --region ${AWS_REGION:-eu-west-1} --delete --dryrun
+          command: ~/.local/bin/aws s3 sync _site s3://$CNAME --region ${AWS_REGION:-eu-west-1} --delete
       - deploy:
           name: Create CloudFront invalidation
           command: ~/.local/bin/aws cloudfront create-invalidation --paths '/*' --distribution-id $(~/.local/bin/aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${CNAME}')].Id" --output text)
@@ -51,7 +51,7 @@ jobs:
           at: '.'
       - deploy:
           name: Deploy on S3
-          command: ~/.local/bin/aws s3 sync _site s3://$CNAME --region ${AWS_REGION:-eu-west-1} --delete --dryrun
+          command: ~/.local/bin/aws s3 sync _site s3://$CNAME --region ${AWS_REGION:-eu-west-1} --delete
       - deploy:
           name: Create CloudFront invalidation
           command: ~/.local/bin/aws cloudfront create-invalidation --paths '/*' --distribution-id $(~/.local/bin/aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${CNAME}')].Id" --output text)
