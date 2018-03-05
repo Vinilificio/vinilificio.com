@@ -1,14 +1,33 @@
 
 <head>
-    
+
     {% include base.html %}
 
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ site.title }} {{ page.title }}</title>
     <meta name="description" content="{{ site.locales[page.lang].description }}">
-    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+    {% assign versions=site.pages | where:"ref", page.ref %}
+    {% for version in versions %}
+        {% if version.lang != page.lang %}
+            <link rel="alternate" href="{{site.url}}{{site.baseurl}}{{ version.url }}" hreflang="{{ version.lang }}" />
+        {% endif %}
+    {% endfor %}
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=kPxzx5QXw0">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=kPxzx5QXw0">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=kPxzx5QXw0">
+    <link rel="manifest" href="/site.webmanifest?v=kPxzx5QXw0">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg?v=kPxzx5QXw0" color="#222222">
+    <link rel="shortcut icon" href="/favicon.ico?v=kPxzx5QXw0">
+    <meta name="apple-mobile-web-app-title" content="Vinilificio">
+    <meta name="application-name" content="Vinilificio">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#ffffff">
+
     <link rel="stylesheet" href="{{site.baseurl}}{{base}}css/app.css">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 </head>
