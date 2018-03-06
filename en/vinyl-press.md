@@ -23,20 +23,20 @@ ref: vinyl-press
 
 ### Info
 
-Vinilificio is the authorized dealer of Rand Muzik, leading company in vinyl pressing. Thanks to the ten-year partnership with RAND MUZIK, Vinilificio offers quality services and products in the production of vinyl records.
-We press your vinyls starting from
+Vinilificio is the authorized dealer of RAND MUZIK, the leader in vinyl pressing. Thanks to our ten-year partnership with RAND MUZIK, Vinilificio offers quality services and products for  the production of vinyl records. 
 
+We press your vinyls starting from
 * from 100 copies formats 7" and 12" 140 gr.
 * from 300 copies formats 10" and 12" 180 gr.
 
-We provide black, colored and marbled vinyl records in 7" (standard and big hole), 10" and 12" 140 gr. and 180 g., in addition to printing covers, labels, stickers, inserts and downlad cards.
+We provide black, colored and marbled vinyl records in 7” (standard and big hole), 10” and 12”; 140 gr. and 180 g. We also print covers, labels, stickers, inserts and download cards.
 
-We print cover, sleeves, inlay, labels, stickers all sizes, b/w, full color or special color and varnishing (Pantone, UV, metallici...).
+We print cover, sleeves, inlay, labels, stickers in all sizes and in b/w, full color or special colors and varnishes (Pantone, UV, metallics, etc.).
 
-Abbiamo a cuore la qualità dei tuoi vinili. Per questo grazie al Quality Department controlliamo la qualità della lavorazione ad ogni passaggio produttivo.
-We care about the quality of your vinyl. This is why, thanks to the Quality Department, we control the quality of processing at each production step.
+We care about the quality of your vinyl and our Quality Department controls the process at each production step.
 
-Vinilificio will guide you and advise you on the best choice: cost per copy, quality / volume / duration ratio, prints .... Over ten years experience in the production of vinyl makes Vinilificio the best partner for your productions.
+Vinilificio will guide and advise you on the best choice: cost per copy, quality / volume / duration ratio, prints. Our ten-year experience in vinyl production makes Vinilificio the best choice for you!
+
 
 ### Gallery
 <div class="slideshow">
@@ -56,7 +56,7 @@ Vinilificio will guide you and advise you on the best choice: cost per copy, qua
 
 
 ### Specifications
-Audio per Mastering e transfer su Lacquer disc
+Audio per Mastering e transfer su lacquer disc
 
 ###### Audio Format
 
@@ -72,7 +72,8 @@ WAV, AIFF, FLAC, immagine DDP
 
 ###### De-essing
 
-It is advisable to use a de-esser on vocal tracks with many sibilants.
+It is advisable to use a de-esser on vocal tracks with many sibilants
+
 
 ###### Out of phase and stereo frequencies under 300 hz
 
@@ -86,7 +87,7 @@ Avoid out of phase and stereo signals under 300 hz.
 * 10″ at 45 rpm high volume max. 6 min.
 * 7″ at 45 rpm high volume max. 4 min.
 
-###### Max music length per side and low volume (we recommend to do not reach the duration limits)
+###### Maximum music length per side at low volume (we advise against reaching the duration limits)
 
 
 * 12″ at 33 rpm low volume max. 25 min.
@@ -97,11 +98,11 @@ Avoid out of phase and stereo signals under 300 hz.
 <a href="http://www.randmuzik.de/files/spezifikationen_audio_en_1.pdf" target="_blank">Download or view the PDF with detailed specifications</a>
 
 ### Cover and Packaging
-We can dress your vinyl with covers, disco bags, inner envelopes, lable, printed or neutral stickers on different papers. We supply in addition light or heavy transparent envelopes, shrink wrap, download card.
+We can dress your vinyl with covers, disco bags, inner envelopes, labels, printed or neutral stickers on different papers. In addition, we supply light or heavy transparent envelopes, shrink wrap and download cards.
 <a href="/en/cover-packaging.md">Specifications</a>
 
 ### Quotation
-To request a quote, write to <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>  with the following information:
+To request a estimate, write to <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>  with the following information:
 
 * Quantity
 * Vinyl format
