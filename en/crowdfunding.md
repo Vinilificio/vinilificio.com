@@ -17,7 +17,7 @@ ref: crowdfunding
 ### Info
 
 Want to print your **vinyl** but you don’t have the funds? 
-Vinilificio and [Musicraiser](https://musicraiser.com) have teamed up to make it possible! Musicraiser is the leading **crowdfunding** in Italy, with **over 1,200 projects funded** and four and a half million euros transacted and paid to artists and creators. **Vinilifico**, the official dealer of Rand Muzik, is the service leader in the production of single-copy vinyl, short runs and print quantities. Thanks to the partnership between Vinilificio and Musicraiser, you can start a campaign to **fund your musical project** and receive a **discount of 5%** on vinyl printing! You can launch a campaign to make a record, a tour, or a set to promote your vinyl. If you reach the minimum amount to cover the cost of printing, you can make your **vinyl without risk**!
+Vinilificio and [Musicraiser](https://musicraiser.com){:target="_blank"} have teamed up to make it possible! Musicraiser is the leading **crowdfunding** in Italy, with **over 1,200 projects funded** and four and a half million euros transacted and paid to artists and creators. **Vinilifico**, the official dealer of Rand Muzik, is the service leader in the production of single-copy vinyl, short runs and print quantities. Thanks to the partnership between Vinilificio and Musicraiser, you can start a campaign to **fund your musical project** and receive a **discount of 5%** on vinyl printing! You can launch a campaign to make a record, a tour, or a set to promote your vinyl. If you reach the minimum amount to cover the cost of printing, you can make your **vinyl without risk**!
  <br>
 
 * [Federico Fiumani](https://www.musicraiser.com/it/projects/2723-un-ricordo-che-vale-dieci-lire)
