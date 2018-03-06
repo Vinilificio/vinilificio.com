@@ -93,10 +93,10 @@ Finishes:
 
 ### Inner Sleeve
 
-The inner sleeve are of white or black paper, with a central hole and with or without antistatic polylining.
+The inner sleeve are of white or black paper, with a central hole and with or without antistatic polylining. They also can be printed on and with or without central hole.
 
 
 ### Disco Bag
 
-Disc bags are particularly suited for DJs as they do not require an internal envelope. They have a double central hole and are available in black, white or brown embossed cardboard. They also can be printed on.
+Disc bags are particularly suited for DJs as they do not require an internal envelope. They have a double central hole and are available in black, white or brown cardboard. They also can be printed on.
 
