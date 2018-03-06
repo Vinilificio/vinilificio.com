@@ -22,12 +22,11 @@ ref: cover-packaging
 * with 3mm, 5mm and 7mm spine *
 
 
-! [12 "3mm spine cover] (/img/Costina3mm_.jpg)
+![12 "3mm spine cover](/img/Costina3mm_.jpg)
 
 Dimensions: 7 ", 10", 12 "<br>
 Spine: 3mm (for single vinyl), 5mm (for double vinyl), 7mm (for triple vinyl)
 Features: The covers are printed on 320 gr paper .
-
 
 Finishes:
 
@@ -35,7 +34,6 @@ Finishes:
 * Matt (inside/out):  printed on the rough side of the cover to obtain a matt finish. The rough side has a higher degree of ink absorption o compared to the "finished" side
 * UV varnishes: glossy varnishes
 * Matt varnishes 
-
 
 Download the specifications:
 
@@ -49,7 +47,7 @@ Download the specifications:
 
 ### Gatefold cover
 
-! [12 "gatefold cover] (/img/gatefold800px.png)
+![12 "gatefold cover](/img/gatefold800px.png)
 
 Features: The covers are printed on 320 gr paper 
 
@@ -66,7 +64,6 @@ Download the specifications:
 
 
 ### Inlay
-
 
 Features:
 Inlay printed in color, black and white, front/back. The inlay is inserted into the cover with 3mm, 5mm and 7mm ribs, or in PE or PVC plastic bags.
@@ -86,7 +83,6 @@ Paper:
 * 120 g / mq offset paper
 
 
-
 Finishes:
 
 * Semi-gloss:  standard finish
@@ -95,9 +91,9 @@ Finishes:
 * Matt varnishes
 
 
-### Internal envelope
+### Inner Sleeve
 
-The inner envelopes are of  white or black paper, with a central hole and with or without antistatic polylining.
+The inner sleeve are of white or black paper, with a central hole and with or without antistatic polylining.
 
 
 ### Disco Bag
