@@ -5,8 +5,8 @@ index: 3
 menu:
 - titolo: Audio Transfer
   id: audio-transfer-in-single-copy
-- titolo: Advantages of the audio transfer on vinyl
-  id: advantages-of-the-audio-transfer-on_vinyl
+- titolo: Advantages of the transfer to vinyl
+  id: advantages-of-the-transfer-to-vinyl
 - titolo: Audio transfer on lacquer disc
   id: audio-transfer-on-lacquer-disc
 - titolo: Difference between printed vinyl and engraved vinyl
@@ -77,7 +77,7 @@ Video: <a target="blank" href="http://youtu.be/xUGRRUecBik"> pt.1 http://youtu.b
 <a target="blank" href="http://youtu.be/IReDh9ec_rk">pt.2 http://youtu.be/IReDh9ec_rk</a>
 
 ### Test pressing
-Test pressings are usually produced before going to press. The test pressings simply a printing test run, produced in a few copies (numbers may vary depending on the printing house) to verify that the product does not present any production defects. It is important to know that the test pressing produced is a printed vinyl exactly like the ones that will be produced in series afterwards. Therefore, if there are defects it is necessary to restart the entire production from the beginning.It is important not to confuse the test pressingwith the audio transfer onto vinyl. These are two different processes s with different functions. To learn more, see [How a vinyl is industrially produced] (/ faq / # come-comes-industrially-a-vinyl)
+Test pressings are usually produced before going to press. The test pressings simply a printing test run, produced in a few copies (numbers may vary depending on the printing house) to verify that the product does not present any production defects. It is important to know that the test pressing produced is a printed vinyl exactly like the ones that will be produced in series afterwards. Therefore, if there are defects it is necessary to restart the entire production from the beginning.It is important not to confuse the test pressingwith the audio transfer onto vinyl. These are two different processes s with different functions. To learn more, see [How a vinyl is industrially produced](/en/faq/how-a-vinyl-is-produced-industrially)
 
 ### Why the test pressing
 The test pressings  important for verifying the quality of the matrices that will be used to produce the vinyl. The test pressing, being a real printed vinyl, allows for the identification of defects such as tip jumps, excessive noise, closing the groove at the end of the stroke and so on. If the test pressing manifests real problems, it will be necessary to proceed with the production of the matrices (1-3) and carry out new test pressings.
