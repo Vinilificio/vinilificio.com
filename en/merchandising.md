@@ -29,8 +29,8 @@ You can take your Vinilificio Slipmat by making an order of custom vinyls of at 
 ### T Shirt
 ![T Shirt](/img/vinilificio-tshirt_web (1).jpg)
 
-To celebrate Vinilificio's first 10 years, Paperesistance has created an exclusive artwork entitled "Vinilificio: The Science of Vinyl Since 2005".
-With this art we made t-shirts and tote bags.
+To celebrate Vinilificio’s first 10 years, Paperesistance has created an exclusive artwork titled “Vinilificio: The Science of Vinyl Since 2005”.
+With this art we made T-shirts and tote bags.
 
 T-shirt € 17.00
 
@@ -39,9 +39,8 @@ You can request your t-shirt (S, M, L, XL) and your tote bag by writing to info@
 
 ### Tote Bag
 ![Tote Bag](/img/vinilificio-bag_web (1).jpg)
-
-To celebrate Vinilificio's first 10 years, Paperesistance has created an exclusive artwork titled "Vinilificio: The Science of Vinyl Sicne 2005".
-With this art we made t-shirts and tote bags.
+To celebrate Vinilificio’s first 10 years, Paperesistance has created an exclusive artwork titled “Vinilificio: The Science of Vinyl Since 2005”.
+With this art we made T-shirts and tote bags.
 
 Tote Bag € 7.00
 
