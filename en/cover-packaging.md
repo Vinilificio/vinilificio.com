@@ -15,7 +15,7 @@ menu:
 - titolo: Lable
   id: label
 lang: en
-ref: packaging
+ref: cover-packaging
 ---
 
 # Covers and Packaging
