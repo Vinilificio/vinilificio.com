@@ -14,7 +14,7 @@ ref: credit
 
 ### Credits
 * Scatti e concetto delle quattro foto degli slideshow di vinilificio.com a cura di Gabriele Guarisco e Vinilificio.
-* Le altre foto presenti sul sito fanno parte dell'archivio di Vinilificio, ad eccezione della foto del disco dei "Confrontational" pubblicato dalla Bronson Recordings
+* Le altre foto presenti sul sito fanno parte dell'archivio di Vinilificio, ad eccezione della foto del disco dei "Confrontational" pubblicato dalla Bronson Recordings, designed by Branca Studio, foto by Eleonora Rapezzi ** AA.VV “Pinky Violence” Tava Tava Records
 * Tutti testi presenti nel sito sono a cura di Vinilificio.
 
 ### Copyrights
