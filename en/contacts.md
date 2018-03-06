@@ -1,8 +1,8 @@
 ---
-title: Contatti
+title: Contacts
 index: 2
 lang: en
-ref: contact
+ref: contacts
 ---
 
 Vinilificio<br>
