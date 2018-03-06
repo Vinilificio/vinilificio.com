@@ -21,9 +21,9 @@ ref: cassette
 
 ### Info
 
-Do you remember the old audio cassette tape? Yes, the one you can listen in your walkman, in your ghetto blaster or in the car?
+Remember the old school audio cassette tape? The one you played in your walkman, your ghettoblaster or in the car?
 
-Vinilificio produces your audio cassette series (over 50 copies). We provide full customized cassette including: printed cassette 1c, inlay 4c (0 flap, 1 flap, 2 flap), slipcase 4c, sticky blank labels for cassette on A4 sheet. Our options include ferro and chromo tape (only for blank tape). You can check here [the cassette color](/img/Cassettes%20colors%20Vinilificio.pdf) and [the snapbox color](/img/Snap%20box%20Vinilificio.pdf). It may happen that more color could be available, or some color not available.
+Vinilificio can produce your audio cassette series (over 50 copies). We provide full customized cassettes including: printed cassette 1c, inlay 4c (0 flap, 1 flap, 2 flap), slipcase 4c, sticky blank labels for cassettes on A4 sheet. Our options include ferro and chrome tape (only for blank tape). You can check [the cassette color](/img/Cassettes%20colors%20Vinilificio.pdf) and [the snapbox color](/img/Snap%20box%20Vinilificio.pdf). Some colors may be more available than others.
 
 ### Specifications
 
@@ -36,8 +36,7 @@ Artwork for inlay correct
 
 * Created 3 mm bleed
 * CMYK data
-* Safety zone of 2 mm between text/vital information
-and cut
+* Safety zone of 2mm between text/vital information and cut
 
 Artwork for imprint correct
 
@@ -46,8 +45,7 @@ Artwork for imprint correct
 * Pixel data: grayscale or bitmap
 
 ### Quotation
-
-In order to process a quote, the following information is required:
+In order to process an estimate, the following information is required:
 
 * duration of the master
 * With or wihtout the print on the cassette
