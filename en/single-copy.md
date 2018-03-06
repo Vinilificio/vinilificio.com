@@ -21,22 +21,20 @@ ref: single-copy
 
 ### Info
 
-Since 2005, Vinilificio has been transferring your music onto single copies of real vinyl records at 33, 45, and 78 rpm, in different formats, and on black, transparent or picture discs. Quality, high volume, stable and deep grooves, stereo and mono. Vinilificio’s vinyls, particularly suitable for heavy uses such as scratching and backspin, are also excellent for hi-fi stereo, portable record player and jukebox listening. The sound quality and wear are identical to standard records. Vinyls are available in 5”, 7”,10” and12” formats on black, transparent and picture disc.
+Since 2005, Vinilificio has been transferring your music onto single copies of authentic vinyl records at 33, 45, and 78 rpm, in different formats, and on black, transparent and picture discs. Quality, high volume, stable and deep grooves, stereo and mono. Vinilificio’s vinyls are particularly suitable for heavy uses such as scratching and backspin. They are also excellent for hi-fi stereo, portable record player and jukebox listening. The sound quality and wear are identical to standard records. Vinyls are available in 5”, 7”,10” and 12” formats on black, transparent and picture disc.
 
 ### Single copy and small run
 
-We make your vinyl in single copy, some units or [small runs](/small-run/).
-With the Vinilificio App you can calculate the cost of your order, simulate your vinyl, upload the audio, create your own artwork and place your order.
+We can make your vinyl in a single copy, limited units or [small runs](/small-run/).
+With the Vinilificio app you can calculate the cost of your order, simulate your vinyl, upload the audio, create your own artwork and place your order.
 
 ### Custom print cover and label
 
-We print in single copy (or in small runs) labels and covers in all formats, for single, double or triple vinyl record, single pocket or gatefold vinyl. Have fun with the [Vinilificio App](https://app.vinilificio.com/), create easily your own graphics and order your vinyl. If you are famliar with graphic design, ask for specifications and templates to create the graphics of your cover and label.
-
-### Audio
+We print single copy (or small run) labels and covers in all formats, for single, double or triple vinyl records, single pocket or gatefold vinyl. Have fun with the [Vinilificio App](https://app.vinilificio.com/), easily create your own graphic design and order your vinyl. If you are familiar with design, ask for specifications and templates to create your cover and label.
 
 #### How much music can you record on vinyl?
 
-On vinyl the amount of music engraved on each side determines the volume of the recorded signal.
+The amount of music engraved onto each side of a vinyl disc determines the volume of the recorded signal.
 
 The groove of the vinyl record takes up more space when engraved at high volume, while it takes up less space when etched at low volume.
 
@@ -54,12 +52,14 @@ The best quality-quantity proportion is:
 * 7″ to 45 rpm at high volume max. 4 min.
 
 
-Quality-quantity proportion for 12″ 33 rpm:
+Quality-quantity ratio for 12″ 33 rpm:
 
-* over 12 min. each side   ->     high volume
+* over 12 min. each side -> high volume
 * 12 / 15 min. each side   ->     middle  high volume
-* 15 / 20 min. each side   ->     middle  low volume
-* less then 20 min. each side  (max. 25 minutes)      ->     low volume
+* 12 / 15 min. each side -> middle high volume
+* 15 / 20 min. each side -> middle low volume
+* more than 20 min. each side (max. 25 minutes) -> low volume
+
 
 *Standard formats*
 
@@ -69,32 +69,34 @@ Quality-quantity proportion for 12″ 33 rpm:
 
 ![infographic vinili formati standard](/img/inphografic-vinyl-special-format-en.png)
 
-#### Audio files and some important advice
-You can record on vinyl more or less any type of audio signal. To have a good quality, however, it is suggested to follow some important indications.
+#### Audio files and important advice
+You can record more or less any type of audio signal on vinyl. However, to ensure high quality, we suggest following these important indications.
 
-Remember that the quality of the audio master will be better, the better the quality of the vinyl engraving will be.
+Remember that the better the quality of the audio master, the better the quality of the vinyl engraving will be.
 
-We can transfer on vinyl any audio file i.e. wav, aiff, flac, mp3...
+We can transfer any audio file i.e. wav, aiff, flac, mp3 etc. on vinyl.
 
 **Low freqeunces:**
 
-* Frequencies below 20 Hz can create resonance problems.
-* In order to avoid out of phase with consequent interruptions of the groove and therefore the jump of the needle, it is advisable to keep MONO frequencies below 300 hz.
-* Avoid out of phase if you do not have a thorough mastering knowledge. To check if there are any out of phase use a "correlation meter" present almost all audio programs.
+* Frequencies below 20 Hz can create resonance problems
+* In order to avoid out of phase signals with consequent groove interruptions and hence, needle-jumping, it is advisable to keep MONO frequencies below 300 Hz
+* Avoid out of phase signals if you do not have thorough mastering knowledge. To check if there are any out of phase signals use a “correlation meter” available in almost all audio programs.
+
 
 **High frequences:**
 
-* De-esser: It is recommended to use a de-esser on the voices and in general on the sibilants
-* It is not possible to record frequencies above 14/15 Khz at very high volumes
-* For a better risultato we recommend placing the tracks with higher frequencies at the beginning of the vinyl.
+* De-esser: We recommend using a de-esser on all voices and on all sibilants in general
+* Frequencies above 14/15 kHz at very high volumes cannot be recorded
+* For best results,  we recommend placing the tracks with higher frequencies at the beginning of the vinyl
+
 
 **Do you want to know more?** 
 
-[Take a look here](http://www.randmuzik.de/files/spezifikationen_audio_en_1.pdf)
+[Look here](http://www.randmuzik.de/files/spezifikationen_audio_en_1.pdf)
 
-**You do not understand anything about audio mastering and do not know how to do it?** 
+**Know nothing about audio mastering and don’t know what to do?** 
 
-We take care of your mastering. Contact us for costs and information.
+We can take care of your mastering. Contact us for information or [look here](/en/mastering/)
 
 ### Order your vinyl
 
