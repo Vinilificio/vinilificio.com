@@ -32,6 +32,8 @@ With the Vinilificio app you can calculate the cost of your order, simulate your
 
 We print single copy (or small run) labels and covers in all formats, for single, double or triple vinyl records, single pocket or gatefold vinyl. Have fun with the [Vinilificio App](https://app.vinilificio.com/), easily create your own graphic design and order your vinyl. If you are familiar with design, ask for specifications and templates to create your cover and label.
 
+### Audio
+
 #### How much music can you record on vinyl?
 
 The amount of music engraved onto each side of a vinyl disc determines the volume of the recorded signal.
