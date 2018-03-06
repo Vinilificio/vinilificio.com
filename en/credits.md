@@ -13,9 +13,12 @@ ref: credit
 ---
 
 ### Credits
-* Shots and concept of the four photos of the vinilificio.com slideshows done by Gabriele Guarisco and Vinilificio.
-* The other photos on the site are part of the Vinilificio archive, with the exception of the photo of the "Confrontational" album published by Bronson Recordings
+* Photographs and image concept of vinilificio.com and slideshows by Gabriele Guarisco and Vinilificio.
+* The other photographs are part of Vinilificio’s archive, with the exception of: 
+** the “Confrontational” album image published by Bronson Recordings, designed by Branca Studio, foto by Eleonora Rapezzi
+** AA.VV "Pinky Violence" Tava Tava Records
 * All texts on this site are written and edited by Vinilificio.
+
 
 ### Copyrights
 All images and texts on www.vinilificio.com are owned by Vinilificio. The partial and total reproduction of any content present on www.vinilificio.com is forbidden.
