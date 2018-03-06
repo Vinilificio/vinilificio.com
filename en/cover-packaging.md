@@ -2,18 +2,16 @@
 title: Cover Packaging
 position: none
 menu:
-- titolo: Copertina
-  id: copertina-ad-una-tasca
-- titolo: Copertina gatefold
-  id: copertina-gatefold
-- titolo: Inserto
-  id: inserto
-- titolo: Busta Interna
-  id: busta-interna
+- titolo: Cover
+  id: cover
+- titolo: Gatefold cover
+  id: gatefold-cover
+- titolo: Inlay
+  id: inlay
+- titolo: Inner sleeve
+  id: inner-sleeve
 - titolo: Disco Bag
   id: disco-bag
-- titolo: Lable
-  id: label
 lang: en
 ref: cover-packaging
 ---
@@ -24,18 +22,20 @@ ref: cover-packaging
 * with 3mm, 5mm and 7mm spine *
 
 
-! [12 "3mm spine cover] (/ img / Costina3mm_.jpg)
+! [12 "3mm spine cover] (/img/Costina3mm_.jpg)
 
 Dimensions: 7 ", 10", 12 "<br>
 Spine: 3mm (for single vinyl), 5mm (for double vinyl), 7mm (for triple vinyl)
-Features: The covers are printed on paper 320 gr.
+Features: The covers are printed on 320 gr paper .
+
 
 Finishes:
 
-* Semi-gloss: the standard finish
-* Matt (Inside / out): the printing is done on the rough side of the cover, so as to obtain an matt finish. The rough part of the cardboard has a higher degree of absorption of the ink compared to the "finished" part of the cardboard
+* Semi-gloss:  standard finish
+* Matt (inside/out):  printed on the rough side of the cover to obtain a matt finish. The rough side has a higher degree of ink absorption o compared to the "finished" side
 * UV varnishes: glossy varnishes
 * Matt varnishes 
+
 
 Download the specifications:
 
@@ -49,16 +49,17 @@ Download the specifications:
 
 ### Gatefold cover
 
-! [12 "gatefold cover] (/ img / gatefold800px.png)
+! [12 "gatefold cover] (/img/gatefold800px.png)
 
-Features: The covers are printed on paper 320 gr.
+Features: The covers are printed on 320 gr paper 
 
 Finishes:
 
-* Semi-gloss: the standard finish
-* Matt (Inside / out): the printing is done on the rough side of the cover, so as to obtain an opaque finish. The rough part of the cardboard has a higher degree of absorption of the ink compared to the "finished" part of the cardboard
+* Semi-gloss:  standard finish
+* Matt (inside/out):  printed on the rough side of the cover to obtain a matt finish. The rough side has a higher degree of ink absorption compared to the "finished" side of the cardboard
 * UV varnishes: glossy varnishes
 * Opaque varnishes
+
 
 Download the specifications:
 <a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/12inch_klappcover_7mm.pdf" target="_blank"> cover 12 "gatefold </a>
@@ -66,8 +67,6 @@ Download the specifications:
 
 ### Inlay
 
-
-! [12 "insert] ()
 
 Features:
 Inlay printed in color, black and white, front/back. The inlay is inserted into the cover with 3mm, 5mm and 7mm ribs, or in PE or PVC plastic bags.
@@ -77,9 +76,9 @@ Paper:
 * 450 g / sqm chromo board
 * 300 g / sqm recycling cardboard
 * 80 g / sqm recycling cardboard
-* 300 g / sqm art print paper, matte
-* 170 g / sqm art print paper, matte
-* 90 g / sqm art print paper, matte
+* 300 g / sqm art print paper, matt
+* 170 g / sqm art print paper, matt
+* 90 g / sqm art print paper, matt
 * 90 g / sqm art print paper, glossy
 * 170 g / sqm art print paper, glossy
 * 250 g / mq offset paper
@@ -90,16 +89,18 @@ Paper:
 
 Finishes:
 
-* Semi-gloss: the standard finish
-* Matt (Inside / out): the printing is done on the rough side of the cover, so as to obtain an opaque finish. The rough part of the cardboard has a higher degree of absorption of the ink compared to the "finished" part of the cardboard
+* Semi-gloss:  standard finish
+* Matt (inside/out):  printed on the rough side of the cover to obtain a matt finish. The rough side has a higher degree of ink absorption compared to the "finished" side of the cardboard
 * UV varnishes: glossy varnishes
 * Matt varnishes
 
+
 ### Internal envelope
 
-The inner envelopes are on white or black paper, with a central hole, with or without antistatic polylined.
+The inner envelopes are of  white or black paper, with a central hole and with or without antistatic polylining.
 
 
 ### Disco Bag
 
-The disc bags are particularly suitable for DJs because they do not require an internal envelope. They have the double central hole. They are available on black, white or brown embossed cardboard, or they can be printed.
+Disc bags are particularly suited for DJs as they do not require an internal envelope. They have a double central hole and are available in black, white or brown embossed cardboard. They also can be printed on.
+
