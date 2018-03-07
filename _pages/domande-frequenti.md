@@ -75,7 +75,7 @@ Video: <a target="blank" href="http://youtu.be/xUGRRUecBik"> pt.1 http://youtu.b
 <a target="blank" href="http://youtu.be/IReDh9ec_rk">pt.2 http://youtu.be/IReDh9ec_rk</a>
 
 ### Il test pressing
-Prima di andare in stampa solitamente si producono i test pressing. Il test pressing non è altro che una prova di stampa, prodotta in poche copie per verificare che il prodotto non presenti difetti di produzione. E’ importante sapere che il test pressing è un vinile stampato ed è esattamente uguale a quelli che saranno prodotti successivamente in serie. Pertanto, qualora ci siano difetti è necessario ri iniziare l’intera produzione. E’ importante non confondere il test pressing con il transfer audio su vinile. Sono due cose diverse, con funzioni diverse. Per saperne di più consulta [Come viene prodotto industrialmente un vinile](/domande-frequenti//#come-viene-prodotto-industrialmente-un-vinile)
+Prima di andare in stampa solitamente si producono i test pressing. Il test pressing non è altro che una prova di stampa, prodotta in poche copie per verificare che il prodotto non presenti difetti di produzione. E’ importante sapere che il test pressing è un vinile stampato ed è esattamente uguale a quelli che saranno prodotti successivamente in serie. Pertanto, qualora ci siano difetti è necessario ri iniziare l’intera produzione. E’ importante non confondere il test pressing con il transfer audio su vinile. Sono due cose diverse, con funzioni diverse. Per saperne di più consulta [Come viene prodotto industrialmente un vinile](#come-viene-prodotto-industrialmente-un-vinile)
 
 ### A cosa serve il test pressing
 Il test pressing è uno strumento molto importante al fine di verificare la qualità delle matrici che verranno utilizzate per produrre il vinile. Il test pressing essendo un vero e proprio vinile stampato permetterà di stabile se sono presenti difetti come salti di puntina, rumori eccessivi, chiusura del solco a fine corsa e così via. In caso il test pressing presenti reali problemi bisognerà procedere nuovamente con la produzione delle matrici (1-3) ed effettuare nuovi test pressing.
@@ -89,7 +89,7 @@ Il mastering permette innanzi tutto di ottimizzare l’audio prodotto al support
 Prima di andare in stampa assicurati sempre della qualità del tuo master, ascoltalo su diversi impianti e sistemi ed eventualmente, se proprio non sei sicuro fai un transfer audio vinile per avere un test verosimile di quello che potrebbe essere il tuo master su vinile.
 
 ### Glossario
-* Riversamento audio su vinile: [Audio transfer su vinile](/faq/#audio-transfer-in-singola-copia)
+* Riversamento audio su vinile: [Audio transfer su vinile](#audio-transfer-in-singola-copia)
 * 7″: vinile con diametro cm 17,78 noto anche come 45 giri o singolo
 * 10″: vinile con diametro cm 25,4 noto anche come EP
 * 12″: vinile con diametro cm 30,48 noto anche come 33 giri o LP

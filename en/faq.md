@@ -77,7 +77,7 @@ Video: <a target="blank" href="http://youtu.be/xUGRRUecBik"> pt.1 http://youtu.b
 <a target="blank" href="http://youtu.be/IReDh9ec_rk">pt.2 http://youtu.be/IReDh9ec_rk</a>
 
 ### Test pressing
-Test pressings are usually produced before going to press. The test pressings simply a printing test run, produced in a few copies (numbers may vary depending on the printing house) to verify that the product does not present any production defects. It is important to know that the test pressing produced is a printed vinyl exactly like the ones that will be produced in series afterwards. Therefore, if there are defects it is necessary to restart the entire production from the beginning.It is important not to confuse the test pressingwith the audio transfer onto vinyl. These are two different processes s with different functions. To learn more, see [How a vinyl is industrially produced](/en/faq/how-a-vinyl-is-produced-industrially)
+Test pressings are usually produced before going to press. The test pressings simply a printing test run, produced in a few copies (numbers may vary depending on the printing house) to verify that the product does not present any production defects. It is important to know that the test pressing produced is a printed vinyl exactly like the ones that will be produced in series afterwards. Therefore, if there are defects it is necessary to restart the entire production from the beginning.It is important not to confuse the test pressingwith the audio transfer onto vinyl. These are two different processes s with different functions. To learn more, see [How a vinyl is industrially produced](#how-a-vinyl-is-produced-industrially)
 
 ### Why the test pressing
 The test pressings  important for verifying the quality of the matrices that will be used to produce the vinyl. The test pressing, being a real printed vinyl, allows for the identification of defects such as tip jumps, excessive noise, closing the groove at the end of the stroke and so on. If the test pressing manifests real problems, it will be necessary to proceed with the production of the matrices (1-3) and carry out new test pressings.
@@ -91,7 +91,7 @@ Mastering allows for the optimization of the audio produced for the support onto
 Before going to print always ensure the quality of your master, listen to it on different systems  and, if you have doubts, make a vinyl audio transfer to test  your master on vinyl.
 
 ### Glossary
-* Audio transfer on vinyl: [Audio transfer on vinyl](/faq/#audio-transfer-in-single-copy)
+* Audio transfer on vinyl: [Audio transfer on vinyl](#audio-transfer-in-single-copy)
 * 7": vinyl disc with 17.78 cm diameter also known as 45 rpm or single
 * 10": vinyl disc with a diameter of 25.4 cm also known as EP
 * 12": vinyl disc with a diameter of 30.48 cm also known as 33 rpm or LP
