@@ -52,23 +52,23 @@ From the aesthetic point of view, the industrially produced vinyl has the typica
 
 Vinyl production in a nutshell:
 
-1 - Audio transfer from the audio master to the lacquer. Two laquers are used to engrave side A and side B. One for each side.
+1. Audio transfer from the audio master to the lacquer. Two laquers are used to engrave side A and side B. One for each side.
 
-2 - Through the processes of silvering and galvanic baths, matrices (positive and negative) are produced from the lacquers. One for each side.
+2. Through the processes of silvering and galvanic baths, matrices (positive and negative) are produced from the lacquers. One for each side.
 
-3 - After having their centres drilled, the negative matrices are cut to size and checked before being used for printing. Positive matrices are used as mother moulds to generate other positive matrices for reprinting.
+3. After having their centres drilled, the negative matrices are cut to size and checked before being used for printing. Positive matrices are used as mother moulds to generate other positive matrices for reprinting.
 
-4 - Test pressings are usually produced before going to press. The test pressingis simply a printing test run produced in a few copies (numbers may vary depending on the printing house) to verify that the product does not present any defects. It is important to know that the test pressingproduces a printed vinyl exactly like the ones that will be produced in series afterwards. Therefore, if there are defects it is necessary to start the entire production from the beginning
+4. Test pressings are usually produced before going to press. The test pressingis simply a printing test run produced in a few copies (numbers may vary depending on the printing house) to verify that the product does not present any defects. It is important to know that the test pressingproduces a printed vinyl exactly like the ones that will be produced in series afterwards. Therefore, if there are defects it is necessary to start the entire production from the beginning
 
-6 - In the meantime, round labels are produced and placed in the center of the vinyl. The labels are printed on a special paper that is resistant to high temperatures.
+6. In the meantime, round labels are produced and placed in the center of the vinyl. The labels are printed on a special paper that is resistant to high temperatures.
 
-7 - Negative matrices, stampers or printers (side A and B) are placed in a press that injects vinyl between the two matrices. High pressure and  temperatures press the vinyl paste. The doily (label or label) is "glued" during the press.
+7. Negative matrices, stampers or printers (side A and B) are placed in a press that injects vinyl between the two matrices. High pressure and  temperatures press the vinyl paste. The doily (label or label) is "glued" during the press.
 
-8 - The vinyl, still in the press, is trimmed to size.
+8. The vinyl, still in the press, is trimmed to size.
 
-9 - After being removed from the press, the vinyl is wrapped in the inner casing and left to cool for approximately 24 hours.
+9. After being removed from the press, the vinyl is wrapped in the inner casing and left to cool for approximately 24 hours.
 
-10 - Some printers automatically insert the vinyl into the case fresh off the press, other printers insert the vinyl in the case after 24 hours.
+10. Some printers automatically insert the vinyl into the case fresh off the press, other printers insert the vinyl in the case after 24 hours.
 
 For a more accurate description:
 
