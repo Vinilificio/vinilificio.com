@@ -37,13 +37,12 @@ Finishes:
 
 Download the specifications:
 
-* <a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/7inch_cover.pdf" target="_blank"> 7mm cover with 3mm spine </a>
-* <a href="https://www.dropbox.com/home/public/TEMPLATES/Specs%20RAND?preview=12inch_cover_1lp_3mm.pdf" target="_blank"> 10 "cover with 3mm spine </a>
-* <a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/12inch_cover_1lp_3mm.pdf" target="_blank"> 12 "cover with 3mm spine </a>
-* <a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/12inch_cover_2lp_5mm.pdf" target="_blank"> 12 "cover with 5mm spine </a>
-* <a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/12inch_cover_3lp_7mm.pdf" target="_blank"> 12 "cover with 7mm spine </a>
 
-
+* <a href="http://www.randmuzik.de/files/7inch_cover.pdf" target="_blank">7mm cover with 3mm spine</a>
+* <a href="http://www.randmuzik.de/files/10inch_cover.pdf" target="_blank">10 "cover with 3mm spine</a>
+* <a href="http://www.randmuzik.de/files/12inch_cover_1lp_3mm.pdf" target="_blank"> 12 "cover with 3mm spine</a>
+* <a href="http://www.randmuzik.de/files/12inch_cover_2lp_5mm.pdf" target="_blank"> 12 "cover with 5mm spine </a>
+* <a href="http://www.randmuzik.de/files/12inch_cover_3lp_7mm.pdf" target="_blank"> 12 "cover with 7mm spine </a>
 
 ### Gatefold cover
 
@@ -94,6 +93,10 @@ Finishes:
 ### Inner Sleeve
 
 The inner sleeve are of white or black paper, with a central hole and with or without antistatic polylining. They also can be printed on and with or without central hole.
+
+Download the specifications:
+* <a href="http://www.randmuzik.de/files/7inch_einleger.pdf" target="_blank">7" inlay</a>
+* <a href="http://www.randmuzik.de/files/12inch_einleger.pdf" target="_blank">12" inlay</a>
 
 
 ### Disco Bag
