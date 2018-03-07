@@ -83,9 +83,6 @@ Scarica le specifiche:
 
 ### Inserto
 
-
-![12" inserto]()
-
 Caratteristiche:
 Inseto stampato a colori, bianco e nero, fronte retro. L'inserto viene inserito nella copertina con costina da 3mm, 5mm e 7mm, oppure nelle buste in plastica PE o PVC.
 
