@@ -287,8 +287,7 @@ p + ul {
         left: 0;
         width: 25rem;
         bottom: 0;
-        padding: 1rem 2rem;
-        background: none;
+        padding: 0.5rem 2rem;
         z-index: $zindexFooter;
     }
 }
@@ -340,8 +339,8 @@ p + ul {
         position: fixed;
         z-index: $zindexSidebar;
         top: 0;
-        bottom: 0;
-        overflow: hidden;
+        bottom: 8.5rem;
+        overflow: auto;
         left: 0;
         width: 25rem;
         padding: 20vh 2rem 0;
