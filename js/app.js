@@ -66,6 +66,13 @@ $(document).ready(function(){
      */
     $(".jsSidebarLink").click(function(evn){
         evn.preventDefault();
+        console.log(this.hash);
+        if(history.pushState) {
+            history.pushState(null, null, this.hash);
+        }
+        else {
+            location.hash = this.hash;
+        }
         $('html,body').scrollTo(this.hash, 250, {offset: -offsetScroll/2});
     });
 
