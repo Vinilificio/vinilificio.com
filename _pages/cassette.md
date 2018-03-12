@@ -20,7 +20,7 @@ ref: cassette
 
 ### Info
 
-Le vecchie cassette, le ricordi ? Quelle che si ascoltavano nel mangianastri, nel ghetto blaster  o nello stereo dell’automobile?
+Le vecchie cassette, le ricordi? Quelle che si ascoltavano nel mangianastri, nel ghetto blaster  o nello stereo dell’automobile?
 
 Il Vinilificio può realizzare a partire da 50 copie le tua audiocassette. Possiamo stampare direttamente sulla cassetta, stampare sull’inserto di carta (0 ante, 1 anta, 2 ante), custodia di cartone stampata o neutra, fogli A4 fustellati per l'etichetta da apporre sulla cassetta. Incidiamo su nastro al ferro. Il nastro al cromo è disponibile solo per le cassette vergini.
 
