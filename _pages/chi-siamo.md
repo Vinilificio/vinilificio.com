@@ -45,7 +45,7 @@ La clientela del Vinilifcio è composta tra gli altri da:
 
 Grazie alla personalizzazione completa del prodotto (grafiche, copertine, centrini…) i vinili del Vinilificio sono un importante e prezioso oggetto per un premio o per un importante regalo in occasione di compleanni, anniversarsi, dichiarazioni di amore…
 
-Il Vinilificio è in oltre parnter e supporter di diversi eventi culturali e musicali tra cui IDA WORLD, IDA ITALY, IDA UK & IRELAND, ORIGINAL CULTURES, DISCO DAYS.
+Il Vinilificio è in oltre parnter e supporter di diversi eventi culturali e musicali tra cui IDA WORLD, IDA ITALY, IDA UK & IRELAND, ORIGINAL CULTURES, DISCO DAYS, SANREMO ROCK.
 
 ### Portfolio
 * [Archeo Recordings](https://www.archeo-recordings.com/){:target="_blank"}
