@@ -48,55 +48,56 @@ Grazie alla personalizzazione completa del prodotto (grafiche, copertine, centri
 Il Vinilificio è in oltre parnter e supporter di diversi eventi culturali e musicali tra cui IDA WORLD, IDA ITALY, IDA UK & IRELAND, ORIGINAL CULTURES, DISCO DAYS.
 
 ### Portfolio
-* Archeo Recordings
-* Avant Records
-* Bassplate Records
+* [Archeo Recordings](https://www.archeo-recordings.com/){:target="_blank"}
+* [Avant Records](http://www.avantrecords.com/){:target="_blank"}
+* [Bassplate Records](http://www.bassplaterecords.net/){:target="_blank"}
 * BL MUSIC
-* Bronson Recordings
-* BUREAU BETAK Paris
+* [Bronson Recordings](http://bronsonrecordings.com/){:target="_blank"}
+* [BUREAU BETAK Paris](http://www.bureaubetak.com/){:target="_blank"}
 * Chiara Fumai
-* Disco Days
-* Dj Rocca &  Obsolete Capitalism
-* Dualismo
-* Fabrizio Paterlini
-* Fuse
+* [Disco Days](http://www.discodays.it/){:target="_blank"}
+* [Dj Rocca &  Obsolete Capitalism](https://obsoletecapitalismsoundsystem.bandcamp.com){:target="_blank"}
+* [Dualismo](http://dualismosound.bigcartel.com/){:target="_blank"}
+* [Fabrizio Paterlini](http://www.fabriziopaterlini.com/){:target="_blank"}
+* [Fuse](http://fuseworks.it/){:target="_blank"}
 * Hard rock Cafe Venezia
-* Holydays Records
-* I Miei Vinili (Sky Uno)
-* IDA World Championship
+* [Holidays Records](http://www.holidaysrecords.it/){:target="_blank"}
+* [I Miei Vinili (Sky Uno) - stagione 1](https://skygo.sky.it/ondemand/canali/sky-uno/i-miei-vinili-stag.1/73419.shtml){:target="_blank"}
+* [I Miei Vinili (Sky Uno) - stagione 2](https://skygo.sky.it/ondemand/dettaglio/i-miei-vinili-s2/89495.shtml){:target="_blank"}
+* [IDA World Championship](http://www.idaworld.org/){:target="_blank"}
 * Il Suono del Rumore
 * Inextinguishable Fire
 * Jeep
 * Kernel Panik
-* Khalab
-* Khalisa Records
+* [Khalab](https://www.facebook.com/djkhalab/){:target="_blank"}
+* [Khalisa Dischi](https://www.facebook.com/KhalisaDischi/){:target="_blank"}
 * Land of Dance Records
-* Lúa Coderch
-* Malintenti Dischi
-* Maple Death Records
-* Marangoni Spettacolo
+* [Lúa Coderch](http://luacoderch.com/){:target="_blank"}
+* [Malintenti Dischi](http://www.malintenti.it/){:target="_blank"}
+* [Maple Death Records](http://www.mapledeathrecords.com/){:target="_blank"}
+* [Marangoni Spettacolo](http://www.marangonispettacolo.it/){:target="_blank"}
 * Motus
-* Museo y Circuito Fernando Alonso
-* Music Architecture
-* Musica e Parole
+* [Museo y Circuito Fernando Alonso](http://www.fernandoalonso.com/museo/){:target="_blank"}
+* [Music Architecture](http://www.musicarchitecture.com/){:target="_blank"}
+* [Musica e Parole](https://www.musicaeparole.com/){:target="_blank"}
 * New Interplanetary Melodies
-* Numa Crew
-* OOH-sounds
-* Original Cultures
-* Raffaello Sanzio
-* Ragnar Kiartanson
-* Ribess Records
-* Root of Underground
-* Sangue Dischi
-* Schleifmühlgasse 12-14
-* Slam Jam
-* Studio Cromie
-* Tava Tava
-* Twelve Notes
-* What Ever Not
-* WWNBB collective
-* Yerevan Tape
-* Sound Vintage Jukebox
+* [Numa Crew](http://www.numacrew.com/){:target="_blank"}
+* [OOH-sounds](http://www.ooh-sounds.com/){:target="_blank"}
+* [Original Cultures](https://originalcultures.bandcamp.com/){:target="_blank"}
+* [Societas Raffaello Sanzio](http://www.societas.es/){:target="_blank"}
+* Ragnar Kjartansson
+* [Ribess Records](http://www.ribessrecords.it/){:target="_blank"}
+* [Root of Underground](https://rootsundergroundrecords.bandcamp.com/){:target="_blank"}
+* [Sangue Dischi](https://sanguedischi.com/){:target="_blank"}
+* [Schleifmühlgasse 12-14](http://12-14.org/){:target="_blank"}
+* [Slam Jam](https://www.slamjamsocialism.com){:target="_blank"}
+* [Studio Cromie])(http://studiocromie.org/){:target="_blank"}
+* [Tava Tava](https://www.facebook.com/bestsoundcollection/){:target="_blank"}
+* [Twelve Notes](http://www.twelve-notes.net/){:target="_blank"}
+* [What Ever Not](https://whatevernotrecords.bandcamp.com/){:target="_blank"}
+* [WWNBB collective](https://www.wwnbb.net/){:target="_blank"}
+* [Yerevan Tape](https://yerevantapes.bandcamp.com/){:target="_blank"}
+* [Sound Vintage Jukebox](https://soundvintagejukebox.wordpress.com/){:target="_blank"}
 
 ### Crediti
 * Scatti e concetto delle quattro foto degli slideshow di vinilificio.com a cura di Gabriele Guarisco e Vinilificio.
