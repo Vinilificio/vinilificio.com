@@ -92,7 +92,7 @@ Evitare controfasi e frequenze in stereo sotto i 300 hz
 * 7″ a 45 rpm a basso volume max. 6 min.
 
 
-[Scarica o guarda il pdf con le specifiche dettagliate](https://www.dropbox.com/s/obs7xpk86frxnor/Specifiche%20Audio%20per%20vinili.pdf?dl=0)
+[Scarica o guarda il pdf con le specifiche dettagliate](https://www.dropbox.com/s/obs7xpk86frxnor/Specifiche%20Audio%20per%20vinili.pdf?dl=0){:target="_blank"}
 
 ### Cover e Packaging
 Possiamo vestire il tuo vinile con copertine, disco bag, buste interne, centrini, adesivi stampati o neutri su diverse carte. Forniamo in oltre buste trasparenti leggere o pesanti, incellofanature, download card.
