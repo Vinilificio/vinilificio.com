@@ -23,6 +23,8 @@ menu:
   id: importanza-del-mastering
 - titolo: Glossario
   id: glossario
+- titolo: Come ordinare il tuo vinile
+  id: come-ordinare-il-tuo-vinile 
 lang: it
 ref: faq
 ---
@@ -100,4 +102,6 @@ Prima di andare in stampa assicurati sempre della qualità del tuo master, ascol
 * Gatefold: Copertina aprile per vinile doppio o singolo
 * Bleed Zone: In grafica abbondanza (vd. Layout delle grafiche)
 
-
+### Come ordinare il tuo vinile
+* Vinile in singola copia o in poche unità: puoi utilizzare la [Vinilificio web app](https://app.vinilificio.com/){:target="_blank"} oppure scrivere un'email a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
+* Per le piccole tirature e la stampa in quantità scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
