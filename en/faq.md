@@ -105,6 +105,6 @@ Before going to print always ensure the quality of your master, listen to it on 
 * Bleed Zone: In abundance graphics (see graphic layout)
 
 ### How to order your vinyl
-* Vinyl in single copy or in a few units: you can use the [Vinilificio web app] (https://app.vinilificio.com/) {: target = "_blank"} or write an email to <a href = "mailto : info@vinilificio.com "> info at vinilificio.com </a>
+* Vinyl in single copy or in a few units: you can use the [Vinilificio web app](https://app.vinilificio.com/){:target="_blank"} or write an email to <a href = "mailto:info@vinilificio.com">info at vinilificio.com</a>
 * For small runs and quantity (over 100 copies), please write to <a href="mailto:info@vinilificio.com"> info at vinilificio.com </a>
 
