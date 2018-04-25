@@ -23,7 +23,7 @@ ref: vinyl-press
 
 ### Info
 
-Vinilificio è concessionario esclusivo per l'Italia di RAND MUZIK, azienda leader nella stampa di vinili. Grazie alla partnership decennale con RAND MUZIK, Vinilificio offre servizi e prodototti di qualità nella produzione di dischi in vinile.
+Vinilificio è concessionario esclusivo per l'Italia di RAND MUZIK, azienda leader nella stampa di vinili. Grazie alla partnership decennale con RAND MUZIK, Vinilificio offre servizi e prodotti di qualità nella produzione di dischi in vinile.
 Stampiamo i tuoi vinili a partire da
 
 * da 100 copie nei formati **7" e 12" 140 gr**.
