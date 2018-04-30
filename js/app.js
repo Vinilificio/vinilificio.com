@@ -66,7 +66,7 @@ $(document).ready(function(){
      */
     $(".jsSidebarLink").click(function(evn){
         evn.preventDefault();
-        console.log(this.hash);
+        //console.log(this.hash);
         if(history.pushState) {
             history.pushState(null, null, this.hash);
         }
@@ -108,7 +108,7 @@ $(document).ready(function(){
     * Logo turn-tableism
     */
     $('.site-header__logo').mouseover(function(){
-        console.log('sdsdsadasdas');
+        //console.log('sdsdsadasdas');
         $('.site-header__logo a').addClass('is-playing');
     });
     $('.site-header__logo').mouseleave(function(){
