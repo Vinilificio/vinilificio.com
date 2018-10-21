@@ -89,13 +89,14 @@ Vinilificio actively supports and is a partner of a number of cultural/musical e
 * [Sangue Dischi](https://sanguedischi.com/){:target="_blank"}
 * [Schleifmühlgasse 12-14](http://12-14.org/){:target="_blank"}
 * [Slam Jam](https://www.slamjamsocialism.com){:target="_blank"}
-* [Studio Cromie])(http://studiocromie.org/){:target="_blank"}
+* [Studio Cromie](http://studiocromie.org/){:target="_blank"}
 * [Tava Tava](https://www.facebook.com/bestsoundcollection/){:target="_blank"}
 * [Twelve Notes](http://www.twelve-notes.net/){:target="_blank"}
 * [What Ever Not](https://whatevernotrecords.bandcamp.com/){:target="_blank"}
 * [WWNBB collective](https://www.wwnbb.net/){:target="_blank"}
 * [Yerevan Tape](https://yerevantapes.bandcamp.com/){:target="_blank"}
 * [Sound Vintage Jukebox](https://soundvintagejukebox.wordpress.com/){:target="_blank"}
+* [DATATEX](http://datatex-italia.com/shop/prodotti-per-la-registrazione-analogica.html){:target="_blank"}
 
 
 ### Credits
