@@ -18,8 +18,8 @@ Mastering price list:
 
 |               | Cost per minute                                                         |
 | ------------- |:-----------------------------------------------------------------------:|
-| Mastering (*) | € 6,00 each minute + € 30,00 setup fee for master less then 40 minutes. |
-| Optimization for vinyl (**)      | € 3,00 each minute + € 30,00 setup fee for master less then 40 minutes. |
+| Mastering (*) | € 6,00 each minute + € 30,00 setup fee for master less then 40 minutes.(+ iva) |
+| Optimization for vinyl (**)      | € 3,00 each minute + € 30,00 setup fee for master less then 40 minutes.(+ iva) |
 
 
 (*) Mastering: Digital and analog/tube mixed paths. Including optimization for vinyl (phase control and correction, de-essing, dynamic correction, etc …).
