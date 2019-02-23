@@ -33,9 +33,7 @@ Con la [App di Vinilificio](https://app.vinilificio.com) in maniera semplice ed 
 
 Stampiamo in singola copia (o in piccole tirature) centrini e copertine in tutti i formati, per vinile singolo, doppio o triplo, a tasca singola o gatefold. Divertiti con la Vinilificio App, crea con facilità le tue grafiche e ordinare il tuo vinile. Se invece te la cavi con la grafica richiedi specifiche e template per realizzare la tua copertina.
 
-Specifiche immagine per centrini e copertina:
-
-Dimensioni e abbondanze: vd. Template
+#### Specifiche immagine per centrini e copertina:
 
 Formato: pdf, tiff, jpg
 
@@ -45,7 +43,7 @@ Metodo: CMYK
 
 Attenzione: 
 
-1) Rasterizzare o rendere tracciati tutti font  
+1) Font: Rasterizzare o rendere tracciati 
 2) Stampa copertina: trattandosi di una stampa in singola copia a plotter i colori potrebbero risultare meno intensi rispetto ad una stampa offset. 
 
 
