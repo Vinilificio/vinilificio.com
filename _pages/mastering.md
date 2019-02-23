@@ -16,14 +16,15 @@ Le nostre tariffe:
 
 |               | Costo al minuto                                                         |
 | ------------- |:-----------------------------------------------------------------------:|
-| Mastering (*) | € 6,00 al minuto + € 30,00 di setup fee per durate minori di 40 minuti. |
-| Ottimizzazione per vinile (**)      | € 3,00 al minuto + € 30,00 di setup fee per durate minori di 40 minuti. |
+| Mastering (*) | € 6,00 al minuto + € 30,00 di setup fee per durate minori di 40 minuti. (+iva)|
+| Ottimizzazione per vinile (**)      | € 3,00 al minuto + € 30,00 di setup fee per durate minori di 40 minuti. (+iva)|
 
 
 
 (*) Mastering: Percorso misto digitale e analogico/valvolare. Inclusa ottimizzazione per vinile (controllo e correzione fasi,  de-essing, correzione dinamiche, etc...)
 
 (**) Ottimizzazione per vinile: Ottimizzazione per vinile (controllo e correzione fasi,  de-essing, correzione dinamiche, etc...)
+
 
 Qualità, cura, competenza, esperienza al giusto prezzo per la massima qualità del tuo audio su vinile.
 
