@@ -44,8 +44,8 @@ Scarica le specifiche:
 
 * <a href="http://www.randmuzik.de/files/7inch_cover.pdf" target="_blank">copertina 7" con costina da 3mm</a>
 * <a href="http://www.randmuzik.de/files/10inch_cover.pdf" target="_blank">copertina 10" con costina da 3mm</a>
-* <a href="http://www.randmuzik.de/files/12inch_cover_1lp_3mm.pdf" target="_blank">copertina 12" con costina da 3mm</a>
-* <a href="http://www.randmuzik.de/files/12inch_cover_2lp_5mm.pdf" target="_blank">copertina 12" con costina da 5mm</a>
+* <a href="https://www.randmuzik.de/files/spinedsleeve_12inch_2019.pdf" target="_blank">copertina 12" con costina da 3mm</a>
+* <a href="https://www.randmuzik.de/files/slipcase_12inch_2019.pdf" target="_blank">copertina 12" con costina da 5mm</a>
 * <a href="http://www.randmuzik.de/files/12inch_cover_3lp_7mm.pdf" target="_blank">copertina 12" con costina da 7mm</a>
 
 
@@ -66,7 +66,7 @@ Finiture:
 
 Scarica le specifiche:
 
-* <a href="http://www.randmuzik.de/files/12inch_klappcover_7mm.pdf" target="_blank">copertina 12" gatefold</a>
+* <a href="https://www.randmuzik.de/files/gatefold_12inch_6mm_2019.pdf" target="_blank">copertina 12" gatefold</a>
 
 ### Buste Esterne
 
@@ -103,7 +103,9 @@ Carta:
 Scarica le specifiche:
 
 * <a href="http://www.randmuzik.de/files/7inch_einleger.pdf" target="_blank">7" inlay</a>
-* <a href="http://www.randmuzik.de/files/12inch_einleger.pdf" target="_blank">12" inlay</a>
+* <a href="https://www.randmuzik.de/files/inlay_12inch_2019.pdf" target="_blank">12" inlay</a>
+* <a href="https://www.randmuzik.de/files/inlay_din_a4_2019.pdf" target="_blank">12" inlay DINA4</a>
+* <a href="https://www.randmuzik.de/files/folder_12inch_2019.pdf" target="_blank">12" folder</a>
 
 Finiture:
 
@@ -132,9 +134,9 @@ Scarica le specifiche:
 
 Scarica le specifiche:
 
-* <a href="http://www.randmuzik.de/files/7inch_sleeve_185x185.pdf" target="_blank">Busta interna 7"</a>
+* <a href="https://www.randmuzik.de/files/innersleeve_7inch_2019.pdf" target="_blank">Busta interna 7"</a>
 * <a href="http://www.randmuzik.de/files/10inch_discosleeve.pdf" target="_blank">Busta interna 10"</a>
-* <a href="http://www.randmuzik.de/files/12inch_discosleeve_1lp.pdf" target="_blank">Busta interna 12"</a>
+* <a href="https://www.randmuzik.de/files/innersleeve_12inch_2019.pdf" target="_blank">Busta interna 12"</a>
 
 
 
@@ -157,9 +159,9 @@ Finiture:
 
 Scarica le specifiche:
 
-* <a href="http://www.randmuzik.de/files/7inch_sleeve_185x185.pdf" target="_blank">Disco Bag 7"</a>
+* <a href="https://www.randmuzik.de/files/discosleeve_7inch_2019.pdf" target="_blank">Disco Bag 7"</a>
 * <a href="http://www.randmuzik.de/files/10inch_discosleeve.pdf" target="_blank">Disco Bag 10"</a>
-* <a href="http://www.randmuzik.de/files/12inch_discosleeve_1lp.pdf" target="_blank">Disco Bag 12"</a>
+* <a href="hhttps://www.randmuzik.de/files/discosleeve_12inch_2019.pdf" target="_blank">Disco Bag 12"</a>
 
 
 ### Label
@@ -168,10 +170,10 @@ La label o centrino è l'etichetta tonda che si trova al centro del vinile. Può
 
 Scarica le specifiche:
 
-* <a href="http://www.randmuzik.de/files/7inch_etikett_label_92mm_grossesml.pdf" target="_blank">Centrino con foro grande per 7"</a>
-* <a href="http://www.randmuzik.de/files/7inch_etikett_label_92mm.pdf" target="_blank">Centrino per 7"</a>
+* <a href="https://www.randmuzik.de/files/label_7inch_km_2019.pdf" target="_blank">Centrino con foro grande per 7"</a>
+* <a href="https://www.randmuzik.de/files/label_7inch_km_2019.pdf" target="_blank">Centrino per 7"</a>
 * <a href="http://www.randmuzik.de/files/10inch_etikett_label.pdf" target="_blank">Centrino per 10"</a>
-* <a href="http://www.randmuzik.de/files/12inch_etikett_label_100mm.pdf" target="_blank">Centrino per 12"</a>
+* <a href="https://www.randmuzik.de/files/label_12inch_2019.pdf" target="_blank">Centrino per 12"</a>
 
 
 
