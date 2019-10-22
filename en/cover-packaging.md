@@ -38,11 +38,9 @@ Finishes:
 Download the specifications:
 
 
-* <a href="http://www.randmuzik.de/files/7inch_cover.pdf" target="_blank">7mm cover with 3mm spine</a>
-* <a href="http://www.randmuzik.de/files/10inch_cover.pdf" target="_blank">10 "cover with 3mm spine</a>
-* <a href="http://www.randmuzik.de/files/12inch_cover_1lp_3mm.pdf" target="_blank"> 12 "cover with 3mm spine</a>
-* <a href="http://www.randmuzik.de/files/12inch_cover_2lp_5mm.pdf" target="_blank"> 12 "cover with 5mm spine </a>
-* <a href="http://www.randmuzik.de/files/12inch_cover_3lp_7mm.pdf" target="_blank"> 12 "cover with 7mm spine </a>
+* <a href="http://www.randmuzik.de/media/7inch_cover.pdf" target="_blank">7mm cover with 3mm spine</a>
+* <a href="http://www.randmuzik.de/media/12inch_cover_1lp_3mm.pdf" target="_blank"> 12 "cover with 3mm spine</a>
+* <a href="http://www.randmuzik.de/media/12inch_cover_2lp_5mm.pdf" target="_blank"> 12 "cover 2LP </a>
 
 ### Gatefold cover
 
@@ -59,7 +57,7 @@ Finishes:
 
 
 Download the specifications:
-<a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/12inch_klappcover_7mm.pdf" target="_blank"> cover 12 "gatefold </a>
+<a href="https://www.randmuzik.de/media/gatefold_12inch_6mm_2019.pdf" target="_blank"> cover 12 "gatefold </a>
 
 
 ### Inlay
@@ -95,11 +93,25 @@ Finishes:
 The inner sleeve are of white or black paper, with a central hole and with or without antistatic polylining. They also can be printed on and with or without central hole.
 
 Download the specifications:
-* <a href="http://www.randmuzik.de/files/7inch_einleger.pdf" target="_blank">7" inlay</a>
-* <a href="http://www.randmuzik.de/files/12inch_einleger.pdf" target="_blank">12" inlay</a>
+* <a href="http://www.randmuzik.de/media/7inch_einleger.pdf" target="_blank">7" inlay</a>
+* <a href="http://www.randmuzik.de/media/12inch_einleger.pdf" target="_blank">12" inlay</a>
 
 
 ### Disco Bag
 
 Disc bags are particularly suited for DJs as they do not require an internal envelope. They have a double central hole and are available in black, white or brown cardboard. They also can be printed on.
 
+Download the specifications:
+
+* <a href="https://www.randmuzik.de/media/discosleeve_7inch_2019.pdf" target="_blank">Disco Bag 7"</a>
+* <a href="https://www.randmuzik.de/media/discosleeve_12inch_2019.pdf" target="_blank">Disco Bag 12"</a>
+
+### Label
+
+The label is the round label located in the center of the vinyl. It can be neutral (white or black) or printed in one color, four-color and with special colors.
+
+Download the specifications:
+
+* <a href="https://www.randmuzik.de/media/label_7inch_km_2019.pdf" target="_blank">LABELS 7" (92 MM, SMALL CENTER HOLE)</a>
+* <a href="https://www.randmuzik.de/media/label_7inch_km_2019.pdf" target="_blank">LABEL 7" (92 MM, LARGE CENTER HOLE)</a>
+* <a href="https://www.randmuzik.de/media/label_12inch_2019.pdf" target="_blank">LABEL 12" (100 MM)</a>
