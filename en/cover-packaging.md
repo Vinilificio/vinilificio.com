@@ -38,9 +38,9 @@ Finishes:
 Download the specifications:
 
 
-* <a href="http://www.randmuzik.de/media/7inch_cover.pdf" target="_blank">7mm cover with 3mm spine</a>
-* <a href="http://www.randmuzik.de/media/12inch_cover_1lp_3mm.pdf" target="_blank"> 12 "cover with 3mm spine</a>
-* <a href="http://www.randmuzik.de/media/12inch_cover_2lp_5mm.pdf" target="_blank"> 12 "cover 2LP </a>
+* <a href="https://www.randmuzik.de/media/spinedsleeve_7inch_2019_1.pdf" target="_blank">7mm cover with 3mm spine</a>
+* <a href="https://www.randmuzik.de/media/spinedsleeve_12inch_2019.pdf" target="_blank"> 12 "cover with 3mm spine</a>
+* <a href="https://www.randmuzik.de/media/slipcase_12inch_2019.pdf" target="_blank"> 12 "cover 2LP </a>
 
 ### Gatefold cover
 
@@ -93,8 +93,8 @@ Finishes:
 The inner sleeve are of white or black paper, with a central hole and with or without antistatic polylining. They also can be printed on and with or without central hole.
 
 Download the specifications:
-* <a href="http://www.randmuzik.de/media/7inch_einleger.pdf" target="_blank">7" inlay</a>
-* <a href="http://www.randmuzik.de/media/12inch_einleger.pdf" target="_blank">12" inlay</a>
+* <a href="https://www.randmuzik.de/media/innersleeve_7inch_2019.pdf" target="_blank">7" inlay</a>
+* <a href="https://www.randmuzik.de/media/innersleeve_12inch_2019.pdf" target="_blank">12" inlay</a>
 
 
 ### Disco Bag
