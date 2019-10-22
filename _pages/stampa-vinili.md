@@ -24,11 +24,14 @@ ref: vinyl-press
 ### Info
 
 Vinilificio è concessionario esclusivo per l'Italia di RAND MUZIK, azienda leader nella stampa di vinili. Grazie alla partnership decennale con RAND MUZIK, Vinilificio offre servizi e prodotti di qualità nella produzione di dischi in vinile.
+
 Stampiamo i tuoi vinili a partire da
 
 * da 100 copie nei formati **7", 12" 140 gr e" 180 gr**.
 
 Stampiamo vinili neri, colorati e marmorizzati nei formati 7" (foro standard e grande) e 12" 140 gr. e 180 g., oltre alla stampa di copertine, centrini, adesivi, inserti e downlad card.
+
+(https://www.dropbox.com/s/cek5a9rnh02njxt/mustervinylfarben_samplesvinylcolors_highres.pdf?dl=0) [Questi i colori disponibili - Rand Muzik]
 
 Stampiamo copertine buste, inserti, centrini, sticker adesivi, in tutti i formati, in bianco e nero, a colori o con colori speciali (Pantone, UV, metallici...).
 
