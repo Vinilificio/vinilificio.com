@@ -25,8 +25,7 @@ ref: vinyl-press
 
 Vinilificio is the authorized dealer of RAND MUZIK, the leader in vinyl pressing. Thanks to our ten-year partnership with RAND MUZIK, Vinilificio offers quality services and products for  the production of vinyl records. 
 
-We press your vinyls starting from
-* from 100 copies formats **7" and 12" 140 gr and 180 gr.**
+We press your vinyl starting from 100 copies in the following formats: **7" and 12" 140 gr and 180 gr.**
 
 We provide black, colored and marbled vinyl records in 7” (standard and big hole), 12”; 140 gr. and 180 g. We also print covers, labels, stickers, inserts and download cards.
 
