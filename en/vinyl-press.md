@@ -95,7 +95,7 @@ Avoid out of phase and stereo signals under 300 hz.
 * 7″ at 45 rpm low volume max. 6 min.
 
 
-<a href="http://www.randmuzik.de/files/spezifikationen_audio_en_1.pdf" target="_blank">Download or view the PDF with detailed specifications</a>
+<a href="https://www.randmuzik.de/media/audio_specification_en_1.pdf" target="_blank">Download or view the PDF with detailed specifications</a>
 
 ### Cover and Packaging
 We can dress your vinyl with covers, disco bags, inner envelopes, labels, printed or neutral stickers on different papers. In addition, we supply light or heavy transparent envelopes, shrink wrap and download cards.
