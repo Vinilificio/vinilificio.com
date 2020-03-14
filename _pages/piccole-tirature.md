@@ -30,7 +30,10 @@ I vinili sono forniti con  etichetta bianca + busta interna bianca polylined + c
 
 La stampa dei centrini è di € 2,00 a vinile.
 
-Tempi di lavorazione: 15/20 giorni lavorativi
+Stampiamo le copertine anche per le piccole quantità. Contattaci per un preventivo.
+
+Tempi di lavorazione: in media 15/20 giorni lavorativi. 
+Le tempistiche potrebbero variare a seconda del periodo. Contattaci per maggiori informazioni.
 
 (*) Spese di spedizione (per l’Italia) e IVA 22% incluse
 
