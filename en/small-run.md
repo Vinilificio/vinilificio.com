@@ -30,7 +30,9 @@ All vinyl records are supplied with white label + white polylined inner envelope
 
 Label printing costs € 2.00 per vinyl.
 
-Processing time is between 15 and 20 working days
+Printed cover, available for 12". Contact us for further information.
+
+Normnally the processing time is between 15 and 20 working days. In some moments of the year the processing time could vary. Contact us for further information.  
 
 (*) Shipping costs (for Italy) and 22% VAT  included
 
