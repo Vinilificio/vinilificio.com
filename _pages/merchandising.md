@@ -20,7 +20,8 @@ ref: merchandising
 
 ![T Shirt](/img/T-SHIRT-GREY.jpg)
 
-(/img/T-SHIRT-CREAM.jpg)
+![T Shirt](/img/T-SHIRT-CREAM.jpg)
+
 Con la t-shirt "BY ALL SIZE NECESSARY" concept e design di Paperesistance, Vinilificio festeggia i sui primi 15 anni.
 
 T-Shirt € 15,00
@@ -28,7 +29,7 @@ T-Shirt € 15,00
 Puoi richiedere la tua t-shirt (S,M,L,XL,XXL) e la tua tote bag scrivendo a info@vinilificio.com
 
 
-(/img/vinilificio-tshirt_web (1).jpg)
+![T Shirt](/img/vinilificio-tshirt_web (1).jpg)
 
 Per celeberare i primi 10 anni di Vinilificio, Paperesistance ha realizzato un artwork esclusivo dal titolo “Vinilificio: The Science of Vinyl Sicne 2005”.
 Con quest’artwork abbiamo realizzato le t-shirt e le tote bag.
