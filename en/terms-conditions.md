@@ -42,7 +42,7 @@ Over or under deliveries up to 10 % are to be accepted by the Customer. They wil
 
 Any changes of the running order will be charged with a administrative fee of 30,00€
 
-Terms and Conditions for the vinyl pressing done at RAND MUZIK: [General Terms and Conditions](http://randmuzik.de/files/agb_en.pdf)
+Terms and Conditions for the vinyl pressing done at RAND MUZIK: [General Terms and Conditions](https://www.randmuzik.de/en/terms-and-conditions/)
 
 **ARCHIVING OF AUDIO AND GRAPHIC MATERIAL:**
 
