@@ -21,7 +21,7 @@ ref: single-copy
 
 ### Info
 
-Dal 2005 Vinilificio riversa la tua musica in singola copia su vero disco di vinile a 33 rpm, 45 rpm, 78 rpm, in diversi formati, su vinilie nero, trasparente o picture disc. Qualità, alto volume, solco stabile e profondo stereo e mono.
+Dal 2005 Vinilificio riversa la tua musica in singola copia su vero disco di vinile a 33 rpm, 45 rpm, 78 rpm, in diversi formati, su vinilie nero, trasparente, bianco, blue trasparente, verde trasparente o picture disc. Qualità, alto volume, solco stabile e profondo stereo e mono.
 I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come lo scratch o il backspin, ma anche per l’ascolto hi-fi e su jukebox. La qualità del suono e l’usura sono identici ai classici dischi di vinile che noi tutti conosciamo. I vinili sono disponibili nei formati 5”, 7”, 10”, 12”, 5" x 7" (vinyl postcard) diversi spessori (1 mm, 1,5 mm, 2 mm), nei colori nero, trasparente e picture disc.
 
 ### Singola copia e piccole tirature
@@ -100,7 +100,9 @@ Accettiamo qualsiasi tipo di formato audio digitale. wav, aiff, mp3...
 * Non è possibile incidere frequenze sopra i 14/15 Khz a volumi molto alti
 * Per una migliore resa consigliamo di posizionare le tracce con più frequenze ad inizio vinile.
 
-**Vuoi saperne di più?** [Dai un'occhiata qua](https://www.dropbox.com/s/obs7xpk86frxnor/Specifiche%20Audio%20per%20vinili.pdf?dl=0)
+**Vuoi saperne di più?** 
+[Dai un'occhiata qua](https://www.dropbox.com/s/obs7xpk86frxnor/Specifiche%20Audio%20per%20vinili.pdf?dl=0)
+* Si prega di notare che per il servizio di trasferimento audio su vinile in singola copia non utilizziamo un sistema Neuman, ma un sistema appositamente progettato per il taglio diretto su disco in  vinile. 
 
 **Non ci capisci niente e non sai come fare?** Ci occupiamo noi del tuo mastering. Contattaci per avere costi e informazioni.
 
