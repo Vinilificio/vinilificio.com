@@ -21,7 +21,7 @@ ref: single-copy
 
 ### Info
 
-Since 2005, Vinilificio has been transferring your music onto single copies of authentic vinyl records at 33, 45, and 78 rpm, in different formats, and on black, transparent and picture discs. Quality, high volume, stable and deep grooves, stereo and mono. Vinilificio’s vinyls are particularly suitable for heavy uses such as scratching and backspin. They are also excellent for hi-fi stereo, portable record player and jukebox listening. The sound quality and wear are identical to standard records. Vinyls are available in 5”, 7”,10” and 12” formats on black, transparent and picture disc.
+Since 2005, Vinilificio has been transferring your music onto single copies of authentic vinyl records at 33, 45, and 78 rpm, in different formats, and on black, transparent, white, blue transparent, green transparent and picture discs. Quality, high volume, stable and deep grooves, stereo and mono. Vinilificio’s vinyls are particularly suitable for heavy uses such as scratching and backspin. They are also excellent for hi-fi stereo, portable record player and jukebox listening. The sound quality and wear are identical to standard records. Vinyls are available in 5”, 7”,10” and 12” formats on black, transparent and picture disc.
 
 ### Single copy and small run
 
@@ -94,7 +94,8 @@ We can transfer any audio file i.e. wav, aiff, flac, mp3 etc. on vinyl.
 
 **Do you want to know more?** 
 
-[Look here](http://www.randmuzik.de/files/spezifikationen_audio_en_1.pdf)
+[Look here at Rand Muzik specifications.](https://www.randmuzik.de/media/audio_specification_en_1.pdf)
+* Please note that for the audio transfer service on single copy we do not use a Neuman system, but a special system designed especially for direct vinyl cutting. 
 
 **Know nothing about audio mastering and don’t know what to do?** 
 
