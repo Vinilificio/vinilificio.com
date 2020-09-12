@@ -93,7 +93,7 @@ Il mastering permette innanzi tutto di ottimizzare l’audio prodotto al support
 Prima di andare in stampa assicurati sempre della qualità del tuo master, ascoltalo su diversi impianti e sistemi ed eventualmente, se proprio non sei sicuro fai un transfer audio vinile per avere un test verosimile di quello che potrebbe essere il tuo master su vinile.
 
 ### Vinile 5 pollici perché la puntina s'incant
-Non tutti i giradischi riescono a leggere per intero il formato il vinile in formato 5 pollici. Questo formato ( 12,7 cm) è di poco più grande del centrino del giradischi (10 cm). 
+Non tutti i giradischi riescono a leggere per intero il formato vinile 5 pollici. Questo formato ( 12,7 cm) è di poco più grande del centrino del giradischi (10 cm). 
 Molti giradischi hi-fi sono stati progettati per impedire che la puntina andasse oltre l'incisione andando sull'area del centrino del vinile. L'incisione di un vinile 5" va oltre il diametro di 10 cm. Per quessta ragione quando la puntina di un giradischi hi-fi arriva più o meno a 10 cm di diametro del disco, rimane nello stesso punto, "incantandosi". I giradischi da dj (come ad esempio i Technics 1200) non hanno questo "limite" nel movimento del braccio.
 
 ### Glossario
