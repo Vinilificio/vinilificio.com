@@ -30,7 +30,7 @@ With the Vinilificio app you can calculate the cost of your order, simulate your
 
 ### Custom print cover and label
 
-We print single copy (or small run) labels and covers in all formats, for single, double or triple vinyl records, single pocket or gatefold vinyl. Have fun with the [Vinilificio App](https://app.vinilificio.com/){:target="_blank"}, easily create your own graphic design and order your vinyl. If you are familiar with design, ask for specifications and templates to create your cover and label.
+We print single copy (or small run) labels and covers in all formats, for single, double or triple vinyl records, single pocket or gatefold vinyl. We print with high quality digital printer. Have fun with the [Vinilificio App](https://app.vinilificio.com/){:target="_blank"}, easily create your own graphic design and order your vinyl. If you are familiar with design, ask for specifications and templates to create your cover and label.
 
 ### Audio
 
