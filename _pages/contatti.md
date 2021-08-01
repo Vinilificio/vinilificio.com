@@ -10,6 +10,9 @@ via Santa Margherita 14/A<br>
 40123 Bologna<br>
 Italy
 
+
+![VINILIFICIO-HOLIDAYS-2021_ita](/img/VINILIFICIO-HOLIDAYS-2021_ita.jpg)
+
 __Si riceve solo su appuntamento__
 
 Per informazioni, domande e appuntamenti puoi contattarci dal lunedì al venerdì dalle 9:30 alle 13:00 e dalle 14:30 alle 18:00 alle seguenti coordinate:<br>
