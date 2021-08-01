@@ -19,6 +19,8 @@ ref: single-copy
 
 # Vinile in singola copia e dubplate
 
+![VINILIFICIO-HOLIDAYS-2021_ita](/img/VINILIFICIO-HOLIDAYS-2021_ita.jpg)
+
 ### Info
 
 Dal 2005 Vinilificio riversa la tua musica in singola copia su vero disco di vinile a 33 rpm, 45 rpm, 78 rpm, in diversi formati, su vinilie nero, trasparente, bianco, blue trasparente, verde trasparente o picture disc. Qualità, alto volume, solco stabile e profondo stereo e mono.
