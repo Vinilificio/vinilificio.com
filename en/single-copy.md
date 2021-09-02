@@ -20,8 +20,6 @@ ref: single-copy
 # Vinyl record in single copy and dublate
 
 
-![VINILIFICIO-HOLIDAYS-2021_ita](/img/VINILIFICIO-HOLIDAYS-2021_eng.jpg)
-
 ### Info
 
 Since 2005, Vinilificio has been transferring your music onto single copies of authentic vinyl records at 33, 45, and 78 rpm, in different formats, and on black, transparent, white, blue transparent, green transparent and picture discs. Quality, high volume, stable and deep grooves, stereo and mono. Vinilificio’s vinyls are particularly suitable for heavy uses such as scratching and backspin. They are also excellent for hi-fi stereo, portable record player and jukebox listening. The sound quality and wear are identical to standard records. Vinyls are available in 5”, 7”,10” and 12” formats on black, transparent, white, green transparente, blue transparent and picture disc.
