@@ -6,8 +6,6 @@ ref: contacts
 ---
 
 
-![VINILIFICIO-HOLIDAYS-2021_ita](/img/VINILIFICIO-HOLIDAYS-2021_eng.jpg)
-
 Vinilificio<br>
 via Santa Margherita 14/A<br>
 40123 Bologna<br>
