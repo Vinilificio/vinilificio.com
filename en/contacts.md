@@ -1,5 +1,6 @@
 ---
 title: Contacts
+position: footer
 index: 2
 lang: en
 ref: contacts
