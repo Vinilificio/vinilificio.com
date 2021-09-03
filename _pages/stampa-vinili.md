@@ -31,7 +31,7 @@ Stampiamo i tuoi vinili a partire da
 
 Stampiamo vinili neri, colorati e marmorizzati nei formati 7" (foro standard e grande) e 12" 140 gr. e 180 g., oltre alla stampa di copertine, centrini, adesivi, inserti e downlad card.
 
-<a href="https://www.dropbox.com/s/cek5a9rnh02njxt/mustervinylfarben_samplesvinylcolors_highres.pdf?dl=0">Questi i colori disponibili</a>
+<a href="https://www.randmuzik.de/media/mustervinylfarben_samplesvinylcolors_lowres_7.pdf">Questi i colori disponibili</a>
 
 Stampiamo copertine buste, inserti, centrini, sticker adesivi, in tutti i formati, in bianco e nero, a colori o con colori speciali (Pantone, UV, metallici...).
 
