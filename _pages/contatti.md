@@ -2,7 +2,7 @@
 title: Contatti
 index: 2
 lang: it
-ref: contact
+ref: contacts
 ---
 
 Vinilificio<br>
