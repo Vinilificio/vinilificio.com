@@ -99,7 +99,7 @@ Avoid out of phase and stereo signals under 300 hz.
 
 ### Cover and Packaging
 We can dress your vinyl with covers, disco bags, inner envelopes, labels, printed or neutral stickers on different papers. In addition, we supply light or heavy transparent envelopes, shrink wrap and download cards.
-<a href="/en/copertine-packaging/">Specifications</a>
+<a href="/en/cover-packaging/">Specifications</a>
 
 ### Quotation
 To request a estimate, write to <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>  with the following information:
