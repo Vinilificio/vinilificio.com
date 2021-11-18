@@ -34,7 +34,11 @@ The audio material transferred by Vinilificio from a master onto a single suppor
 
 Vinilificio offers commercial and technical intermediation services between clients and the record industry for the production and duplication of audio on vinyl records. Furthermore, under no circumstances does Vinilificio make serial duplications from a matrix. The client who uses this service is obliged to fulfill all the required procedures for the permission of mechanical reproduction and copyright international laws with the authorized dealership in his native country.
 
-Any dispute regarding the printing of vinyl records and products / services related to it and or offered by Vinilificio as intermediation, are sole and exclusive reference to the terms and conditions of the printing press. Any complaints should be directed exclusively to the product manufacturer.
+The production time of the order will be communicated when the order is placed. Production times are not binding and may vary between the request for a quote and the placing of the order.
+
+The delivery takes place within 120 working days at the latest, following receipt of the necessary documents and materials. The starting materials must be in perfect condition. If we are in default of delivery, the customer must set us a grace period of at least 6 weeks before they can withdraw from the contract.
+
+Any dispute regarding the printing of vinyl records and products / services related to it and or offered by Vinilificio as intermediation, are sole and exclusive reference to the terms and conditions of the printing press. Any complaints should be directed exclusively to the product manufacturer. The client is entitled to be informed where the produciton of the order will take place.
 
 In the case of pressing orders, additional or reduced production is unavoidable.
 
