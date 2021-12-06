@@ -23,19 +23,15 @@ __instagram__ [instagram.com/vinilificio](http://instagram.com/vinilificio)<br>
 __twitter__ [twitter.com/vinilificio](http://www.twitter.com/vinilificio)
 <br>
 <br>
-<form
-  action="https://formspree.io/f/xdobonjv"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xdobonjv" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">Il tuo nome/label>
+    <input type="text" name="name" id="full-name" placeholder="Nome e cognome" required="">
+    <label for="email-address">Indirizzo email</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <label for="message">Messaggio</label>
+    <textarea rows="5" name="message" id="message" placeholder="Scrivi qui il tuo messaggio" required=""></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+  </fieldset>
+  <input type="submit" value="Submit">
 </form>
-
