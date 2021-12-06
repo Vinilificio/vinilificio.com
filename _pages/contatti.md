@@ -25,11 +25,11 @@ __twitter__ [twitter.com/vinilificio](http://www.twitter.com/vinilificio)
 <br>
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xdobonjv" method="post">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name">Il tuo nome/label>
-    <input type="text" name="name" id="full-name" placeholder="Nome e cognome" required="">
-    <label for="email-address">Indirizzo email</label>
+    <label for="full-name">Full Name</label>
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+    <label for="email-address">Email Address</label>
     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-    <label for="message">Messaggio</label>
+    <label for="message">Message</label>
     <textarea rows="5" name="message" id="message" placeholder="Scrivi qui il tuo messaggio" required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
