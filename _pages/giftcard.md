@@ -3,7 +3,7 @@ title: Gift Card
 position: header
 index: 6
 lang: it
-ref: master
+ref: gift-card
 ---
 
 # Gift Card
