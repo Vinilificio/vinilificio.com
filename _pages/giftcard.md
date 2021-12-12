@@ -25,7 +25,7 @@ oppure con una maggiorazione di sole € 12,00 (spese di spedizione incluse) spe
 <br>
 Per realizzare la tua <b>Vinilificio Gift Card</b><br>
 - Puoi scegliere il tipo di vinile (formato, colore e quanti minuti di musica vuoi che vengano incisi) e se desideri la stampa dei centrini e della copertina.
-- Oppure puoi scegliere il valore della gift card (tra € 20,00 ed € 113,00).<br>
+- Oppure puoi scegliere il valore della gift card a partire da € 20,00.<br>
 
 <br><br>
 Per maggiori informazioni <a href="mailto:office@vinilificio.com">office at vinilificio.com</a>
