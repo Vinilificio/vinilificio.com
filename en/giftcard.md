@@ -25,8 +25,6 @@ To make your <b>Vinilificio Gift Card</b><br>
 - You can choose the type of vinyl (format, colour and how many minutes of music you want to be recorded) and whether you want the printed center labels and printed cover.
  and the cover.
 Give the gift card in electronic format with your name, surname and dedication<br>
-
-![giftcard](/img/modello vinyl gift card_small_en.jpg)
 <br>
 or with a surcharge of only € 22,00 (including shipping costs) we will send you the exclusive special gift card on a black 5" <i>pocket vinyl</i> with personalized center labels with name, surname and dedication. 
 
@@ -35,7 +33,7 @@ or with a surcharge of only € 22,00 (including shipping costs) we will send yo
 <br>
 To make your <b>Vinilificio Gift Card</b><br>
 - You can choose the type of vinyl (format, colour and how many minutes of music you want to be recorded) and whether you want printed center labels and printed cover.
-- Or you can choose the value of the gift card (between € 20.00 and € 113.00).<br>
+- Or you can choose the value of the gift card from € 20.00.<br>
 
 <br><br>
 For more information <a href="mailto:office@vinilificio.com">office at vinilificio.com</a>
