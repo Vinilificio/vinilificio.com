@@ -9,7 +9,11 @@ ref: master
 # Gift Card
 
 Vorresti regalare un vinile personalizzato e non hai il materiale, oppure sei arrivato all'ultimo e non riesci ad avere il tuo disco per tempo?
-La <b>Vinilificio Gift Card </b> è quello che fa per te.<br> Regala la gift card in formato elettronico con il nome,cognome e dedica oppure con sole € 10,00 (spese di spedizione incluse) possiamo spedire la speciale gift card su vinile 5" nero con centrino personalizzato con nome, cognome e dedicata.
+La <b>Vinilificio Gift Card </b> è quello che fa per te.<br> 
+Regala la gift card in formato elettronico con il nome,cognome e dedica<br>
+oppure con sole € 12,00 (spese di spedizione incluse) possiamo spedire la speciale gift card su vinile 5" nero con centrino personalizzato con nome, cognome e dedicata. 
+
+Il fortunato che riceverà la <b>Vinilificio Gift Card</b> potrà realizzare il proprio vinile personalizzato con i contenuti che fornirà a Vinilificio.
 <br>
 
 - Puoi scegliere il tipo di vinile (formato, colore e quanti minuti di musica vuoi che vengano incisi) e se desideri la stampa del centrino e della copertina.
