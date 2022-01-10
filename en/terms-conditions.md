@@ -40,9 +40,17 @@ The delivery takes place within 120 working days at the latest, following receip
 
 Any dispute regarding the printing of vinyl records and products / services related to it and or offered by Vinilificio as intermediation, are sole and exclusive reference to the terms and conditions of the printing press. Any complaints should be directed exclusively to the product manufacturer. The client is entitled to be informed where the produciton of the order will take place.
 
-In the case of pressing orders, additional or reduced production is unavoidable.
+*Change in Item to be Delivered/Part Performances/Additional or Reduced Production*
 
-Over or under deliveries up to 10 % are to be accepted by the Customer. They will be billed accordingly.
+1. Provided there is no unreasonable negative effect for the customer as a result, we reserve the right to make technical changes to the item to be delivered, if this does not impair its technical function.
+
+This point relates above all, but not only, to the final weight of the record, which can vary due to the production process. Deviations of up to plus / minus 10% do not constitute grounds for complaint.
+
+2. Despite machine cleaning sporadic colour impurities may occur for production reasons. These minor colour variations do not entitle a complaint.
+
+3. In the case of pressing orders, additional or reduced production is unavoidable. Over or under-deliveries up to 10 % are to be accepted by the customer. They will be billed accordingly.
+
+4. We are entitled to provide part performances, provided the customer can be reasonably expected to accept them.
 
 Any changes of the running order will be charged with a administrative fee of 30,00€
 
