@@ -31,10 +31,20 @@ L’audio trasferito da Vinilificio da master ad altro supporto (vinile) su sing
 **SERVIZIO DI INTERMEDIAZIONE PER LA PRODUZIONE DI DISCHI IN VINILE:**
 
 Il Vinilificio offre servizio di intermediazione commerciale e tecnica tra cliente e industrie per la produzione e duplicazione di audio su dischi in vinile. Il Vinilificio pertanto non effettua in nessun caso duplicazioni in serie tramite matrice. Il cliente che farà uso di questo servizio è obbligato ad espletare tutte le pratiche richieste per la licenza di riproduzione meccanica presso la società concessionaria nel proprio paese e a prendere visioni dei Termini e Condizioni del servizio di stampa vinile. Qualsiasi disputa in merito alla stampa di vinile e ai prodotti/servizi ad essa connessi, fanno solo ed esclusivo riferimento ai Termini e Condizioni della stamperia, e quindi eventuali reclami dovranno essere indirizzati esclusivamente all'azienda produttrice.
+
 L'ordine è da considerarsi valido solo a completa ricezione di tutto il materiale, informazioni, documentazioni richieste e pagamento secondo le condizioni commerciali concordate.
 I tempi di produzione indicati al momento dell'ordine sono indicativi e possono subire variazioni in base alle capacità produttive e ai controlli qualitativi svolti sul prodotto prima della spedizione. Per maggiori informazioni info@vinilificio.com .
+
 Durante la stampa dei dischi in vinile è inevitabile una produzione di -/+ 10% rispetto alla quantità ordinata. La differenza di quantità dev'essere incondizionatamente accettata dal cilente, e verrà conseguentemente fatturata una volta stabilito l'esatto ammontare della produzione finale.
+
+A condizione che non ci sia un effetto negativo irragionevole per il cliente, ci riserviamo il diritto di apportare modifiche tecniche all'oggetto da consegnare, se ciò non ne pregiudica la funzione tecnica.
+
+Questo punto si riferisce soprattutto, ma non solo, al peso finale del disco, che può variare a causa del processo di produzione. Una variazione del pezo fino a più / meno 10% non costituiscono motivo di reclamo.
+
+Per ragioni legate ai processi di produzione dei vinili, nonostante la pulizia della macchina, potrebbero verificarsi sporadiche impurità di colore. Queste piccole variazioni di colore non danno diritto a reclami.
+
 Ogni modifica d'ordine ha un costo amministrativo aggiuntivo di € 30,00
+
 Termini e Condizioni per il servizio di stampa vinile presso RAND MUZIK: [TERMINI E CONDIZIONI STAMPA VINILI](https://www.randmuzik.de/en/terms-and-conditions/)
 
 **ARCHIVIAZIONE DEI MATERIALI AUDIO E GRAFICI:**
