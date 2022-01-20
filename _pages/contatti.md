@@ -13,11 +13,12 @@ Italy
 
 __Si riceve solo su appuntamento__
 
-Per informazioni, domande e appuntamenti puoi contattarci dal lunedì al venerdì dalle 9:30 alle 13:00 e dalle 14:30 alle 18:00 alle seguenti coordinate:<br>
-__tel/fax__ + 39 051 0311817<br>
-__whatsapp (SOLO CHAT)__ +39 345 0782592<br>
+Per informazioni, domande e appuntamenti puoi contattarci dal lunedì al venerdì dalle 9:30 alle 13:00 e dalle 14:30 alle 18:00 alle seguenti coordinate:<br><br>
+__tel/fax__ <a href="tel:+390510311817" title="Chiama il Vinilifico">+39 051 031 1817</a><br>
+__whatsapp (SOLO CHAT)__ <a href="https://wa.me/393450782592" title="Chatta su WhatsApp con il Vinilificio">+39 345 078 2592</a><br>
 __web__ www.vinilificio.com<br>
-__email__ <a href="mailto:info@vinilificio.com" onclick="ga('send', 'event', 'Mail', 'Clic', 'info@vinilificio.com');" title="Scrivi al Vinilificio">info at vinilificio.com</a><br>
+__email__ <a href="mailto:info@vinilificio.com" title="Scrivi al Vinilificio">info at vinilificio.com</a><br>
+<br>
 __facebook__ [facebook.com/VINILIFICIOVINYL](http://www.facebook.com/VINILIFICIOVINYL)<br>
 __instagram__ [instagram.com/vinilificio](http://instagram.com/vinilificio)<br>
 __twitter__ [twitter.com/vinilificio](http://www.twitter.com/vinilificio)
