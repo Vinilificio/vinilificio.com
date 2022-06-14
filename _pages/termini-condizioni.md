@@ -30,18 +30,51 @@ L’audio trasferito da Vinilificio da master ad altro supporto (vinile) su sing
 
 **SERVIZIO DI INTERMEDIAZIONE PER LA PRODUZIONE DI DISCHI IN VINILE:**
 
-Il Vinilificio offre servizio di intermediazione commerciale e tecnica tra cliente e industrie per la produzione e duplicazione di audio su dischi in vinile. Il Vinilificio pertanto non effettua in nessun caso duplicazioni in serie tramite matrice. Il cliente che farà uso di questo servizio è obbligato ad espletare tutte le pratiche richieste per la licenza di riproduzione meccanica presso la società concessionaria nel proprio paese e a prendere visioni dei Termini e Condizioni del servizio di stampa vinile. Qualsiasi disputa in merito alla stampa di vinile e ai prodotti/servizi ad essa connessi, fanno solo ed esclusivo riferimento ai Termini e Condizioni della stamperia, e quindi eventuali reclami dovranno essere indirizzati esclusivamente all'azienda produttrice.
+*I. Scopo
+1. I seguenti termini e condizioni si applicano a tutti i rapporti commerciali con Cristian Adamo. Si applicano esclusivamente i nostri termini e condizioni. I riferimenti o le contro-conferme del cliente in riferimento alle proprie condizioni generali di contratto sono qui espressamente contraddetti. I termini e le condizioni del cliente che differiscono dai nostri termini e condizioni commerciali non sono validi.
 
-L'ordine è da considerarsi valido solo a completa ricezione di tutto il materiale, informazioni, documentazioni richieste e pagamento secondo le condizioni commerciali concordate.
-I tempi di produzione indicati al momento dell'ordine sono indicativi e possono subire variazioni in base alle capacità produttive, disponibilità delle materie prime e dei semilavorati e ai controlli qualitativi svolti sul prodotto prima della spedizione. Per maggiori informazioni info@vinilificio.com .
+2. Il Vinilificio offre servizio di intermediazione commerciale e tecnica tra cliente e industrie per la produzione e duplicazione di audio su dischi in vinile. Il Vinilificio pertanto non effettua in nessun caso duplicazioni in serie tramite matrice. Il cliente che farà uso di questo servizio è obbligato ad espletare tutte le pratiche richieste per la licenza di riproduzione meccanica presso la società concessionaria nel proprio paese e a prendere visioni dei Termini e Condizioni del servizio di stampa vinile. Qualsiasi disputa in merito alla stampa di vinile e ai prodotti/servizi ad essa connessi, fanno solo ed esclusivo riferimento ai Termini e Condizioni della stamperia, e quindi eventuali reclami dovranno essere indirizzati esclusivamente all'azienda produttrice.
 
-Durante la stampa dei dischi in vinile è inevitabile una produzione di -/+ 10% rispetto alla quantità ordinata. La differenza di quantità dev'essere incondizionatamente accettata dal cilente, e verrà conseguentemente fatturata una volta stabilito l'esatto ammontare della produzione finale.
+*II. Formazione del contratto*
+1. L'ordine è un'offerta vincolante. Possiamo scegliere di accettare tale offerta entro quattro settimane, inviando una conferma d'ordine scritta o spedendo la merce ordinata al committente entro tale periodo. Tale termine decorre dal momento in cui l'ordine ci perviene e dal ricevimento dei documenti e dei materiali necessari da parte del committente. Tuttavia, i materiali di partenza devono essere in perfetto stato.
 
-A condizione che non ci sia un effetto negativo irragionevole per il cliente, ci riserviamo il diritto di apportare modifiche tecniche all'oggetto da consegnare, se ciò non ne pregiudica la funzione tecnica.
+2. Le nostre offerte possono essere ritirate da noi in qualsiasi momento, fino all'accettazione giuridicamente vincolante da parte del cliente.
 
-Questo punto si riferisce soprattutto, ma non solo, al peso finale del disco, che può variare a causa del processo di produzione. Una variazione del pezo fino a più / meno 10% non costituiscono motivo di reclamo.
+3. Le informazioni su lavori e servizi, dimensioni, pesi, prezzi, eccetera, riportate in cataloghi, opuscoli, circolari, pubblicità, cifre e listini prezzi non sono vincolanti, a meno che non diventino espressamente oggetto del contratto.
 
-Per ragioni legate ai processi di produzione dei vinili, nonostante la pulizia della macchina, potrebbero verificarsi sporadiche impurità di colore. Queste piccole variazioni di colore non danno diritto a reclami.
+4. Ci riserviamo il diritto di rifiutare ordini in cui siano rappresentati contenuti offensivi, abusivi, razzisti, pornografici, che esaltano la violenza, immorali, estremisti o che violano la legge.
+
+*III. Tempi di lavorazione, consegna*
+
+1. L'ordine è da considerarsi valido solo a completa ricezione di tutto il materiale, informazioni, documentazioni richieste e pagamento secondo le condizioni commerciali concordate.
+2. I tempi di produzione indicati al momento dell'ordine sono indicativi e possono subire variazioni in base alle capacità produttive, disponibilità delle materie prime e dei semilavorati e ai controlli qualitativi svolti sul prodotto prima della spedizione. Per maggiori informazioni info@vinilificio.com .
+
+
+*IV. Quantità, qualità dei supporti*
+1. Durante la stampa dei dischi in vinile è inevitabile una produzione di -/+ 10% rispetto alla quantità ordinata. La differenza di quantità dev'essere incondizionatamente accettata dal cilente, e verrà conseguentemente fatturata una volta stabilito l'esatto ammontare della produzione finale.
+
+2. A condizione che non ci sia un effetto negativo irragionevole per il cliente, ci riserviamo il diritto di apportare modifiche tecniche all'oggetto da consegnare, se ciò non ne pregiudica la funzione tecnica.
+
+3. Questo punto si riferisce soprattutto, ma non solo, al peso finale del disco, che può variare a causa del processo di produzione. Una variazione del pezo fino a più / meno 10% non costituiscono motivo di reclamo.
+
+4. Per ragioni legate ai processi di produzione dei vinili, nonostante la pulizia della macchina, potrebbero verificarsi sporadiche impurità di colore. Queste piccole variazioni di colore non danno diritto a reclami.
+
+*V. Responsabilità/Garanzia*
+1. Al termine della produzione dello stampatore, il cliente riceve una pressatura di prova (test pressing), dopo la quale può rilasciare la liberatoria per la pressatura completa. Dopo il rilascio della liberatoria, il cliente non può più presentare reclami sulle operazioni di lavoro precedenti. Se il cliente non ha specificato una tracklist chiara, non siamo responsabili di eventuali errori risultanti, come ad esempio ordini errati o lati confusi.
+
+2. La merce consegnata (sia il test pressing che l'ordine finale), deve essere sempre controllata per verificarne la correttezza dopo il ricevimento. I difetti identificabili e le mancanze o gli errori di consegna devono essere segnalati per iscritto entro 8 giorni dal ricevimento della merce. Il controllo da parte nostra deve essere garantito.
+
+3. Se il cliente non ci invia una comunicazione scritta, perde ogni diritto su questo difetto.
+
+4. Siamo responsabili esclusivamente per i difetti di fabbricazione o di materiale che possono essere accertati.
+
+5. Se esiste un difetto di fabbricazione di cui siamo responsabili, provvederemo a sostituirlo o a emettere una nota di credito, a nostra scelta. A tal fine ci verrà concesso un periodo di tempo ragionevole. In caso di fornitura sostitutiva, i costi e il rischio sono a nostro carico.
+
+6. Se il cliente avanza richieste di garanzia nei nostri confronti e viene accertata l'inesistenza di un diritto di garanzia (ad es. errore dell'utente, manipolazione impropria degli articoli, inesistenza di un difetto), il cliente ci rimborserà tutti i costi da noi sostenuti in relazione all'articolo consegnato, a condizione che sia responsabile del nostro reclamo a causa di negligenza, negligenza grave o atto deliberato.
+
+7. Non siamo responsabili della qualità sonora delle lacche in arrivo.
+
+
 
 Ogni modifica d'ordine ha un costo amministrativo aggiuntivo di € 30,00
 
