@@ -49,7 +49,7 @@ The groove of the vinyl record takes up more space when engraved at high volume,
 The best quality-quantity proportion is:
 
 * 12″ to 33 rpm ​​at high volume max. 12 min.
-* 12″ to 45 rpm at high volume max. 9 min.
+* 12″ to 45 rpm at high volume max. 8 min.
 * 10″ to 33 rpm ​​at high volume max. 8 min.
 * 10″ to 45 rpm at high volume max. 6 min.
 * 7″ to 45 rpm at high volume max. 4 min.
