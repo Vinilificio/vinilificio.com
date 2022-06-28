@@ -28,6 +28,10 @@ Generalità e contatti che ci fornirete serviranno solo ed esclusivamente al fin
 
 L’audio trasferito da Vinilificio da master ad altro supporto (vinile) su singolo pezzo è a solo ed esclusivo utilizzo professionale e/o personale (a scopo di back up o altro utilizzo) e per nessuno scopo di pubblica distribuzione (gratuita o vendita). Il Vinilificio si solleva da qualsiasi tipo di responsabilità legata al contenuto del master audio che gli sarà consegnato dal cliente e che in seguito sarà riversato su vinile. Qualora verrà fornito un master audio coperto (interamente o parzialmente) da copyright, il Vinilificio nella persona di Cristian Adamo, si ritiene sollevato da qualsiasi tipo di responsabilità derivante da conseguenze di eventuali abusi di utilizzo successivi alla lavorazione del materiale audiovisivo trattato. Il cliente che sottoscriverà l'ordine si assume pertanto la totale responsabilità e di aver assolto gli obblighi previsti dal diritto di autore vigenti sia sul territorio nazionale italiano che dai trattati internazionali.
 
+**ASSUNZIONE DI RESPONSABILITA’ DEL CLIENTE IN MERITO AL CONTENUTO E ALLA QUALITA' DEL MASTER AUDIO E DEI FILES GRAFICI:**
+
+Il cliente è responsabile per la qualità dei contenuti audio e grafici forniti a Vinilificio per il servizio di trasferimento master audio su vinile e per il servizio di stampa in quantità. Il cliente deve obbligatoriamente prendere visione delle specifiche tecniche fornite da Vinilificio sul proprio sito e/o tramite email e fornire materiale conforme. Non si accettano reclami in merito alla qualità del prodotto realizzato da Vinilificio in caso di materiale non conforme. In caso di materiale non conforme il cliente, prima di procedere alla lavorazione, può fare richiesta di supporto per il servizio di mastering e/o supporto grafico. I servizi di mastering e/o supporto grafico vengono attivati solo ed esclusivamente previa richiesta del cliente e approvazione del preventivo.
+
 **SERVIZIO DI INTERMEDIAZIONE PER LA PRODUZIONE DI DISCHI IN VINILE:**
 
 *I. Scopo
