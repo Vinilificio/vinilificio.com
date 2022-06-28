@@ -30,6 +30,13 @@ They will not be passed on to third parties and/or used for other purposes.
 
 The audio material transferred by Vinilificio from a master onto a single support unit (vinyl) is solely and exclusively for professional and/or personal use (for back up and other uses) and not for free distribution or sales purposes. Vinilificio absolves itself form any responsibility related to the mastered audio content provided by the client to be transferred onto vinyl. In the case that an audio master is covered (wholly or partially) by copyright law, Vinilificio, in the person of Cristian Adamo, holds itself absolved from all responsibility deriving from consequences of abuses of subsequent uses and elaborations of the treated audiovisual material. The client who underwrites the order therefore assumes the total responsibility of discharging from all the obligations provided for by the copyright laws in force both on the national territory and according to international agreements.
 
+
+**CLIENT ASSUMES RESPONSIBILITY FOR THE CONTENT AND QUALITY OF THE AUDIO MASTER AND GRAPHIC FILES:**
+
+The client is responsible for the quality of the audio and graphic content supplied to Vinilificio for the audio master transfer service on vinyl records and for the quantity printing service. The client must read the technical specifications provided by Vinilificio on its web site and/or by email and provide materials according with Vinilificio specifications. No complaints will be accepted regarding the quality of the product made by Vinilificio in the case of non-compliant material. In the case of non-compliant material the client, before proceeding with the processing, can request support for the mastering service and/or graphic support. The mastering and/or graphic support services are activated only and exclusively upon the client's request and approval of the estimate.
+
+
+
 **INTERMEDIATION SERVICES FOR THE PRODUCTION OF VINYL RECORDS**
 
 Vinilificio offers commercial and technical intermediation services between clients and the record industry for the production and duplication of audio on vinyl records. Furthermore, under no circumstances does Vinilificio make serial duplications from a matrix. The client who uses this service is obliged to fulfill all the required procedures for the permission of mechanical reproduction and copyright international laws with the authorized dealership in his native country.
