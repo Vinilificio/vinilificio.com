@@ -68,7 +68,7 @@ Il solco del vinile occupa più spazio se inciso ad alto volume, mentre occupa m
 Migliore rapporto durata/volume:
 
 * 12″ a 33 rpm ad alto volume max. 12 min.
-* 12″ a 45 rpm ad alto volume max. 9 min.
+* 12″ a 45 rpm ad alto volume max. 8 min.
 * 10″ a 33 rpm ad alto volume max. 8 min.
 * 10″ a 45 rpm ad alto volume max. 6 min.
 * 7″ a 45 rpm ad alto volume max. 4 min.
