@@ -58,7 +58,7 @@ The best quality-quantity proportion is:
 Quality-quantity ratio for 12″ 33 rpm:
 
 * over 12 min. each side -> high volume
-* 12 / 15 min. each side   ->     middle  high volume
+* 12 / 15 min. each side -> middle  high volume
 * 12 / 15 min. each side -> middle high volume
 * 15 / 20 min. each side -> middle low volume
 * more than 20 min. each side (max. 25 minutes) -> low volume
