@@ -43,7 +43,7 @@ This is a transfer of an audio master from another medium (usually digital, but 
 ### Difference between printed vinyl and engraved vinyl
 Industrially-produced vinyl records involve the fabrication of matrices that are used to generate (by pressing) identical copies of vinyl records in series and in quantity.
 
-The vinyl engraved through an audio transfer process is a unique vinyl, made individually rather than in series.
+The vinyl engraved through an audio transfer process is a unique vinyl, made individually rather than in series. Being a copy-by-copy audio transfer, several transfers of the same master may have aesthetic differences such as lead-in, run-out, spacing. 
 
 From the point of view of audio quality and wear, engraved vinyl and industrially produced vinyl are very similar. However, there may be differences in the depth of the grooves, in the background noise (present in any vinyl) and in the exaltation of some medium-high frequencies.
 
