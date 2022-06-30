@@ -45,7 +45,7 @@ Si tratta di un trasferimento di un master audio da un supporto (solitamente dig
 ### Differenza tra vinile prodotto stampato e vinile inciso
 Il vinile prodotto industrialmente prevede la realizzazione di matrici che serviranno per produrre (tramite pressatura) in serie e in quantità copie di dischi in vinile tutte uguali.
 
-Il vinile inciso tramite un procedimento di audio transfer è un vinile unico, realizzato singolarmente e non in serie.
+Il vinile inciso tramite un procedimento di audio transfer è un vinile unico, realizzato singolarmente e non in serie. Tratttondosi di riversamento audio copia per copia, più riversamenti dello stesso master possono avere differenze estetiche come lead-in, run-out, spaziature. 
 
 Dal punto di vista della qualità audio e dell’usura il vinile inciso e i vinili prodotti industrialmente sono molto simili. Possono comunque esserci differenze nella profondità dei solchi, nel rumore di fondo (comunque presente in qualsiasi vinile) e nell’esaltazione di alcune frequenze medio alte.
 
