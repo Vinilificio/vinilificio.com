@@ -33,6 +33,23 @@ With the Vinilificio app you can calculate the cost of your order, simulate your
 
 We print single copy (or small run) labels and covers in all formats, for single, double or triple vinyl records, single pocket or gatefold vinyl. We print with high quality digital printer. Have fun with the [Vinilificio App](https://app.vinilificio.com/){:target="_blank"}, easily create your own graphic design and order your vinyl. If you are familiar with design, ask for specifications and templates to create your cover and label.
 
+Formats supported by our web app: jpg, png
+
+Formats not supported by our web app. To be sent via wetransfer (ask us how): pdf, tiff
+
+Resolution: 300 dpi (at least)
+
+Method: CMYK
+
+Contact us if you would like to create your graphics directly on our templates
+
+Please note: 
+
+1) Fonts: Rasterize or render traced 
+2) For a better rendering of print colours we recommend the Fogra 39 colour profile 
+
+Translated with www.DeepL.com/Translator (free version)
+
 ### Audio
 
 #### How much music can you record on vinyl?
