@@ -48,7 +48,8 @@ Contattaci se desideri creare la tua grafica direttamente sui nostri templates
 
 Attenzione: 
 
-1) Font: Rasterizzare o rendere tracciati 
+1) Font: Rasterizzare o rendere tracciati
+
 2) Per una migliore resa nei colori di stampa consigliamo il profilo colore  Fogra 39
 
 
