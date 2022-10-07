@@ -46,9 +46,9 @@ Contact us if you would like to create your graphics directly on our templates
 Please note: 
 
 1) Fonts: Rasterize or render traced 
+
 2) For a better rendering of print colours we recommend the Fogra 39 colour profile 
 
-Translated with www.DeepL.com/Translator (free version)
 
 ### Audio
 
