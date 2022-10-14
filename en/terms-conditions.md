@@ -20,11 +20,6 @@ ref: terms-conditions
 
 Orders will be considered valid only upon receipt of the due payment.
 
-**PRIVACY AND HANDLING OF PERSONAL INFORMATION:**
-
-Contacts and details provided to us will be used solely and exclusively for the processing of your order or to communicate information concerning your order and the products and service offered by Vinilificio.
-
-They will not be passed on to third parties and/or used for other purposes.
 
 **ACCEPTANCE OF RESPONSABILITY ON THE PART OF THE CLIENT CONCERNING THE OWNERSHIP AND/OR LICENSE OF MASTERED AUDIO CONTENT:**
 
@@ -77,69 +72,65 @@ We will deliver at your risk and expense.
 
 “Client” is to be interpreted as the person requesting the services offered by Vinilificio.
 
+**PRIVACY AND HANDLING OF PERSONAL INFORMATION:**
+
+Privacy Policy of Cristian Adamo
+
+This Privacy Policy describes how your personal data is collected, used and disclosed when you visit or make a purchase from www.vinilificio.com (the "Site").
+
+PERSONAL DATA COLLECTION
+
+When you visit the Site, we automatically collect certain information on your device, including browser data, IP address, time zone and data from certain cookies installed on your device. In addition, as you browse the Site we collect specific information about the web pages and products you view, the websites or search terms that directed you to the Site, and how you interact with the Site. We refer to this automatically collected information as "Device Information".
+
+We collect Device Information using the following technologies:
+
+- "Cookies" are data files that are placed on your device or computer, and often include an anonymous unique identifier code. For more information about cookies and how to disable them visit http://www.allaboutcookies.org.
+- Log files" track actions that take place on the Site, and collect data including IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+- "Web beacons", "tags" and "pixels" are electronic files used to record data about your browsing patterns on the Site.
+
+In addition, when you make a purchase or attempt to make a purchase through the Site, we collect certain information about you, including your first and last name, billing address, shipping address, payment information (including credit card numbers), email address, and telephone number. We call this data 'Order Information'.
+
+When we refer to "Personal Data" in this Privacy Policy, we are referring to both Device Information and Order Information.
+
+HOW DO WE USE YOUR PERSONAL DATA?
+
+We generally use Order Information to process orders placed through the Site (which includes processing payment information, arranging for shipping, and delivering invoices and/or order confirmations). In addition, we use Order Information to:
+Communicate with you;
+Check orders for potential risk or fraud; provide you with information or advertising about our products or services if it is in line with the preferences you have expressed to us.
+
+We use the Device Information collected (in particular your IP address) to verify the absence of potential risks or fraud and, more generally, to improve and optimise our Site (for example, by generating analytical data on how our customers browse and interact with the Site, and to evaluate the success of our advertising and marketing campaigns).
+
+DISCLOSURE OF YOUR PERSONAL DATA
+
+We share your Personal Data with third party companies that assist us in performing the activities described above. For example, we use Shopify for the technology of our online shop. You can find more information about how Shopify uses your Personal Data here: https://it.shopify.com/legal/privacy. We also use Google Analytics to analyse how customers use the Site. You can find more information about how Google uses your Personal Data here: https://www.google.com/intl/it/policies/privacy/. You can deactivate Google Analytics here: https://tools.google.com/dlpage/gaoptout.
+
+Finally, we may also disclose your Personal Data to third parties to comply with applicable laws and regulations, respond to subpoenas, search warrants, or other lawful requests for data we receive, or otherwise protect our rights.
+
+BEHAVIOURAL ADVERTISING
+As described above, we use your Personal Data to provide you with targeted advertising or marketing communications that we believe may be of interest to you. For more information on how targeted advertising works, please visit the Network Advertising Initiative ("NAI") education page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
+
+You can deactivate targeted advertising from here:
+FACEBOOK - https://www.facebook.com/settings/?tab=ads
+GOOGLE - https://www.google.com/settings/ads/anonymous
+BING - https://about.ads.microsoft.com/it-it/risorse/informative/annunci-personalizzati
+
+In addition, you can explicitly opt out of some of these services by visiting the Digital Advertising Alliance's digital advertising opt-out portal: http://optout.aboutads.info/.
+
+DO NOT TRACK
+Please note that we do not alter our Site's data collection and use practices in the presence of your browser's Do Not Track signal.
+
+YOUR RIGHTS
+If you reside in Europe, you have the right to access the personal data we hold about you and to request that it be updated, corrected or removed. If you wish to exercise this right, please contact us using the contact details below.
+In addition, if you are located in Europe, please note that we also process your data in order to fulfil any contractual obligations to you (e.g. in connection with orders you place through the Site) or otherwise to pursue our legitimate business interests as set out above. In addition, please note that your data will be transferred to countries outside Europe including Canada and the United States.
 
 
+DATA RETENTION
+When you place orders through the Site, we retain Order Information in our records unless and until you ask us to delete such information.
 
 
-### Cookie policy
-La presente informativa è resa dalla ditta individuale Cristian Adamo per conto del marchio Vinilificio e fornisce agli utenti del sito alcune informazioni relative ai cookie utilizzati, ai sensi degli artt. 13 e 122 del Codice in materia di protezione dei dati personali (Decreto Legislativo 30.06.2003, n. 196, “Codice privacy”), nonché in base a quanto previsto dal Provvedimento generale del Garante privacy dell’8 maggio 2014.
+CHANGES
+We may update this Privacy Policy from time to time, such as to reflect changes in our procedures, or for other operational, legal or regulatory reasons.
+CONTACT US
+For more information about our privacy practices, if you have any questions, or if you would like to make a complaint, please email us at info@vinilificio.com or contact us by mail at the following addresses
 
-#### 1. Cosa sono i cookie
-I cookie sono stringhe di testo di piccole dimensioni che i siti visitati dall'utente inviano al suo terminale (solitamente al browser), dove vengono memorizzati per essere poi ritrasmessi agli stessi siti alla successiva visita del medesimo utente.
-Nel corso della navigazione su un sito, l'utente può ricevere sul suo terminale anche cookie che vengono inviati da siti o da web server diversi (c.d. "terze parti"), sui quali possono risiedere alcuni elementi (quali, ad esempio, immagini, mappe, suoni, specifici link a pagine di altri domini) presenti sul sito che lo stesso sta visitando.
-In linea generale si distingue tra: 
-
-**a. Cookie tecnici**, che sono quelli utilizzati al solo fine di “effettuare la trasmissione di una comunicazione su una rete di comunicazione elettronica, o nella misura strettamente necessaria al fornitore di un servizio della società dell’informazione esplicitamente richiesto dall’abbonato o dall’utente a erogare tale servizio” (v. art. 122, comma 1, del Codice privacy). I cookie tecnici possono essere suddivisi in:
-
-* cookie di navigazione o di sessione, che garantiscono la normale navigazione e fruizione del sito web (permettendo, ad esempio, di realizzare un acquisto o autenticarsi per accedere ad aree riservate);
-* cookie analytics, assimilati ai cookie tecnici laddove utilizzati direttamente dal gestore del sito per raccogliere informazioni, in forma aggregata, sul numero degli utenti e su come questi visitano il sito stesso;
-* cookie di funzionalità, che permettono all'utente la navigazione in funzione di una serie di criteri selezionati (ad esempio, la lingua, i prodotti selezionati per l'acquisto) al fine di migliorare il servizio reso allo stesso.
-
-**b. Cookie di profilazione**, che sono quelli volti a creare profili relativi all’utente e vengono utilizzati al fine di inviare messaggi pubblicitari in linea con le preferenze manifestate dallo stesso nell’ambito della navigazione in rete.
-
-####  2. Tipologie di cookie utilizzati da questo sito
-**2.1. Cookie del Titolare**
-Questo sito utilizza cookie tecnici, rispetto ai quali rispetto ai quali, ai sensi dell’art. 122 del Codice privacy e del Provvedimento del Garante dell’8 maggio 2014, non è richiesto alcun consenso da parte dell’interessato.
-**2.2. Cookie di terze parti (descrizione)**
-Attraverso questo sito sono installati alcuni cookie di terze parti, anche profilanti.
-Si riportano nel dettaglio i singoli cookie di terze parti, nonché i link attraverso i quali l’utente può ricevere maggiori informazioni e richiedere la disattivazione dei cookie. 
-
-**a. Google Analytics**
-Si tratta di un servizio di analisi web fornito da Google Inc. (“Google”) che utilizza dei cookie che vengono depositati sul computer dell’utente per consentire analisi statistiche in forma aggregata in ordine all’utilizzo del sito web visitato. 
-I Dati generati da Google Analytics sono conservati da Google così come indicato nella Informativa reperibile al seguente link. 
-Per consultare l’informativa privacy della società Google Inc., titolare autonomo del trattamento dei dati relativi al servizio Google Analytics, si rinvia al sito Internet [Guida di Analytics](http://www.google.com/intl/en/analytics/privacyoverview.html).
-Al seguente [link](https://tools.google.com/dlpage/gaoptout?hl=it) è inoltre reso disponibile da Google il componente aggiuntivo del browser per la disattivazione di Google Analytics.
-
-**b. Condivisione Social**
-Si tratta di link esterni di condivisione di contenuti del sito verso i social network, tramite dei plugin identificabili con le rispettive icone. 
-La presenza di questi plugin comporta la trasmissione di cookie da e verso tutti i siti gestiti da terze parti. La gestione delle informazioni raccolte da “terze parti” è disciplinata dalle relative informative cui si prega di fare riferimento. Per garantire una maggiore trasparenza e comodità, si riportano qui di seguito gli indirizzi web delle diverse informative e delle modalità per la gestione dei cookie. 
-* [Facebook (informativa)](https://www.facebook.com/help/cookies/)
-Facebook (configurazione): accedere al proprio account. Sezione privacy.
-* [Twitter (informativa)](https://support.twitter.com/articles/20170514)
-[Twitter (configurazione)](https://twitter.com/settings/security)
-* [Linkedin (informativa)](https://www.linkedin.com/legal/cookie-policy)
-[Linkedin (configurazione)](https://www.linkedin.com/settings/)
-* [Google+ (informativa)](http://www.google.it/intl/it/policies/technologies/cookies/)
-[Google+ (configurazione)](http://www.google.it/intl/it/policies/technologies/managing/)
-* [AddThis (informativa)](http://www.addthis.com/privacy/privacy-policy)
-[AddThis (configurazione)](http://www.addthis.com/privacy/opt-out)
-* [ShareThis (informativa + configurazione)](http://www.sharethis.com/legal/privacy/#sthash.jEedJweG.dpbs)
-
-### 3. Modalità del trattamento
-Il trattamento viene effettuato con strumenti automatizzati dal Titolare. Non viene effettuata alcuna diffusione o comunicazione.
-
-### 4. Conferimento dei dati
-Fatta eccezione per i cookie tecnici strettamente necessari alla normale navigazione, il conferimento dei dati è rimesso alla volontà dell’interessato che decida di navigare sul sito dopo aver preso visione dell’informativa breve contenuta nell’apposito banner e di usufruire dei servizi che comportano l’installazione di cookie.
-L’interessato può quindi evitare l’installazione dei cookie attraverso le apposite funzioni disponibili sul proprio browser.
-
-### 5. Disabilitazione dei cookie
-Fermo restando quanto sopra indicato in ordine ai cookie strettamente necessari alla navigazione, l’utente può eliminare gli altri cookie tramite il proprio browser.
-Ciascun browser presenta procedure diverse per la gestione delle impostazioni. L’utente può ottenere istruzioni specifiche attraverso i link sottostanti. 
-* [Microsoft Windows Explorer](http://windows.microsoft.com/it-it/windows7/block-enable-or-allow-cookies)
-* [Google Chrome](https://support.google.com/chrome/answer/95647?hl=it&p=cpn_cookies)
-* [Mozilla Firefox](https://support.mozilla.org/it/kb/Attivare%20e%20disattivare%20i%20cookie?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)
-* [Apple Safari](https://support.apple.com/kb/PH17191?viewlocale=it_IT&locale=it_IT)
-
-La disattivazione dei cookie di terze parti è inoltre possibile attraverso le modalità rese disponibili direttamente dalla società terza titolare per detto trattamento, come indicato ai link riportati nel paragrafo “2.2 Cookie di terze parti”. 
-
-Per avere informazioni sui cookie archiviati sul proprio terminale e disattivarli singolarmente si rinvia al [link](http://www.youronlinechoices.com/it/le-tue-scelte).
+via Olindo Guerrini, 17 40134 BOLOGNA BO Italy
