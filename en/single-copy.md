@@ -22,6 +22,8 @@ ref: single-copy
 
 ### Info
 
+#### VINILIFICIO WEB APP 2.0
+
 The new Vinilificio web app allows you to create your customised vinyl record in all its parts in a simple and intuitive way. It is designed to meet the needs of experienced users and those approaching the world of vinyl record for the first time.
 
 Choose your record -> upload the tracks and place them to your liking on the sides of the record -> choose the options ( colour and thickness of the vinyl, labels, inner sleeves and covers) -> upload your artwork using our templates or design online with our innovative designer all the parts you wish to print -> view the preview -> finalise the order and pay online or by traditional methods.
