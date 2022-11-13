@@ -21,6 +21,15 @@ ref: single-copy
 
 ### Info
 
+#### VINILIFICIO WEB APP 2.0
+La nuova web app di Vinilificio ti permette di creare il tuo vinile personalizzato in tutte le sue parti in maniera semplice ed intutiva. È stata progettata per soddisfare le esigenze degli utenti più esperti e di coloro che si avvicinano al mondo del vinile per la prima volta. 
+
+Scegli il tuo disco -> carica i brani e disponili a tuo piacimento sulle facciate del disco -> scegli le opzioni (colore e spessore del vinile, centrini, bueste interene e copertine) -> carica i tui artwork utilizzando i nostri templates oppure disegna online con il nostro innovativo designer tutte le parti che desideri stampare -> visualizza le preview -> finalizza l'ordine e paga online oppure con i metodi classici.
+
+Con la Vinilificio web app 2.0 la tua idea di vinile diventa realtà, con la massima semplicità e la qualità che contraddistingue Vinilificio dal 2005.
+Per cominciare [Clicca qui](https://app.vinilificio.com) o sul pulsante crea il tuo vinile
+
+
 Dal 2005 Vinilificio riversa la tua musica in singola copia su vero disco di vinile a 33 rpm, 45 rpm, 78 rpm, in diversi formati, su vinilie nero, trasparente, bianco, blue trasparente, verde trasparente o picture disc. Qualità, alto volume, solco stabile e profondo stereo e mono.
 I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come lo scratch o il backspin, ma anche per l’ascolto hi-fi e su jukebox. La qualità del suono e l’usura sono identici ai classici dischi di vinile che noi tutti conosciamo. I vinili sono disponibili nei formati 5”, 7”, 10”, 12”, 5" x 7" (vinyl postcard) diversi spessori (1 mm, 1,5 mm, 2 mm), nei colori nero, trasparente, bianco, verde trasparente, blue trasparente e picture disc.
 
