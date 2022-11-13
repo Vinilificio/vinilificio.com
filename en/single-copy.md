@@ -22,6 +22,12 @@ ref: single-copy
 
 ### Info
 
+The new Vinilificio web app allows you to create your customised vinyl record in all its parts in a simple and intuitive way. It is designed to meet the needs of experienced users and those approaching the world of vinyl record for the first time.
+
+Choose your record -> upload the tracks and place them to your liking on the sides of the record -> choose the options ( colour and thickness of the vinyl, labels, inner sleeves and covers) -> upload your artwork using our templates or design online with our innovative designer all the parts you wish to print -> view the preview -> finalise the order and pay online or by traditional methods.
+
+With the Vinilificio web app 2.0 your vinyl idea becomes reality, with the utmost simplicity and quality that has distinguished Vinilificio since 2005. To get started [Click here](https://app.vinilificio.com) or on the "create your vinyl" button
+
 Since 2005, Vinilificio has been transferring your music onto single copies of authentic vinyl records at 33, 45, and 78 rpm, in different formats, and on black, transparent, white, blue transparent, green transparent and picture discs. Quality, high volume, stable and deep grooves, stereo and mono. Vinilificio’s vinyls are particularly suitable for heavy uses such as scratching and backspin. They are also excellent for hi-fi stereo, portable record player and jukebox listening. The sound quality and wear are identical to standard records. Vinyls are available in 5”, 7”,10” and 12” formats on black, transparent, white, green transparente, blue transparent and picture disc.
 
 ### Single copy and small run
