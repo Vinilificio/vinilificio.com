@@ -38,6 +38,14 @@ I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come l
 Realizziamo il tuo vinile in singola copia, qualche unità o [piccole tirature](/piccole-tirature/).
 Con la [App di Vinilificio](https://app.vinilificio.com) in maniera semplice ed intuitiva puoi simulare il costo del tuo ordine, uploadare l'audio, realizzare le grafiche ed effettuare il tuo ordine.
 
+__________________
+<b>TEMPI DI LAVORAZIONE</b>
+I tempi di lavorazione e di spedizione sono calcolati dalla data di pagamento e dipendono dalla quantità ordinata, dalla durata del disco, dalla presenza o meno di copertine stampate e dal periodo di lancio dell'ordine.
+
+<i>I tempi di lavorazione attualmente variano tra i 20 e i 50 giorni lavorativi (sabato, domenica e giorni festivi esclusi).</i> La data di consegna attesa sarà comunicata via email quando il pagamento sarà ricevuto. 
+__________________
+
+
 ### Grafica
 
 Stampiamo in singola copia (o in piccole tirature) centrini e copertine in tutti i formati, per vinile singolo, doppio o triplo, a tasca singola o gatefold. Divertiti con la Vinilificio App, crea con facilità le tue grafiche e ordinare il tuo vinile. Se invece te la cavi con la grafica richiedi specifiche e template per realizzare la tua copertina.
