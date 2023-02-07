@@ -36,6 +36,12 @@ Since 2005, Vinilificio has been transferring your music onto single copies of a
 
 We can make your vinyl in a single copy, limited units or [small runs](/en/small-run/).
 With the Vinilificio app you can calculate the cost of your order, simulate your vinyl, upload the audio, create your own artwork and place your order.
+___________________________
+<B>PRODUCTION TIMES:</B>
+Processing and shipping times are calculated from the date of payment and depend on the quantity ordered, the duration of the disc, whether or not there are printed covers, and the order launch period,
+
+<i>Processing times currently vary between 20 and 50 working days (Saturdays, Sundays and closing days excluded).</i> The expected shipping date will be communicated by email once payment has been received. 
+___________________________
 
 ### Custom print cover and label
 
