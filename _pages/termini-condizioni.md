@@ -29,6 +29,12 @@ L’audio trasferito da Vinilificio da master ad altro supporto (vinile) su sing
 
 Il cliente è responsabile per la qualità dei contenuti audio e grafici forniti a Vinilificio per il servizio di trasferimento master audio su vinile e per il servizio di stampa in quantità. Il cliente deve obbligatoriamente prendere visione delle specifiche tecniche fornite da Vinilificio sul proprio sito e/o tramite email e fornire materiale conforme. Non si accettano reclami in merito alla qualità del prodotto realizzato da Vinilificio in caso di materiale non conforme. In caso di materiale non conforme il cliente, prima di procedere alla lavorazione, può fare richiesta di supporto per il servizio di mastering e/o supporto grafico. I servizi di mastering e/o supporto grafico vengono attivati solo ed esclusivamente previa richiesta del cliente e approvazione del preventivo.
 
+**TEMPI DI LAVORAZIONE PER IL SERVIZIO DI SINGOLO VINILE E PICCOLE TIRATURE:**
+
+I tempi di lavorazione previsti per la produzione di un vinile in singola copia o per piccole tirature varia tra i 20 e i 50 giorni lavorativi. Le tempistiche possono variare in base alla tipologia di ordine (formato vinile, durata master, stampe, quantità...). Il cliente concede incondizionatamente a Vinilificio ulteriori 40 giorni di lavorazione in caso di (ma non solo) problemi qualitativi riscontrati durante la produzione, problemi di approvvigionamento di materie prime e semilavorati, malattia degli operatori e altri fattori esterni come eventi climatici estremi, terremoti, guerre e pandemie.
+Vinilificio è comunque tenuto a comunicare eventuali ritardi al cliente entro 10 giorni dalla data comunicata nella conferma d'ordine. Allo scadere dei 40 giorni concessi il cliente ha il diritto di richidere il rimborso di quanto versato per la produzione dell'ordine.
+
+
 **SERVIZIO DI INTERMEDIAZIONE PER LA PRODUZIONE DI DISCHI IN VINILE:**
 
 *I. Scopo
