@@ -10,36 +10,64 @@ ref: small-run
 
 ![infographic vinili](/img/PROMO-SMALL-RUNS_GFX_big-5.jpg)
 
-Vinilificio offre un nuovo servizio di transfer audio su vinile pensato per dj ed etichette.
+Il servizio di piccole tirature è particolarmente indicato per artisti, etichette discografiche e dj.
 
-Riversiamo l’audio su vinile per i tuoi promo in piccole quantità senza dover attendere mesi ed impegnarsi in grandi quantità.
+* Riversiamo l’audio su vinile per i tuoi promo o edizioni limitate in piccole tirature senza dover attendere molti mesi ed impegnarsi in grandi quantità.
+* I dischi sono incisi copia per copia su una o più macchine. Ogni vinile è un pezzo unico, considera che possono esserci piccole differenze tra un vinile e l'altro.
+* Prima di procedere con l'incisione della serie inviamo un <b>disco test</b> che il cliente dovrà approvare. Il costo del disco test e della spedizione è a carico del cliente e sarà dedotto dal totale.
 
-* 10 x 12″ nero 1,5 mm (entro 8 minuti per lato) € 250,00 (*)
-* 20 x 12″ nero 1,5 mm (entro 8 minuti per lato) € 400,00 (*)
-* 30 x 12″ nero 1,5 mm (entro 8 minuti per lato)  € 540,00 (*)
 
+## VINILE 12" 
+
+* 10 x 12″ nero 1,5 mm / 2mm (entro 8 minuti per lato) € 250,00 (*)
+* 20 x 12″ nero 1,5 mm / 2mm (entro 8 minuti per lato) € 400,00 (*)
+* 30 x 12″ nero 1,5 mm / 2mm (entro 8 minuti per lato)  € 540,00 (*)
+
+
+--
+
+* 10 x 12″ nero 1,5 mm / 2mm (entro 16 minuti per lato) € 320,00 (*)
+* 20 x 12″ nero 1,5 mm / 2mm (entro 16 minuti per lato) € 560,00 (*)
+* 30 x 12″ nero 1,5 mm / 2mm (entro 16 minuti per lato)  € 750,00 (*)
+
+## VINILE 10"
 
 * 10 x 10″ nero 1,5 mm (entro 6 minuti per lato) € 220,00 (*)
 * 20 x 10″ nero 1,5 mm (entro 6 minuti per lato) € 380,00 (*)
-* 30 x 10″ nero 1,5 mm (entro 6 minuti per lato)  € 510,00 (*)
+* 30 x 10″ nero 1,5 mm (entro 6 minuti per lato) € 510,00 (*)
+
+## VINILE 7"
+
+* 10 x 7″ nero 1,5 mm (entro 4 minuti per lato) € 180,00 (*)
+* 20 x 7″ nero 1,5 mm (entro 4 minuti per lato) € 300,00 (*)
+* 30 x 7″ nero 1,5 mm (entro 4 minuti per lato) € 445,00 (*)
+* 50 x 7″ nero 1,5 mm (entro 4 minuti per lato) € 730,00 (*)
 
 
-I vinili sono forniti con  etichetta bianca + busta interna bianca polylined + copertina bianca doppio foro
 
-*Oltre 8 minuti per lato + € 1,00 al minuto*
-
-La stampa dei centrini è di € 2,00 a vinile.
-
-Stampiamo le copertine anche per le piccole quantità. Contattaci per un preventivo.
-
-Tempi di lavorazione: in media 15/20 giorni lavorativi. 
-Le tempistiche potrebbero variare a seconda del periodo. Contattaci per maggiori informazioni.
+La configuarzione base prevede vinile nero + etichetta bianca + busta interna bianca polylined
 
 (*) Spese di spedizione (per l’Italia) e IVA 22% incluse
 
+Su richiesta:
+
+* Stampa centrini (lato A + B) € 1,00 a vinile.
+* Copertina Bianca (**)
+* Copertina Nera (**)
+* Copertina Marrone (**)
+* Copertina Stampata (**)
+* Busta PVC (**)
+* Vinile trasparente 2mm (**)
+* Personalizzazioni ad hoc (**)
+
+(**) Il costo varia a seconda delle quantità e del formato. Contattaci per un preventivo personalizzato.
 
 
-Per ordini e informazioni <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
+Tempi di lavorazione: in media 25/50 giorni lavorativi. 
+Le tempistiche variano a seconda delle quantità, della durata del master, dalle opzioni scelte e del periodo. Contattaci per maggiori informazioni.
+
+
+Per preventivi personalizzati, informazioni e ordini scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
 
 
 ![small runs](/img/small_run_01.jpg)
