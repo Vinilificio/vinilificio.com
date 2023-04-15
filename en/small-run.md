@@ -10,31 +10,55 @@ ref: small-run
 
 ![infographic vinili](/img/PROMO-SMALL-RUNS_GFX_big-5.jpg)
 
-Vinilificio offers an audio transfer service on vinyl designed for DJs and record labels.
+## VINYL 12" 
 
-We transfer audio onto vinyl in small quantities for your promos, so you don’t have to wait months or purchase large quantities.
-
-* 10 x 12 "black 1.5 mm (each side within 8 minutes) € 250.00 (*)
-* 20 x 12 "black 1.5 mm (each side within 8 minutes) € 400.00 (*)
-* 30 x 12 "black 1.5 mm (each side within 8 minutes) € 540.00 (*)
+* 10 x 12″ black 1.5 mm / 2mm (within 8 minutes per side) € 250.00 (*)
+* 20 x 12″ black 1.5 mm / 2mm (within 8 minutes per side) € 400,00 (*)
+* 30 x 12″ black 1.5 mm / 2mm (within 8 minutes per side) € 540.00 (*)
 
 
-* 10 x 10 "black 1.5 mm (each side within 6 minutes) € 220.00 (*)
-* 20 x 10 "black 1.5 mm (each side within 6 minutes) € 380.00 (*)
-* 30 x 10 "black 1.5 mm (each side within 6 minutes) € 510.00 (*)
+--
 
-All vinyl records are supplied with white label + white polylined inner envelope + white double hole cover.
+* 10 x 12″ black 1,5 mm / 2mm (within 16 minutes per side) € 320,00 (*)
+* 20 x 12″ black 1,5 mm / 2mm (within 16 minutes per side) € 560,00 (*)
+* 30 x 12″ black 1,5 mm / 2mm (within 16 minutes per side) € 750,00 (*)
+
+## VINYL 10"
+
+* 10 x 10″ black 1.5 mm (within 6 minutes per side) € 220,00 (*)
+* 20 x 10″ black 1.5 mm (within 6 minutes per side) € 380.00 (*)
+* 30 x 10″ black 1.5 mm (within 6 minutes per side) € 510.00 (*)
+
+## VINYL 7"
+
+* 10 x 7″ black 1.5 mm (within 4 minutes per side) € 180,00 (*)
+* 20 x 7″ black 1.5 mm (within 4 minutes per side) € 300.00 (*)
+* 30 x 7″ black 1.5 mm (within 4 minutes per side) € 445.00 (*)
+* 50 x 7″ black 1.5 mm (within 4 minutes per side) € 730.00 (*)
 
 
-* Over 8 minutes per side + € 1.00 each minute
 
-Label printing costs € 2.00 per vinyl.
+Basic configuration includes black vinyl + white label + white polylined inner sleeve
 
-Printed cover, available for 12". Contact us for further information.
+(*) Shipping costs (for Italy) and VAT 22% included
 
-Normnally the processing time is between 15 and 20 working days. In some moments of the year the processing time could vary. Contact us for further information.  
+On request:
 
-(*) Shipping costs (for Italy) and 22% VAT  included
+* Doily print (side A + B) € 1,00 per vinyl.
+* White Cover (**)
+* Black Cover (**)
+* Brown Cover (**)
+* Printed Cover (**)
+* PVC Envelope (**)
+* Transparent Vinyl 2mm (**)
+* Ad hoc customisation (**)
+
+(**) Cost varies depending on quantity and format. Contact us for a customised quote.
+
+
+Processing time: 25/50 working days on average. 
+Lead times vary depending on quantities, duration of master, options chosen and period. Contact us for more information.
+
 
 For orders and information contact <a href="mailto:info@vinilificio.com"> info at vinilificio.com </a>
 
