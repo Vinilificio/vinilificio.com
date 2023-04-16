@@ -19,43 +19,44 @@ ref: single-copy
 
 # Vinile in singola copia e dubplate
 
+[Partendo da qua](https://app.vinilificio.com) puoi creare il tuo vinile personalizzato in pochi passi e con la massima qualità.
+
 ### Info
+Dal 2005 realizziamo il tuo vinile in tutti i formati in singola copia con le tecnologie più avanzate e la massima qualità. Vinili neri, colorati (nero, trasparente, bianco, rosso trasparente, blue trasparente, verde trasparente) o picture disc. Stampiamo in alta qualità copertine e centrini.
+
+I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come lo scratch o il backspin, ma anche per l’ascolto hi-fi e su jukebox. La qualità del suono e l’usura sono identici ai classici dischi di vinile che noi tutti conosciamo. 
 
 #### VINILIFICIO WEB APP 2.0
-La nuova web app di Vinilificio ti permette di creare il tuo vinile personalizzato in tutte le sue parti in maniera semplice ed intutiva. È stata progettata per soddisfare le esigenze degli utenti più esperti e di coloro che si avvicinano al mondo del vinile per la prima volta. 
-
-Scegli il tuo disco -> carica i brani e disponili a tuo piacimento sulle facciate del disco -> scegli le opzioni (colore e spessore del vinile, centrini, bueste interene e copertine) -> carica i tui artwork utilizzando i nostri templates oppure disegna online con il nostro innovativo designer tutte le parti che desideri stampare -> visualizza le preview -> finalizza l'ordine e paga online oppure con i metodi classici.
-
-Con la Vinilificio web app 2.0 la tua idea di vinile diventa realtà, con la massima semplicità e la qualità che contraddistingue Vinilificio dal 2005.
-Per cominciare [Clicca qui](https://app.vinilificio.com) o sul pulsante crea il tuo vinile
-
-
-Dal 2005 Vinilificio riversa la tua musica in singola copia su vero disco di vinile a 33 rpm, 45 rpm, 78 rpm, in diversi formati, su vinilie nero, trasparente, bianco, blue trasparente, verde trasparente o picture disc. Qualità, alto volume, solco stabile e profondo stereo e mono.
-I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come lo scratch o il backspin, ma anche per l’ascolto hi-fi e su jukebox. La qualità del suono e l’usura sono identici ai classici dischi di vinile che noi tutti conosciamo. I vinili sono disponibili nei formati 5”, 7”, 10”, 12”, 5" x 7" (vinyl postcard) diversi spessori (1 mm, 1,5 mm, 2 mm), nei colori nero, trasparente, bianco, verde trasparente, blue trasparente e picture disc.
+[La nuova web app di Vinilificio](https://app.vinilificio.com) ti permette di creare il tuo vinile personalizzato in tutte le sue parti in maniera semplice ed intutiva. È stata progettata per soddisfare le esigenze sia dei professionisti che dei meno esperti. 
 
 ### Singola copia e piccole tirature
 
 Realizziamo il tuo vinile in singola copia, qualche unità o [piccole tirature](/piccole-tirature/).
-Con la [App di Vinilificio](https://app.vinilificio.com) in maniera semplice ed intuitiva puoi simulare il costo del tuo ordine, uploadare l'audio, realizzare le grafiche ed effettuare il tuo ordine.
+Con l' [App di Vinilificio](https://app.vinilificio.com) in maniera semplice ed intuitiva puoi simulare il costo del tuo ordine, uploadare l'audio, realizzare le grafiche ed effettuare il tuo ordine.
 
 __________________
 <b>TEMPI DI LAVORAZIONE</b>
 I tempi di lavorazione e di spedizione sono calcolati dalla data di pagamento e dipendono dalla quantità ordinata, dalla durata del disco, dalla presenza o meno di copertine stampate e dal periodo di lancio dell'ordine.
 
-<i>I tempi di lavorazione attualmente variano tra i 20 e i 50 giorni lavorativi (sabato, domenica e giorni festivi esclusi).</i> La data di consegna attesa sarà comunicata via email quando il pagamento sarà ricevuto. 
+<i>I tempi di lavorazione attualmente variano tra i 20 e i 50 giorni lavorativi (sabato, domenica e giorni festivi esclusi).</i> La data prevista per la spedizione sarà comunicata via email entro il giorno lavorativo successivo la ricezione dell'ordine.
 __________________
 
 
 ### Grafica
 
-Stampiamo in singola copia (o in piccole tirature) centrini e copertine in tutti i formati, per vinile singolo, doppio o triplo, a tasca singola o gatefold. Divertiti con la Vinilificio App, crea con facilità le tue grafiche e ordinare il tuo vinile. Se invece te la cavi con la grafica richiedi specifiche e template per realizzare la tua copertina.
-Stampiamo in digitale in alta qualità.
+Stampiamo in singola copia (o in piccole tirature) centrini e copertine in tutti i formati, per vinile singolo, doppio, a tasca singola o gatefold. 
 
-#### Specifiche immagine per centrini e copertina:
+Puoi creare le tue grafiche utilizzando il [designer - Vinilificio Web App](https://app.vinilificio.com) oppure con i programmi di grafica utilizzando i nostri templates. 
 
-Formati supportati dalla nostra web app: jpg, png
+Per maggiori informazioni [contattaci](/contatti/). 
 
-Formati non supportati dalla nostra web app. Da inviare tramite wetransfer (chiedici come): pdf, tiff
+Le nostre copertine sono realizzate con le migliori tecnologie di stampa, tagliati e fustellati con plotter a controllo numerico.
+
+#### Specifiche
+
+Formati supportati dal designer della Vinilificio Web App: png, jpg, gif
+
+Formati supportati dall'uploader della Vinilificio Web App: pdf (utilizzando i nostri templates)
 
 Risoluzione: 300 dpi (almeno)
 
@@ -67,7 +68,7 @@ Attenzione:
 
 1) Font: Rasterizzare o rendere tracciati
 
-2) Per una migliore resa nei colori di stampa consigliamo il profilo colore  Fogra 27
+2) Per una migliore resa nei colori di stampa consigliamo il profilo colore  Fogra 39
 
 
 
@@ -109,9 +110,9 @@ Proporzione quantità/qualità audio su vinile 12″ a 33 rpm:
 #### Files audio e alcune indicazioni importanti
 Su vinile si può incidere più o meno qualsiasi tipo di segnale audio. Per avere però una buona qualità è consigliabile attenersi ad alcune importanti indicazioni.
 
-Ricordiamo che migliore sarà la qualità del master audio, migliore sarà la qualità dell'incisione su vinile.
+Ricordiamo che migliore sarà la qualità del master, migliore sarà la qualità dell'audio inciso su vinile. Consigliamo sempre un apposito mastering per vinile.
 
-Accettiamo qualsiasi tipo di formato audio digitale. wav, aiff, mp3...
+Accettiamo qualsiasi tipo di formato audio digitale. wav, aiff, mp3... Per una migliore resa consigliamo vivamente formato .wav o aiff. Se proprio vuoi incidere formati compressi come l'mp3 non convertirli in altro foramto.
 
 **Frequenze basse:**
 
@@ -123,7 +124,7 @@ Accettiamo qualsiasi tipo di formato audio digitale. wav, aiff, mp3...
 
 * De-esser: È consigliato utilzzare un de-esser sulle voci e in generale sulle sibilanti
 * Non è possibile incidere frequenze sopra i 14/15 Khz a volumi molto alti
-* Per una migliore resa consigliamo di posizionare le tracce con più frequenze ad inizio vinile.
+* Per una migliore resa consigliamo di posizionare le tracce con frequenze alte ad inizio vinile.
 
 **Vuoi saperne di più?** 
 [Dai un'occhiata qua](https://www.dropbox.com/s/obs7xpk86frxnor/Specifiche%20Audio%20per%20vinili.pdf?dl=0)
