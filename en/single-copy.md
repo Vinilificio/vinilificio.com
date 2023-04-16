@@ -35,7 +35,9 @@ Vinilificio’s vinyls are particularly suitable for heavy uses such as scratchi
 
 We can make your vinyl in a single copy, limited units or [small runs](/en/small-run/).
 With the [Vinilificio app](https://app.vinilificio.com) you can calculate the cost of your order, simulate your vinyl, upload the audio, create your own artwork and place your order.
+
 ___________________________
+
 <B>PRODUCTION TIMES:</B>
 Processing and shipping times are calculated from the date of payment and depend on the quantity ordered, the duration of the disc, whether or not there are printed covers, and the order launch period,
 
@@ -137,7 +139,7 @@ If you really want to transfer on vinyl compressed files formats such as mp3, do
 
 **Do you want to know more?** 
 
-[Look here at Rand Muzik specifications.](https://www.randmuzik.de/media/audio_specification_en_2.pdf))
+[Look here at Rand Muzik specifications.](https://www.randmuzik.de/media/audio_specification_en_2.pdf)
 * Please note that for the audio transfer service on single copy we do not use a Neuman system, but a special system designed especially for direct vinyl cutting. 
 
 **Know nothing about audio mastering and don’t know what to do?** 
