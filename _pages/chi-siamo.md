@@ -26,6 +26,12 @@ Guidiamo chi si trova alle primissime esperienze di produzione su vinile verso l
 
 Dal 2005, grazie ai continui investimenti e alla continua ricerca Vinilificio è leader del mercato italiano, e tra le realtà più significative in Europa.
 
+Il nostro studio di audio transfer è equipaggiato con
+* 2 Vinyl Recorder semi automatici
+* 1 Vinyl Recorder automatico
+* 1 Nightingale 2.0 montato su meccanica Vinyl Recorder
+
+
 Grazie alla partnership con Rand Muzik di cui è concessionario esclusivo per l'Italia, Vinilificio fornisce servizio di stampa a partire da 100 copie e duplicazione cassette a paritre da 50 copie.
 
 Ad ognuno la propria musica ad ognuno il proprio vinile personalizzato.
@@ -45,9 +51,9 @@ La clientela del Vinilifcio è composta tra gli altri da:
 
 Grazie alla personalizzazione completa del prodotto (grafiche, copertine, centrini…) i vinili del Vinilificio sono un importante e prezioso oggetto per un premio o per un importante regalo in occasione di compleanni, anniversarsi, dichiarazioni di amore…
 
-Il Vinilificio è in oltre parnter e supporter di diversi eventi culturali e musicali tra cui IDA WORLD, IDA ITALY, IDA UK & IRELAND, ORIGINAL CULTURES, DISCO DAYS, SANREMO ROCK.
+Il Vinilificio supporta eventi culturali e musicali. Per essere aggiornato segui la nostra pagina <a href="https://www.instagram.com/vinilificio/>instagram</a>
 
-### Portfolio
+### Portfolio (alcuni dei nostri clienti)
 * [Archeo Recordings](https://www.archeo-recordings.com/){:target="_blank"}
 * [Avant Records](http://www.avantrecords.com/){:target="_blank"}
 * [Bassplate Records](http://www.bassplaterecords.net/){:target="_blank"}
