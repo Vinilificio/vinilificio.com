@@ -19,37 +19,44 @@ ref: single-copy
 
 # Vinyl record in single copy and dublate
 
+[Starting here](https://app.vinilificio.com) you can create your own customised vinyl in just a few steps and with the highest quality.
 
 ### Info
 
+Since 2005 we produce your vinyl in single copy with the latest technology and the highest quality. All vinyl records format are available in black, coloured (black, transparent, white, transparent red, transparent blue, transparent green) or picture disc. High-quality print of covers and labels.
+
+Vinilificio’s vinyls are particularly suitable for heavy uses such as scratching and backspin. They are also excellent for hi-fi stereo, portable record player and jukebox listening. The sound quality and wear are identical to standard records.
+
 #### VINILIFICIO WEB APP 2.0
 
-The new Vinilificio web app allows you to create your customised vinyl record in all its parts in a simple and intuitive way. It is designed to meet the needs of experienced users and those approaching the world of vinyl record for the first time.
-
-Choose your record -> upload the tracks and place them to your liking on the sides of the record -> choose the options ( colour and thickness of the vinyl, labels, inner sleeves and covers) -> upload your artwork using our templates or design online with our innovative designer all the parts you wish to print -> view the preview -> finalise the order and pay online or by traditional methods.
-
-With the Vinilificio web app 2.0 your vinyl idea becomes reality, with the utmost simplicity and quality that has distinguished Vinilificio since 2005. To get started [Click here](https://app.vinilificio.com) or on the "create your vinyl" button
-
-Since 2005, Vinilificio has been transferring your music onto single copies of authentic vinyl records at 33, 45, and 78 rpm, in different formats, and on black, transparent, white, blue transparent, green transparent and picture discs. Quality, high volume, stable and deep grooves, stereo and mono. Vinilificio’s vinyls are particularly suitable for heavy uses such as scratching and backspin. They are also excellent for hi-fi stereo, portable record player and jukebox listening. The sound quality and wear are identical to standard records. Vinyls are available in 5”, 7”,10” and 12” formats on black, transparent, white, green transparente, blue transparent and picture disc.
+[The new Vinilificio web app](https://app.vinilificio.com) allows you to create your customised vinyl record in all its parts in a simple and intuitive way. It is designed to meet the needs of experienced users and those approaching the world of vinyl record for the first time.
 
 ### Single copy and small run
 
 We can make your vinyl in a single copy, limited units or [small runs](/en/small-run/).
-With the Vinilificio app you can calculate the cost of your order, simulate your vinyl, upload the audio, create your own artwork and place your order.
+With the [Vinilificio app](https://app.vinilificio.com) you can calculate the cost of your order, simulate your vinyl, upload the audio, create your own artwork and place your order.
 ___________________________
 <B>PRODUCTION TIMES:</B>
 Processing and shipping times are calculated from the date of payment and depend on the quantity ordered, the duration of the disc, whether or not there are printed covers, and the order launch period,
 
-<i>Processing times currently vary between 20 and 50 working days (Saturdays, Sundays and closing days excluded).</i> The expected shipping date will be communicated by email once payment has been received. 
+<i>Processing times currently vary between 20 and 50 working days (Saturdays, Sundays and public holidays excluded).</i> The expected shipping date will be communicated by email within one working day after receipt of order.
 ___________________________
 
 ### Custom print cover and label
 
-We print single copy (or small run) labels and covers in all formats, for single, double or triple vinyl records, single pocket or gatefold vinyl. We print with high quality digital printer. Have fun with the [Vinilificio App](https://app.vinilificio.com/){:target="_blank"}, easily create your own graphic design and order your vinyl. If you are familiar with design, ask for specifications and templates to create your cover and label.
+We print single copy (or small run) labels and covers in all formats, for single, double vinyl records, single cover or gatefold. We print with high quality digital printer. 
 
-Formats supported by our web app: jpg, png
+You can create your own graphics using the [designer - Vinilificio Web App](https://app.vinilificio.com) or with graphics programmes using our templates.
 
-Formats not supported by our web app. To be sent via wetransfer (ask us how): pdf, tiff
+For more information [contact us](/contact/). 
+
+Our covers are made with the best printing technologies, cut and die-cut with numerically controlled plotters.
+
+#### Specifications
+
+Formats supported by the Vinilificio Web App designer: png, jpg, gif
+
+Formats supported by the Vinilificio Web App uploader: pdf (using our templates)
 
 Resolution: 300 dpi (at least)
 
@@ -59,9 +66,9 @@ Contact us if you would like to create your graphics directly on our templates
 
 Please note: 
 
-1) Fonts: Rasterize or render traced 
+1) Fonts: Rasterize or render traced
 
-2) For a better rendering of print colours we recommend the Fogra 27 colour profile 
+2) For a better rendering of print colours we recommend the Fogra 39 colour profile
 
 
 ### Audio
@@ -104,11 +111,15 @@ Quality-quantity ratio for 12″ 33 rpm:
 ![infographic vinili formati standard](/img/inphografic-vinyl-special-format-en.png)
 
 #### Audio files and important advice
-You can record more or less any type of audio signal on vinyl. However, to ensure high quality, we suggest following these important indications.
+More or less any kind of audio signal can be recorded on vinyl. To obtain good quality, however, it is advisable to follow a few important guidelines.
 
-Remember that the better the quality of the audio master, the better the quality of the vinyl engraving will be.
+Remember that the better the quality of the master, the better the quality of the audio recorded on vinyl. We always recommend appropriate mastering for vinyl.
 
-We can transfer any audio file i.e. wav, aiff, flac, mp3 etc. on vinyl.
+We accept any type of digital audio format. wav, aiff, mp3...  
+
+<i>For best performance we strongly recommend .wav or .aiff format. </i>
+
+If you really want to transfer on vinyl compressed files formats such as mp3, do not convert them to any other file format.
 
 **Low freqeunces:**
 
@@ -126,7 +137,7 @@ We can transfer any audio file i.e. wav, aiff, flac, mp3 etc. on vinyl.
 
 **Do you want to know more?** 
 
-[Look here at Rand Muzik specifications.](https://www.randmuzik.de/media/audio_specification_en_1.pdf)
+[Look here at Rand Muzik specifications.](https://www.randmuzik.de/media/audio_specification_en_2.pdf))
 * Please note that for the audio transfer service on single copy we do not use a Neuman system, but a special system designed especially for direct vinyl cutting. 
 
 **Know nothing about audio mastering and don’t know what to do?** 
