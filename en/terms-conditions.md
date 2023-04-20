@@ -35,6 +35,25 @@ The client is responsible for the quality of the audio and graphic content suppl
 Processing times for single vinyl or small runs vary between 20 and 50 working days. Times may vary depending on the type of order (vinyl format, master length, prints, quantity...). The customer unconditionally grants Vinilificio an additional 40 working days in the event of (but not limited to) quality problems encountered during production, problems with the supply of raw materials and semi-finished products, operator illness and other external factors such as extreme weather events, earthquakes, wars and pandemics.
 Vinilificio is however obliged to communicate any delays to the client within 10 days from the date communicated in the order confirmation. At the end of the 40 days allowed the client has the right to request a refund of the amount paid for the production of the order.
 
+**QUALITY, ORDER CANCELLATION AND REFUND:**
+
+<i>Given that:
+The customer is obliged to provide material that is qualitatively compliant with the specifications on our website. 
+
+The media produced by Vinilificio are made exclusively with content provided by customers, for this reason Vinilifcio cannot transfer to third parties in any way the material produced.
+
+Vinilificio carries out quality control both during production and before shipment.
+
+Vinilificio ships with appropriate vinyl packaging. Any damages caused by mishandling of the package shall be considered quality production problems. More information can be found in “Shipping” in Terms and Conditions.</i>
+
+1. In the event that the customer experiences quality problems due to the production of audio and/or graphic media produced by Vinilificio, the customer must send a communication via email to info@vinilificio.com no later than 8 days from the receipt of the order. The communication must include a clear description of any problems together with photographic and/or video documentation. If requested by Vinilificio, the customer must return the defective material for viewing. Shipping costs are borne by the customer and will be reimbursed by Vinilificio if the production defect is confirmed. Vinilificio must respond within 8 working days. If the production defect is confirmed, Vinilificio will remanufacture the item that has production problems at its own expense. Shipping costs are borne by Vinilificio. 
+
+2. The customer has the right to cancel the order once payment has been made. 
+* In the case of an order not yet in production, the refund will be issued within 14 days of receipt of the request. Vinilificio will deduct a flat fee of € 10.00 for the management and administrative costs incurred for the order cancellation. 
+
+* In the event that the order has already been put into production, the refund will be issued within 14 days of receipt of the request. The customer must unconditionally bear a cost equal to 30% of the material already produced as a refund for the material used, management and administrative costs. The refund will be issued within 14 days of receipt of the request.”
+
+
 
 **INTERMEDIATION SERVICES FOR THE PRODUCTION OF VINYL RECORDS**
 
