@@ -34,6 +34,33 @@ Il cliente è responsabile per la qualità dei contenuti audio e grafici forniti
 I tempi di lavorazione previsti per la produzione di un vinile in singola copia o per piccole tirature varia tra i 20 e i 50 giorni lavorativi. Le tempistiche possono variare in base alla tipologia di ordine (formato vinile, durata master, stampe, quantità...). Il cliente concede incondizionatamente a Vinilificio ulteriori 40 giorni di lavorazione in caso di (ma non solo) problemi qualitativi riscontrati durante la produzione, problemi di approvvigionamento di materie prime e semilavorati, malattia degli operatori e altri fattori esterni come eventi climatici estremi, terremoti, guerre e pandemie.
 Vinilificio è comunque tenuto a comunicare eventuali ritardi al cliente entro 10 giorni dalla data comunicata nella conferma d'ordine. Allo scadere dei 40 giorni concessi il cliente ha il diritto di richidere il rimborso di quanto versato per la produzione dell'ordine.
 
+**QUALITA' E RICHIESTA DI RIMBORSO:**
+
+
+<i>Premesso che: 
+
+Il cliente è tenuto a fornire materiale qualitativamente conforme alle specifiche presenti sul nostro sito. 
+
+I supporti prodotti da Vinilificio sono realizzati esclusivamente con i contenuti forniti dai clienti, per questa ragione Vinilifcio non può cedere a terzi ad alcun titolo il materiale prodotto. 
+
+Vinilificio effettua un controllo qualità sia durante la produzione, che prima della spedizione.
+
+Vinilificio effettua spedizioni con appositi imballaggi per vinile. Eventuali danni causati da una mala gestione del collo NON sono da considerarsi problemi qualitativi di produzione. Maggiori informazioni in “Spedizione” in Termini e condizioni. </i>
+
+
+1. In caso il cliente riscontri problemi qualitativi dovuti alla lavorazione dei supporti audio e/o grafici prodotti da Vinilificio, il cliente dovrà inviare una comunicazione via email a info@vinilificio.com entro e non oltre 8 giorni dalla ricezione dell'ordine. La comunicazione deve includere una chiara descrizione dell'eventuale problema unitamente ad una documentazione fotografica e/o video. Se richiesto da Vinilificio, il cliente dovrà rendere il materiale difettoso, al fine che possa essere visionato. Le spese di spedizione sono a carico del cliente e verranno rimborsate da Vinilificio qualora il difetto di lavorazione sia confermato.
+Vinilificio è tenuto a dare un riscontro entro 8 giorni lavorativi. In caso che il difetto dovuto alla lavorazione sia confermato, Vinilificio rimetterà nuovamente in lavorazione a proprie spese l'articolo che presenta problemi di lavorazione. Le spese di spedizione sono a carico di Vinilificio.
+Problemi
+
+2. Il cliente ha diritto di annullare l’ordine una volta effettuato il pagamento. 
+
+* In caso di un ordine non ancora messo in lavorazione, il rimborso sarà emesso entro 14 giorni dalla ricezione della richiesta.
+Vinilificio dedurrà dal rimborso un costo a forfait di € 10,00 per le spese di gestione e amministrative sostenute per l’annullamento dell’ordine. 
+
+* In caso l’ordine sia già stato messo in produzione il rimborso sarà emesso entro 14 giorni dalla ricezione della richiesta. Il cliente dovrà sostenere incondizionatamente un costo pari al 30% del materiale già prodotto a titolo di rimborso del materiale utilizzato, costi di gestione e amministrativi. Il rimborso sarà emesso entro 14 giorni dalla ricezione della richiesta.
+
+
+
 
 **SERVIZIO DI INTERMEDIAZIONE PER LA PRODUZIONE DI DISCHI IN VINILE:**
 
