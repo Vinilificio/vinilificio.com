@@ -14,7 +14,7 @@ Vinilificio provides mastering with digital/analog mixed paths, optimization of 
 
 
 
-Mastering price list:
+Price list for mastering associated with single-copy, small runs and quantity :
 
 |               | Cost per minute                                                         |
 | ------------- |:-----------------------------------------------------------------------:|
@@ -26,5 +26,8 @@ Mastering price list:
 
 (**) Optimization for vinyl: (phase control and correction, de-essing, dynamic correction, etc.
 Care, skill and experience at the right price for the highest quality of your audio on vinyl.
+
+
+**ATTENTION: For the mastering/optimisation service only, not associated with vinyl production, a surcharge of € 1.00 per minute is applied**
 
 For further informations please write to <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
