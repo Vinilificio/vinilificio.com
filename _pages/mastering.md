@@ -12,7 +12,7 @@ Ogni supporto fonografico sia esso vinile, file, cd, dvd, video ha delle sue pec
 
 Il Vinilificio fornisce servizio di mastering con percorso misto digitale analogico, ottimizzazione audio di bassa qualità e servizio di restauro audio da vinile. Esperienza decennale nel mastering per vinile e digitale.
 
-Le nostre tariffe:
+Le nostre tariffe per mastering associato alla produzione in singola copia, piccole tirature e stampa in quantità:
 
 |               | Costo al minuto                                                         |
 | ------------- |:-----------------------------------------------------------------------:|
@@ -25,6 +25,7 @@ Le nostre tariffe:
 
 (**) Ottimizzazione per vinile: Ottimizzazione per vinile (controllo e correzione fasi,  de-essing, correzione dinamiche, etc...)
 
+**ATTENZIONE: Per il solo servizio di mastering/ottimizzazione non associato alla produzione di vinili, viene applicata una maggiorazione di € 1,00 al minuto**
 
 Qualità, cura, competenza, esperienza al giusto prezzo per la massima qualità del tuo audio su vinile.
 
