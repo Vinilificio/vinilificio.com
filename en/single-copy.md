@@ -19,7 +19,7 @@ ref: single-copy
 
 # Vinyl record in single copy and dublate
 
-<a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;">Create your vinyl record</a>
+<a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;">Make your vinyl record</a>
 
 You can create your own customised vinyl in just a few steps and with the highest quality.
 
@@ -35,7 +35,7 @@ Vinilificio’s vinyls are particularly suitable for heavy uses such as scratchi
 
 ### Single copy and small run
 
-<a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;">Create your vinyl record</a>
+<a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;">Make your vinyl record</a>
 
 
 We can make your vinyl in a single copy, limited units or [small runs](/en/small-run/).
