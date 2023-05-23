@@ -19,7 +19,9 @@ ref: single-copy
 
 # Vinyl record in single copy and dublate
 
-[Starting here](https://app.vinilificio.com) you can create your own customised vinyl in just a few steps and with the highest quality.
+<a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;">Create your vinyl record</a>
+
+You can create your own customised vinyl in just a few steps and with the highest quality.
 
 ### Info
 
@@ -32,6 +34,9 @@ Vinilificio’s vinyls are particularly suitable for heavy uses such as scratchi
 [The new Vinilificio web app](https://app.vinilificio.com) allows you to create your customised vinyl record in all its parts in a simple and intuitive way. It is designed to meet the needs of experienced users and those approaching the world of vinyl record for the first time.
 
 ### Single copy and small run
+
+<a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;">Create your vinyl record</a>
+
 
 We can make your vinyl in a single copy, limited units or [small runs](/en/small-run/).
 With the [Vinilificio app](https://app.vinilificio.com) you can calculate the cost of your order, simulate your vinyl, upload the audio, create your own artwork and place your order.
