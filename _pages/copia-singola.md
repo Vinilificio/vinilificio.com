@@ -19,7 +19,7 @@ ref: single-copy
 
 # Vinile in singola copia e dubplate
 
-[Partendo da qua](https://app.vinilificio.com) puoi creare il tuo vinile personalizzato in pochi passi e con la massima qualità.
+<a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;">Crea il tuo vinile</a> personalizzato in pochi passi e con la massima qualità.
 
 ### Info
 Dal 2005 realizziamo il tuo vinile in tutti i formati in singola copia con le tecnologie più avanzate e la massima qualità. Vinili neri, colorati (nero, trasparente, bianco, rosso trasparente, blue trasparente, verde trasparente) o picture disc. Stampiamo in alta qualità copertine e centrini.
@@ -30,6 +30,7 @@ I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come l
 [La nuova web app di Vinilificio](https://app.vinilificio.com) ti permette di creare il tuo vinile personalizzato in tutte le sue parti in maniera semplice ed intutiva. È stata progettata per soddisfare le esigenze sia dei professionisti che dei meno esperti. 
 
 ### Singola copia e piccole tirature
+<a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;">Crea il tuo vinile</a>
 
 Realizziamo il tuo vinile in singola copia, qualche unità o [piccole tirature](/piccole-tirature/).
 Con l' [App di Vinilificio](https://app.vinilificio.com) in maniera semplice ed intuitiva puoi simulare il costo del tuo ordine, uploadare l'audio, realizzare le grafiche ed effettuare il tuo ordine.
