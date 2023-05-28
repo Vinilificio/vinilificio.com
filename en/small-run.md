@@ -47,7 +47,7 @@ The short-run service is particularly suitable for artists, record labels and DJ
 
 Basic configuration includes black vinyl + white label + white polylined inner sleeve.
 
-Picture disc one side with high quality UV print are available on request. Contact us for further information. 
+Transparent vinyl and picture disc one side with high quality UV print are available on request. Contact us for further information. 
 
 (*) Shipping costs (for Italy) and VAT 22% included
 
