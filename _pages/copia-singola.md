@@ -52,7 +52,7 @@ I tempi di lavorazione e di spedizione sono calcolati dalla data di pagamento e 
 <i>I tempi di lavorazione attualmente variano tra i 20 e i 50 giorni lavorativi (sabato, domenica e giorni festivi esclusi).</i> La data prevista per la spedizione sarà comunicata via email entro il giorno lavorativo successivo la ricezione dell'ordine.
 
 
-_Produrre vinili è un lavoro di alta artiginalità che richiede tempo, attenzione e un'estrema cura. Facciamo del nostro meglio per soddisfare le esigenze di ciasucn cliente. Se hai necessità particolari non esitate a contattarci, ma non chiedere l'impossibile... la fretta non è compatibile con la qualità_ 
+_Produrre vinili è un lavoro di alta artiginalità che richiede tempo, attenzione e un'estrema cura. Facciamo del nostro meglio per soddisfare le esigenze di ciasucn cliente, ma considere che per produrre vinili di qualità è necessario tempo. Se hai necessità particolari non esitate a [contattaci](/contatti/)._ 
 
 
 
