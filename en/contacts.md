@@ -12,7 +12,7 @@ via Santa Margherita 14/A<br>
 40123 Bologna<br>
 Italy
 
-__By appointment only__
+__We receives by appointment only__
 
 Information, enquiry and appointments, you can contact us Mon-Fri from 9:30 / 13:00 and from 14:30 / 18:00 :<br><br>
 
