@@ -45,7 +45,9 @@ Il servizio di piccole tirature è particolarmente indicato per artisti, etichet
 
 
 
-La configuarzione base prevede vinile nero + etichetta bianca + busta interna bianca polylined
+La configuarzione base prevede vinile nero + etichetta bianca + busta interna bianca polylined.
+
+Altre opzioni di vinile sono disponibili (trasparente, picture disc one side).
 
 (*) Spese di spedizione (per l’Italia) e IVA 22% incluse
 
