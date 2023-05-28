@@ -53,7 +53,6 @@ Vinilificio’s vinyls are particularly suitable for heavy uses such as scratchi
 We can make your vinyl in a single copy, limited units or [small runs](/en/small-run/).
 With the [Vinilificio app](https://app.vinilificio.com) you can calculate the cost of your order, simulate your vinyl, upload the audio, create your own artwork and place your order.
 
-___________________________
 
 ### Processing time
 
@@ -63,7 +62,8 @@ Processing and shipping times are calculated from the date of payment and depend
 
 
 _Manufacturing vinyl is a highly crafted job that requires time, attention and extreme care. We do our best to meet the needs of each customer, but please consider that manufacturing good vinyl records needs time. If you have special needs do not hesitate to [contact us](/contact/)_.
-___________________________
+
+
 
 ### Custom print cover and label
 
