@@ -7,6 +7,8 @@ menu:
   id: info
 - titolo: Singola copia e piccole tirature
   id: singola-copia-e-piccole-tirature
+- titolo: Tempi di lavorazione
+  id: tempi-di-lavorazione
 - titolo: Grafica
   id: grafica
 - titolo: Audio
@@ -19,9 +21,17 @@ ref: single-copy
 
 # Vinile in singola copia e dubplate
 
-<a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;">Crea il tuo vinile</a> 
+![vinilepersonalizzato](/img/future-vinyl-project_web_medium.jpg)
 
-Personalizza il tuo vinlie in pochi passi e con la massima qualità.
+Sei un addetto ai lavori e hai bisongo di un vinile di alta qualità? 
+
+Non hai alcuna esperienza e desideri realizzare il tuo vinile personalizzato?
+
+Comunque sia, sei nel posto giusto. Dal 2005 realizziamo il tuo vinile personalizzato. 
+Crea adesso <a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;">il tuo vinile.</a> 
+
+Hai domande o hai bisogno di informazioni che non trovi in questa pagina? [Contattaci](/contatti/)
+
 
 ### Info
 Dal 2005 realizziamo il tuo vinile in tutti i formati in singola copia con le tecnologie più avanzate e la massima qualità. Vinili neri, colorati (nero, trasparente, bianco, rosso trasparente, blue trasparente, verde trasparente) o picture disc. Stampiamo in alta qualità copertine e centrini.
@@ -32,18 +42,18 @@ I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come l
 [La nuova web app di Vinilificio](https://app.vinilificio.com) ti permette di creare il tuo vinile personalizzato in tutte le sue parti in maniera semplice ed intutiva. È stata progettata per soddisfare le esigenze sia dei professionisti che dei meno esperti. 
 
 ### Singola copia e piccole tirature
-
-<a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;">Crea il tuo vinile</a>
-
 Realizziamo il tuo vinile in singola copia, qualche unità o [piccole tirature](/piccole-tirature/).
 Con l' [App di Vinilificio](https://app.vinilificio.com) in maniera semplice ed intuitiva puoi simulare il costo del tuo ordine, uploadare l'audio, realizzare le grafiche ed effettuare il tuo ordine.
 
-__________________
-<b>TEMPI DI LAVORAZIONE</b>
+
+### Tempi di lavorazione
 I tempi di lavorazione e di spedizione sono calcolati dalla data di pagamento e dipendono dalla quantità ordinata, dalla durata del disco, dalla presenza o meno di copertine stampate e dal periodo di lancio dell'ordine.
 
 <i>I tempi di lavorazione attualmente variano tra i 20 e i 50 giorni lavorativi (sabato, domenica e giorni festivi esclusi).</i> La data prevista per la spedizione sarà comunicata via email entro il giorno lavorativo successivo la ricezione dell'ordine.
-__________________
+
+
+_Produrre vinili è un lavoro di alta artiginalità che richiede tempo, attenzione e un'estrema cura. Facciamo del nostro meglio per soddisfare le esigenze di ciasucn cliente. Se hai necessità particolari non esitate a contattarci, ma non chiedere l'impossibile... la fretta non è compatibile con la qualità_ 
+
 
 
 ### Grafica
