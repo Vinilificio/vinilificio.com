@@ -7,6 +7,8 @@ menu:
   id: info
 - titolo: Single copy and small run
   id: single-copy-and-small-run
+- titolo: Processing time
+  id: processing-time  
 - titolo: Custom print cover and label
   id: custom-print-cover-and-label
 - titolo: Audio
@@ -19,9 +21,19 @@ ref: single-copy
 
 # Vinyl record in single copy and dublate
 
-<a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;">Make your vinyl record</a>
+![vinilepersonalizzato](/img/future-vinyl-project_web_medium.jpg)
+
+Are you an insider and in need of high-quality vinyl record? 
+
+Do you have no experience and want to make your own customised vinyl?
+
+Either way, you've come to the right place. We have been making your customised vinyl since 2005. 
+
+Create now  <a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;"> your vinyl record</a>
 
 You can create your own customised vinyl in just a few steps and with the highest quality.
+
+Do you have questions or need information you cannot find on this page? [Contact us](/contact/)
 
 ### Info
 
@@ -43,10 +55,14 @@ With the [Vinilificio app](https://app.vinilificio.com) you can calculate the co
 
 ___________________________
 
-<B>PRODUCTION TIMES:</B>
+### Processing time
+
 Processing and shipping times are calculated from the date of payment and depend on the quantity ordered, the duration of the disc, whether or not there are printed covers, and the order launch period,
 
 <i>Processing times currently vary between 20 and 50 working days (Saturdays, Sundays and public holidays excluded).</i> The expected shipping date will be communicated by email within one working day after receipt of order.
+
+
+_Manufacturing vinyl is a highly crafted job that requires time, attention and extreme care. We do our best to meet the needs of each customer, but please consider that manufacturing good vinyl records needs time. If you have special needs do not hesitate to [contact us](/contact/)_.
 ___________________________
 
 ### Custom print cover and label
