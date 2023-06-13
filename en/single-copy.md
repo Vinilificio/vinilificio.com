@@ -33,6 +33,8 @@ __Create now__  <a class="button" href="https://app.vinilificio.com/" style="col
 
 You can create your own customised vinyl in just a few steps and with the highest quality.
 
+What do you need? just your music (audio files) and images (if you want printed parts as cover, label...)
+
 Do you have questions or need information you cannot find on this page? [Contact us](/contact/)
 
 ### Info
