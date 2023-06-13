@@ -8,7 +8,7 @@ ref: small-run
 # Piccole tirature (10/20/30 vinili)
 
 
-![infographic vinili](/img/PROMO-SMALL-RUNS_GFX_big-5.jpg)
+![piccole tirature](/img/smallrun_07_small.jpg)
 
 Il servizio di piccole tirature è particolarmente indicato per artisti, etichette discografiche e dj.
 
@@ -72,4 +72,4 @@ Le tempistiche variano a seconda delle quantità, della durata del master, dalle
 Per preventivi personalizzati, informazioni e ordini scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
 
 
-![small runs](/img/small_run_01.jpg)
+![small runs](/img/small-run_small.jpg)
