@@ -41,9 +41,11 @@ I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come l
 #### VINILIFICIO WEB APP 2.0
 [La nuova web app di Vinilificio](https://app.vinilificio.com) ti permette di creare il tuo vinile personalizzato in tutte le sue parti in maniera semplice ed intutiva. È stata progettata per soddisfare le esigenze sia dei professionisti che dei meno esperti. 
 
+Quello che ti serve? Solamente i tuoi files audio e le tue immagini (se vuoi creare anche le parti stampate). 
+
 ### Singola copia e piccole tirature
 Realizziamo il tuo vinile in singola copia, qualche unità o [piccole tirature](/piccole-tirature/).
-Con l' [App di Vinilificio](https://app.vinilificio.com) in maniera semplice ed intuitiva puoi simulare il costo del tuo ordine, uploadare l'audio, realizzare le grafiche ed effettuare il tuo ordine.
+Con l' [App di Vinilificio](https://app.vinilificio.com) in maniera semplice ed intuitiva puoi simulare il costo del tuo ordine, caricare i tuoi files audio, realizzare le grafiche ed effettuare il tuo ordine.
 
 
 ### Tempi di lavorazione
