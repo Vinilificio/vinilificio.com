@@ -68,6 +68,14 @@ Su richiesta:
 Tempi di lavorazione: in media 25/50 giorni lavorativi. 
 Le tempistiche variano a seconda delle quantità, della durata del master, dalle opzioni scelte e del periodo. Contattaci per maggiori informazioni.
 
+## COME SIAMO EQUIPAGGIATI
+Incidiamo le piccole tirature con:
+
+due sistemi Vinyl Recorder T560 paralleli modificati semiautomatici dotati di testina ultima generazione, piatto di precisione e motore extra per una trazione precisa, automatic pitch controller (per ottimizzare al meglio l'amplitudine del solco e lo spazio occupato sul disco per ottenere un volume ottimale). Le due macchine sono profilate nell'equalizzazione in modo tale che la differenza sonica tra i due sistemi sia minimizzata il più possibile. 
+Il vantaggio di questo sistema doppio permette un'esecuzione più veloce dell'ordine. Particolarmente adatto anche (ma non solo) per master non perfettamente ottimizzati per vinile. Volume alto e frequenze basse molto corpose.
+
+Testina e pre-amp Nightingale 2.0 montato su meccanica Vinyl Recorder. Questo sistema è la diretta evoluzione della famosa testina Neumann SX74. Senza ombra di dubbio l'attuale vetta tecnologia per il transfer audio su vinile. Frequenze medie e alte incredibilmente definite e bassi caldi e accoglienti. Questo nuovo sistema è particolarmente adatto a chi possiede master di qualità e cerca il suono del vinile al massimo delle sue potenzialità. 
+Se desideri avere la tua piccola tiratura con Nightingale 2.0 i tempi di lavorazione potrebbero essere più lunghi.
 
 Per preventivi personalizzati, informazioni e ordini scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
 
