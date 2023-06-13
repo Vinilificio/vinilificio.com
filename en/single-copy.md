@@ -67,13 +67,13 @@ _Manufacturing vinyl is a highly crafted job that requires time, attention and e
 
 ### Custom print cover and label
 
-We print single copy (or small run) labels and covers in all formats, for single, double vinyl records, single cover or gatefold. We print with high quality digital printer. 
+We print single copies (or small runs) of labels, covers (300 g art print), inner sleeves, inlay, for single, double, single-cover or gatefold vinyl in all formats.
 
+Our covers are made with the best printing technologies and can be finished glossy or matt, cut and die-cut with digital plotters.
 You can create your own graphics using the [designer - Vinilificio Web App](https://app.vinilificio.com) or with graphics programmes using our templates.
 
 For more information [contact us](/contact/). 
 
-Our covers are made with the best printing technologies, cut and die-cut with numerically controlled plotters.
 
 #### Specifications
 
