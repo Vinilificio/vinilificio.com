@@ -19,7 +19,7 @@ lang: en
 ref: single-copy
 ---
 
-# Vinyl record in single copy and dublate
+# Custom Vinyl Record
 
 ![vinilepersonalizzato](/img/future-vinyl-project_web_medium.jpg)
 
