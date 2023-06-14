@@ -86,7 +86,8 @@ Il vantaggio di questo sistema doppio permette un'esecuzione più veloce dell'or
 * n.1 **Vinyl Recorder Vinylizer Full Automatic** 
 * piatto di precisione e motore extra per una trazione precisa
 
-Sistema unico nel suo genere, totalmente automatizzato. Lead in, lead out, spaziature e pitch control controllate digitalmente permettono un'incisione di alta precisione. Questo sistema è particolarmente indicato per vinili con durate brevi.
+Sistema unico nel suo genere, totalmente automatizzato. Lead in, lead out, spaziature e pitch control controllate digitalmente permettono un'incisione di alta precisione. Grazie alla gestione totalmente automatizzata i vinili incisi con uno stesso master hanno un aspetto identico tra di loro. 
+Questo sistema è particolarmente indicato per vinili con durate brevi.
 
 <br>
 <br>
