@@ -5,16 +5,16 @@ index: 2
 lang: en
 ref: small-run
 ---
-# Small Run (10/20/30 vinyl records)
+# Small Run (under 50 pieces)
 
-
-![infographic vinili](/img/PROMO-SMALL-RUNS_GFX_big-5.jpg)
+![small run](/img/smallrun_07_small.jpg)
 
 The short-run service is particularly suitable for artists, record labels and DJs.
 
 * We release audio on vinyl for your promos or limited editions in small runs without having to wait many months and commit to large quantities.
 * Records are cut copy by copy on one or more machines. Each vinyl is unique, consider that there may be small differences between one vinyl and another.
 * Before proceeding with the engraving of the series, we send a <b>test disc</b> to be approved by the customer. The cost of the test disc and shipping is the responsibility of the customer and will be deducted from the total amount of the order.
+* Our goal is to make your audio master its best on vinyl. That is why we strongly recommend that you provide a master optimised for vinyl. Ask to your trusted mastering studio or, if you prefer, we can take care of your [mastering](/mastering/).
 
 
 ## VINYL 12" 
@@ -53,7 +53,7 @@ Transparent vinyl and picture disc one side with high quality UV print are avail
 
 On request:
 
-* Doily print (side A + B) € 1,00 per vinyl.
+* Center label print (side A + B) € 1,00 per vinyl.
 * White Cover (**)
 * Black Cover (**)
 * Brown Cover (**)
@@ -68,8 +68,35 @@ On request:
 Processing time: 25/50 working days on average. 
 Lead times vary depending on quantities, duration of master, options chosen and period. Contact us for more information.
 
+## VINYL RECORD LATHE CUT EQUIPMENT
+We engrave short runs with
+
+* no.2 **Vinyl Recorder T560** in parallel, semi-automatic, latest generation cutter-head 
+* precision platter and extra motor for precise traction
+* automatic pitch controller (to optimise groove width and disc space for the best volume). 
+* the two machines are profiled in equalisation to minimise colour differences of the two systems as much as possible. 
+
+The advantage of this dual system is faster execution of the order. Especially suitable also (but not only) for masters that are not perfectly optimised for vinyl. High volume and deep bass.
+
+<br>
+<br>
+
+* No. 1 **Vinyl Recorder Vinylizer Full Automatic**. 
+* precision platter and extra motor for precise drive
+
+Unique, fully automated system. Digitally controlled lead in, lead out, spacing and pitch control enable high precision recording. Each vinyl with the same master looks exactly the same one each other. This system is particularly suitable for vinyls with short lead times.
+
+<br>
+<br>
+
+* No.1 **Nightingale 2.0** (cutter head and pre-amp) mounted on a modified Vinyl Recorder. 
+* precision platter and extra motor for precise drive
+
+This system is a direct evolution of the famous Neumann SX74 cartridge. Undoubtedly the current technological highlight for audio transfer to vinyl. Incredibly defined mid and high frequencies and warm, cosy bass. This new system is particularly suitable for those who own quality masters and are looking for the sound of vinyl to its full potential. 
+If you would like to have your own small run with Nightingale 2.0, processing times may be longer. Please contact us for more information.
+
 
 For orders and information contact <a href="mailto:info@vinilificio.com"> info at vinilificio.com </a>
 
 
-![small runs](/img/small_run_01.jpg)
+![small runs](/img/small-run_small.jpg)
