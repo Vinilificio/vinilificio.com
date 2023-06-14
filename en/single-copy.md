@@ -1,5 +1,5 @@
 ---
-title: Single Copy
+title: Custom Vinyl Record
 position: header
 index: 1
 menu:
