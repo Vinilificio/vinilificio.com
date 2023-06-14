@@ -71,7 +71,7 @@ Le tempistiche variano a seconda delle quantità, della durata del master, dalle
 
 ## COME SIAMO EQUIPAGGIATI
 Incidiamo le piccole tirature con:
-
+<br>
 
 * n.2  **Vinyl Recorder T560** in parallelo, semiautomatici, testina ultima generazione 
 * piatto di precisione e motore extra per una trazione precisa
