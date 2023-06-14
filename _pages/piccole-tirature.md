@@ -5,7 +5,7 @@ index: 2
 lang: it
 ref: small-run
 ---
-# Piccole tirature (10/20/30 vinili)
+# Piccole tirature (inferiori ai 50 pezzi)
 
 
 ![piccole tirature](/img/smallrun_07_small.jpg)
@@ -15,6 +15,7 @@ Il servizio di piccole tirature è particolarmente indicato per artisti, etichet
 * Riversiamo l’audio su vinile per i tuoi promo o edizioni limitate in piccole tirature senza dover attendere molti mesi ed impegnarsi in grandi quantità.
 * I dischi sono incisi copia per copia su una o più macchine. Ogni vinile è un pezzo unico, considera che possono esserci piccole differenze tra un vinile e l'altro.
 * Prima di procedere con l'incisione della serie inviamo un <b>disco test</b> che il cliente dovrà approvare. Il costo del disco test e della spedizione è a carico del cliente e sarà dedotto dal totale.
+* Il nostro obiettivo è fare in modo che il vostro master suoni al meglio su vinile. Per questo consigliamo vivamente di fornire un master ottimizzato per vinile. Chiedi al tuo studio di mastering di fiducia, oppure se preferisci possiamo occuparci noi del tuo [mastering](/mastering/).
 
 
 ## VINILE 12" 
@@ -71,11 +72,31 @@ Le tempistiche variano a seconda delle quantità, della durata del master, dalle
 ## COME SIAMO EQUIPAGGIATI
 Incidiamo le piccole tirature con:
 
-due sistemi Vinyl Recorder T560 paralleli modificati semiautomatici dotati di testina ultima generazione, piatto di precisione e motore extra per una trazione precisa, automatic pitch controller (per ottimizzare al meglio l'amplitudine del solco e lo spazio occupato sul disco per ottenere un volume ottimale). Le due macchine sono profilate nell'equalizzazione in modo tale che la differenza sonica tra i due sistemi sia minimizzata il più possibile. 
+
+* n.2  **Vinyl Recorder T560** in parallelo, semiautomatici, testina ultima generazione 
+* piatto di precisione e motore extra per una trazione precisa
+* automatic pitch controller (per ottimizzare al meglio l'amplitudine del solco e lo spazio occupato sul disco per ottenere un volume ottimale). 
+* Le due macchine sono profilate nell'equalizzazione per minimizzare il più possibile le differenze di colore dei due sistemi. 
+
 Il vantaggio di questo sistema doppio permette un'esecuzione più veloce dell'ordine. Particolarmente adatto anche (ma non solo) per master non perfettamente ottimizzati per vinile. Volume alto e frequenze basse molto corpose.
 
-Testina e pre-amp Nightingale 2.0 montato su meccanica Vinyl Recorder. Questo sistema è la diretta evoluzione della famosa testina Neumann SX74. Senza ombra di dubbio l'attuale vetta tecnologia per il transfer audio su vinile. Frequenze medie e alte incredibilmente definite e bassi caldi e accoglienti. Questo nuovo sistema è particolarmente adatto a chi possiede master di qualità e cerca il suono del vinile al massimo delle sue potenzialità. 
-Se desideri avere la tua piccola tiratura con Nightingale 2.0 i tempi di lavorazione potrebbero essere più lunghi.
+<br>
+<br>
+
+* n.1 **Vinyl Recorder Vinylizer Full Automatic** 
+* piatto di precisione e motore extra per una trazione precisa
+
+Sistema unico nel suo genere, totalmente automatizzato. Lead in, lead out, spaziature e pitch control controllate digitalmente permettono un'incisione di alta precisione. Questo sistema è particolarmente indicato per vinili con durate brevi.
+
+<br>
+<br>
+
+
+* n.1 **Nightingale 2.0** (testina e pre-amp) montato su meccanica Vinyl Recorder modificata. 
+* piatto di precisione e motore extra per una trazione precisa
+
+Questo sistema è la diretta evoluzione della famosa testina Neumann SX74. Senza ombra di dubbio l'attuale vetta tecnologia per il transfer audio su vinile. Frequenze medie e alte incredibilmente definite e bassi caldi e accoglienti. Questo nuovo sistema è particolarmente adatto per chi possiede master di qualità e cerca il suono del vinile al massimo delle sue potenzialità. 
+Se desideri avere la tua piccola tiratura con Nightingale 2.0 i tempi di lavorazione potrebbero essere più lunghi. Contattaci per avere maggiori informazioni.
 
 Per preventivi personalizzati, informazioni e ordini scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
 
