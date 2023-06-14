@@ -70,7 +70,7 @@ Lead times vary depending on quantities, duration of master, options chosen and 
 
 ## VINYL RECORD LATHE CUT EQUIPMENT
 We engrave short runs with
-
+<br>
 * no.2 **Vinyl Recorder T560** in parallel, semi-automatic, latest generation cutter-head 
 * precision platter and extra motor for precise traction
 * automatic pitch controller (to optimise groove width and disc space for the best volume). 
