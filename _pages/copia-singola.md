@@ -1,5 +1,5 @@
 ---
-title: Copia Singola
+title: Vinile Personalizzato
 position: header
 index: 1
 menu:
@@ -19,7 +19,7 @@ lang: it
 ref: single-copy
 ---
 
-# Vinile in singola copia e dubplate
+# Vinile Personalizzato
 
 ![vinilepersonalizzato](/img/future-vinyl-project_web_medium.jpg)
 
