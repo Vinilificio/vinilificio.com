@@ -45,8 +45,8 @@ I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come l
 Quello che ti serve? Solamente i tuoi files audio e le tue immagini (se vuoi creare anche le parti stampate). 
 
 ### Singola copia e piccole tirature
-Realizziamo il tuo vinile in singola copia, qualche unità o [piccole tirature](/piccole-tirature/).
-Con l' [App di Vinilificio](https://app.vinilificio.com) in maniera semplice ed intuitiva puoi simulare il costo del tuo ordine, caricare i tuoi files audio, realizzare le grafiche ed effettuare il tuo ordine.
+Realizziamo il tuo vinile in singola copia, qualche unità (massimo 9 pezzi) o [piccole tirature](/piccole-tirature/) (tra i 10 e i 50 pezzi).
+Con l' [App di Vinilificio](https://app.vinilificio.com) in maniera semplice ed intuitiva puoi simulare il costo del tuo ordine (fino ad un massimo di 9 pezzi), caricare i tuoi files audio, realizzare le grafiche ed effettuare il tuo ordine.
 
 
 ### Tempi di lavorazione
