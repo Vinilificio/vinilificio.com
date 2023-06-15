@@ -52,8 +52,8 @@ Vinilificio’s vinyls are particularly suitable for heavy uses such as scratchi
 <a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;">Make your vinyl record</a>
 
 
-We can make your vinyl in a single copy, limited units or [small runs](/en/small-run/).
-With the [Vinilificio app](https://app.vinilificio.com) you can calculate the cost of your order, simulate your vinyl, upload the audio, create your own artwork and place your order.
+We can make your vinyl in a single copy, limited units (max 9 pieces) or [small runs](/en/small-run/) (from 10 to 50 pieces).
+With the [Vinilificio app](https://app.vinilificio.com) you can calculate the cost of your order (max 9 pieces for each album), simulate your vinyl, upload the audio, create your own artwork and place your order.
 
 
 ### Processing time
