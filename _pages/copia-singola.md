@@ -63,7 +63,7 @@ _Produrre vinili è un lavoro di alta artiginalità che richiede tempo, attenzio
 
 Stampiamo in singola copia (o in piccole tirature) centrini e copertine (300 gr. art print) in tutti i formati, buste interne, inserti, per vinile singolo, doppio, a tasca singola o gatefold. 
 
-Le nostre copertine sono realizzate con le migliori tecnologie di stampa, possono essere nobilitate con le finiture lucide o opache, tagliati e fustellati con plotter digitali.
+Le nostre copertine sono realizzate con le migliori tecnologie di stampa, possono essere nobilitate con le finiture lucide o opache, tagliate e fustellate con plotter digitali.
 
 Puoi creare le tue grafiche utilizzando il [designer - Vinilificio Web App](https://app.vinilificio.com) oppure con i programmi di grafica utilizzando i nostri templates. 
 
