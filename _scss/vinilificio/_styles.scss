@@ -242,8 +242,9 @@ p + ul {
         line-height: 1.2;
     }
     a {
-        color: $dark-gray;
+        color: #006da3;
         text-decoration: underline;
+        font-weight: 500;
         &:hover {
             color: $black;
         }
