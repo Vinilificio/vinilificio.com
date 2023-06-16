@@ -98,6 +98,10 @@ Please note:
 
 ### Audio
 
+#### How much does it cost to record vinyl?
+Recording music on vinyl requires sophisticated equipment, in-depth technical knowledge, materials and above all attention, care and time.
+For example, to cut a 30-minute record, it takes between 40 minutes and an hour. That is 30 minutes for cutting (equal to the duration of the master) and between 10 and 30 minutes (depending on the condition of the master and the colour of the vinyl).
+
 #### How much music can you record on vinyl?
 
 The amount of music engraved onto each side of a vinyl disc determines the volume of the recorded signal.
