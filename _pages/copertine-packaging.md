@@ -31,7 +31,7 @@ ref: packaging
 Dimensioni: 7", 10", 12"<br>
 Costina: 3mm (per vinile singolo), 5mm (per vinile doppio), 7mm (per vinile triplo)<br>
 Caratteristiche:<br>
-Le copertine vengono stampate su carta 350 gr / GC1 Kraftpack.
+Le copertine vengono stampate su carta 320 gr / GC1 Kraftpack.
 I costi per la stmapa delle copertine (come per altre parti tipografiche) sono fissi per quantità fino a 300 - 500 - 1000 - 1500 copie etc. Se non esplicitamente richiesto dal cliente, le parti stampate saranno prodotte nel quantitativo dell'ordine e non verranno prodotte copie in eccedenza. 
 
 Finiture:
