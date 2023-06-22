@@ -95,7 +95,7 @@ Attenzione:
 
 #### Quanto costa incidere un vinile?
 Riversare musica su vinile richiede attrezzature sofisticate, approfondita conoscenza tecnica, materiali e soprattutto attenzione, cura e tempo.<br>
-Ad esempio, per incidere un disco di 30 minuti, serve un tempo che varia tra i 40 minuti e un'ora. Ovvero 30 minuti per l'incisione (pari alla durata del master) e tra i 10 e i 30 minuti ( seconda delle condizioni del master e del colore del vinile).
+Ad esempio, per incidere un disco di 30 minuti, serve un tempo che varia tra i 40 minuti e un'ora. Ovvero 30 minuti per l'incisione (pari alla durata del master) e tra i 10 e i 30 minuti di set up ( seconda delle condizioni del master e del colore del vinile).
 <br>I costi per l'incisione variano tra € 20,00 ed € 90,00 a seconda del formato del vinile, colore e durata (minuti) del master.
 
 #### Quanta musica si può incidere su vinile?
