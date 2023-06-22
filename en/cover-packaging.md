@@ -27,6 +27,7 @@ ref: cover-packaging
 Dimensions: 7 ", 10", 12 "<br>
 Spine: 3mm (for single vinyl), 5mm (for double vinyl), 7mm (for triple vinyl)
 Features: The covers are printed on 320 gr paper .
+The costs for cover printing (as for other typographic parts) are fixed for quantities up to 300 - 500 - 1000 - 1500 copies etc. Unless explicitly requested by the customer, printed parts will be produced in the order quantity and no surplus copies will be produced. 
 
 Finishes:
 
