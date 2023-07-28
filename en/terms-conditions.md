@@ -53,7 +53,11 @@ Vinilificio ships with appropriate vinyl packaging. Any damages caused by mishan
 
 * In the event that the order has already been put into production, the refund will be issued within 14 days of receipt of the request. The customer must unconditionally bear a cost equal to 30% of the material already produced as a refund for the material used, management and administrative costs. The refund will be issued within 14 days of receipt of the request.”
 
+**SHIPMENTS**
 
+Shipments are made at the risk and expense of the client. Vinilificio will inform the client of the shipping method, courier appointed, costs, shipping code. Under no circumstances is Vinilificio responsible for loss, damage, delays or other damage caused by the courier.
+The client is obliged to inform the courier directly of any changes of address, updates relating to the services offered by the courier in charge. 
+In the event of courier service failures, the customer may complain directly to the courier company in charge.
 
 **INTERMEDIATION SERVICES FOR THE PRODUCTION OF VINYL RECORDS**
 
