@@ -60,6 +60,11 @@ Vinilificio dedurrà dal rimborso un costo a forfait di € 10,00 per le spese d
 * In caso l’ordine sia già stato messo in produzione il rimborso sarà emesso entro 14 giorni dalla ricezione della richiesta. Il cliente dovrà sostenere incondizionatamente un costo pari al 30% del materiale già prodotto a titolo di rimborso del materiale utilizzato, costi di gestione e amministrativi. Il rimborso sarà emesso entro 14 giorni dalla ricezione della richiesta.
 
 
+**SPEDIZIONI:**
+
+Le spedizioni avvengono a rischio e a spese del cliente. Vinilificio informerà il cliente in merito alla modalità di spedizione, corriere incaricato, costi, codice di spedizione. Per nessuna cirsconstanza Vinilificio è responsabile per lo smarrimento, danneggiamento, ritardi o altro danni causati dal corriere.
+Il cliente è tenuto a comunicare direttamente al corriere eventuali modifiche di indirizzo, aggiornamenti relativi ai servizi offerti dal corriere incaricato. 
+In caso di disservizi del corriere il cliente ha la faccoltà di fare reclamo direttametne al corriere incaricato.
 
 
 **SERVIZIO DI INTERMEDIAZIONE PER LA PRODUZIONE DI DISCHI IN VINILE:**
