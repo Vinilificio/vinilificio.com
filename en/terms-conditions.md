@@ -59,6 +59,7 @@ Shipments are made at the risk and expense of the client. Vinilificio will infor
 The client is obliged to inform the courier directly of any changes of address, updates relating to the services offered by the courier in charge. 
 In the event of courier service failures, the customer may complain directly to the courier company in charge.
 
+
 **INTERMEDIATION SERVICES FOR THE PRODUCTION OF VINYL RECORDS**
 
 Vinilificio offers commercial and technical intermediation services between clients and the record industry for the production and duplication of audio on vinyl records. Furthermore, under no circumstances does Vinilificio make serial duplications from a matrix. The client who uses this service is obliged to fulfill all the required procedures for the permission of mechanical reproduction and copyright international laws with the authorized dealership in his native country.
