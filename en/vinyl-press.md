@@ -23,7 +23,7 @@ ref: vinyl-press
 
 ### Info
 
-Vinilificio is the authorized dealer of RAND MUZIK, the leader in vinyl pressing. Thanks to our ten-year partnership with RAND MUZIK, Vinilificio offers quality services and products for  the production of vinyl records. 
+Vinilificio is the authorized dealer of RAND MUZIK, the leader in vinyl pressing. Thanks to our ten-year partnership with RAND MUZIK, Vinilificio offers quality services and products for  the production of vinyl records. The entire production of vinyl printing takes place at the partner company. Vinilificio takes care of the management, customer service and administrative side. 
 
 We press your vinyl starting from 100 copies in the following formats: **7" and 12" 140 gr and 180 gr.**
 
