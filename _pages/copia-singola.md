@@ -37,6 +37,13 @@ Hai domande o hai bisogno di informazioni che non trovi in questa pagina? [Conta
 ### Info
 Dal 2005 realizziamo il tuo vinile in tutti i formati in singola copia con le tecnologie più avanzate e la massima qualità. Vinili neri, colorati (nero, trasparente, bianco, rosso trasparente, blue trasparente, verde trasparente) o picture disc. Stampiamo in alta qualità copertine e centrini.
 
+Lo studio di audio transfer di Vinilificio è unico nel suo genere. È equipaggiato con i seguenti sistemi:
+
+* n.2 Vinyl Recorder T560, semi-auotamico, controllo pitch, motore extra di precisione
+* n.1 Vinylizer, full auotamico, controllo pitch, motore extra di precisione
+* n.1 Nightingale 2.0 (testa e pre-amp) su meccanica T560 e motore extra di precisione
+
+
 I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come lo scratch o il backspin, ma anche per l’ascolto hi-fi e su jukebox. La qualità del suono e l’usura sono identici ai classici dischi di vinile che noi tutti conosciamo. 
 
 #### VINILIFICIO WEB APP 2.0
