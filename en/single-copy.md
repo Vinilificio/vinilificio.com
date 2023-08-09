@@ -41,6 +41,13 @@ Do you have questions or need information you cannot find on this page? [Contact
 
 Since 2005 we produce your vinyl in single copy with the latest technology and the highest quality. All vinyl records format are available in black, coloured (black, transparent, white, transparent red, transparent blue, transparent green) or picture disc. High-quality print of covers and labels.
 
+Vinilificio's audio transfer studio is unique. It is equipped with 4 audio transfer systems:
+
+* n.2 Vinyl Recorder T560, semi-auotamic, pitch controller, precision extra motor
+* n.1 Vinylizer, full auotamic, pitch controller, precision extra motor
+* n.1 Nightingale 2.0 (cutter head and pre-amp)) on T560 mechanic and precision extra motor
+
+
 Vinilificio’s vinyls are particularly suitable for heavy uses such as scratching and backspin. They are also excellent for hi-fi stereo, portable record player and jukebox listening. The sound quality and wear are identical to standard records.
 
 #### VINILIFICIO WEB APP 2.0
