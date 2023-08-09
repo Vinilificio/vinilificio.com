@@ -40,7 +40,7 @@ Dal 2005 realizziamo il tuo vinile in tutti i formati in singola copia con le te
 Lo studio di audio transfer di Vinilificio è unico nel suo genere. È equipaggiato con i seguenti sistemi:
 
 * n.2 Vinyl Recorder T560, semi-auotamico, controllo pitch, motore extra di precisione
-* n.1 Vinylizer, full auotamico, controllo pitch, motore extra di precisione
+* n.1 Vinylizer, sistema interamente auotamico, controllo pitch, motore extra di precisione
 * n.1 Nightingale 2.0 (testa e pre-amp) su meccanica T560 e motore extra di precisione
 
 
