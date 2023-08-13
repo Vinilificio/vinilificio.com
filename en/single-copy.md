@@ -114,6 +114,8 @@ For example, to cut a 30-minute record, it takes between 40 minutes and an hour.
 
 #### How much music can you record on vinyl?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HhyyyNZ-8HU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 The amount of music engraved onto each side of a vinyl disc determines the volume of the recorded signal.
 
 The groove of the vinyl record takes up more space when engraved at high volume, while it takes up less space when etched at low volume.
