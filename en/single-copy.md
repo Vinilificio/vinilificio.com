@@ -43,7 +43,7 @@ Since 2005 we produce your vinyl in single copy with the latest technology and t
 
 Vinilificio's audio transfer studio is unique. It is equipped with 4 audio transfer systems:
 
-* n.2 Vinyl Recorder T560, semi-auotamic, pitch controller, precision extra motor
+* n.2 Vinyl Recorder T560, semi-automatic, pitch controller, precision extra motor
 * n.1 Vinylizer, full automatic, pitch controller, precision extra motor
 * n.1 Nightingale 2.0 (cutter head and pre-amp)) on T560 mechanic and precision extra motor
 
