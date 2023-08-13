@@ -110,6 +110,9 @@ Ad esempio, per incidere un disco di 30 minuti, serve un tempo che varia tra i 4
 
 #### Quanta musica si può incidere su vinile?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HhyyyNZ-8HU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 Su vinile la quantità di musica incisa per lato determina il volume del segnale inciso.
 
 Il solco del vinile occupa più spazio se inciso ad alto volume, mentre occupa meno spazio se inciso a basso volume.
