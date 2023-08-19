@@ -28,21 +28,34 @@ Vinilificio customers are predominantly :
 * dj
 * producer
 * record labels
-* collectors
-* vinyl music lovers
-* communication company
-* theater company
-* tv production
 * artists
 * performers
+* theater company
+* communication company
+* tv production
+* collectors
+* vinyl music lovers
 
 Vinilificio provides a full line of customized vinyl products (graphic art, covers, labels) and makes an ideal  prize or gift for important dates, celebrations and moments.
+
+Our vinyl audio transfer studio is equipped with:  
+* 2 Vinyl Recorder semi automatic
+* 1 Vinylizer installed on Vinyl Recorder. Full automatic system.
+* 1 Nightingale 2.0 installed on Vinyl Recorder mechanic
 
 Vinilificio is the undisputed leader in the Italian market and is one of the top brands in Europe.
 
 Since 2010, Vinilificio, in partnership with Rand Muzik, has provided record pressing services in small, medium and large quantities. Our company values are quality and customer satisfaction. Driven by our continuous commitment, passion and dedication to keeping up with the latest technological developments, we strive to exceed customer expectations.
 
-Vinilificio actively supports and is a partner of a number of cultural/musical events, including IDA ITALY, ORIGINAL CULTURES, DISCO DAYS. 
+Vinilificio actively supports and is a partner of a number of cultural/musical events, including IDA WORLD DJ CHAMPIONSHIP, ORIGINAL CULTURES. 
+
+Something about Vinilficio:
+* [Zero](https://zero.eu/it/persone/vinilificio-cristian-adamo/){:target="_blank"}
+* [Clionet](https://rivista.clionet.it/autore/cristian-adamo/){:target="_blank"}
+* [12 Pollici Social Club](https://www.youtube.com/watch?v=ymfnq7ZHDS4){:target="_blank"}
+* [Rumore](https://www.facebook.com/VINILIFICIOVINYL/posts/10158553344915404/?paipv=0&eav=AfZUTLPM7Bo1U0JkotNSWZfnd0nelYsxpUoF0sEdS7GeI7N1JGeTfK_BGW9cXuiuNhE&_rdr){:target="_blank"}
+* [Dj Mag 01](https://www.djmagitalia.com/speciale-stamperie-vinile-dettaglio-parte-1/){:target="_blank"}
+* [Dj Mag 02](https://www.djmagitalia.com/vinile-meno-moda-piu-amore/){:target="_blank"}
 
 ### Portfolio
 
@@ -69,6 +82,7 @@ Vinilificio actively supports and is a partner of a number of cultural/musical e
 * Kernel Panik
 * [Khalab](https://www.facebook.com/djkhalab/){:target="_blank"}
 * [Khalisa Dischi](https://www.facebook.com/KhalisaDischi/){:target="_blank"}
+* Lamborghini
 * Land of Dance Records
 * [Lúa Coderch](http://luacoderch.com/){:target="_blank"}
 * [Malintenti Dischi](http://www.malintenti.it/){:target="_blank"}
