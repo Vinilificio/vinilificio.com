@@ -63,7 +63,9 @@ La clientela del Vinilifcio è composta tra gli altri da:
 
 Grazie alla personalizzazione completa del prodotto (grafiche, copertine, centrini…) i vinili del Vinilificio sono un importante e prezioso oggetto per un premio o per un importante regalo in occasione di compleanni, anniversarsi, dichiarazioni di amore…
 
-Il Vinilificio supporta eventi culturali e musicali. Per essere aggiornato segui la nostra pagina <a href="https://www.instagram.com/vinilificio/>instagram</a>
+Il Vinilificio supporta eventi culturali e musicali. Per essere aggiornato segui la nostra pagina
+* [Instagram Vinilificio](https://www.instagram.com/vinilificio/){:target="_blank"}
+
 
 ### Portfolio (alcuni dei nostri clienti)
 * [Archeo Recordings](https://www.archeo-recordings.com/){:target="_blank"}
@@ -89,6 +91,7 @@ Il Vinilificio supporta eventi culturali e musicali. Per essere aggiornato segui
 * Kernel Panik
 * [Khalab](https://www.facebook.com/djkhalab/){:target="_blank"}
 * [Khalisa Dischi](https://www.facebook.com/KhalisaDischi/){:target="_blank"}
+* Lamborghini
 * Land of Dance Records
 * [Lúa Coderch](http://luacoderch.com/){:target="_blank"}
 * [Malintenti Dischi](http://www.malintenti.it/){:target="_blank"}
