@@ -28,7 +28,7 @@ Dal 2005, grazie ai continui investimenti e alla continua ricerca Vinilificio è
 
 Il nostro studio di audio transfer è equipaggiato con
 * 2 Vinyl Recorder semi automatici
-* 1 Vinyl Recorder automatico
+* 1 Vinylizer montato su Vinyl Recorder. Sistema totalemnte automatico.
 * 1 Nightingale 2.0 montato su meccanica Vinyl Recorder
 
 
@@ -36,18 +36,30 @@ Grazie alla partnership con Rand Muzik di cui è concessionario esclusivo per l'
 
 Ad ognuno la propria musica ad ognuno il proprio vinile personalizzato.
 
+A proposito di Vinilificio e dintorni
+* [Zero](https://zero.eu/it/persone/vinilificio-cristian-adamo/){:target="_blank"}
+* [Clionet](https://rivista.clionet.it/autore/cristian-adamo/){:target="_blank"}
+* [12 Pollici Social Club](https://www.youtube.com/watch?v=ymfnq7ZHDS4){:target="_blank"}
+* [Rumore](https://www.facebook.com/VINILIFICIOVINYL/posts/10158553344915404/?paipv=0&eav=AfZUTLPM7Bo1U0JkotNSWZfnd0nelYsxpUoF0sEdS7GeI7N1JGeTfK_BGW9cXuiuNhE&_rdr){:target="_blank"}
+* [Dj Mag 01](https://www.djmagitalia.com/speciale-stamperie-vinile-dettaglio-parte-1/){:target="_blank"}
+* [Dj Mag 02](https://www.djmagitalia.com/vinile-meno-moda-piu-amore/){:target="_blank"}
+
+
+
+
 La clientela del Vinilifcio è composta tra gli altri da:
 
 * dj
 * produttori
 * case discografiche
-* collezionisti
-* amanti del vinile
+* artisti
+* performer
 * società di comunicazione
 * compagnie teatrali
 * produzioni televisive
-* artisti
-* performer
+* collezionisti
+* amanti del vinile
+
 
 Grazie alla personalizzazione completa del prodotto (grafiche, copertine, centrini…) i vinili del Vinilificio sono un importante e prezioso oggetto per un premio o per un importante regalo in occasione di compleanni, anniversarsi, dichiarazioni di amore…
 
