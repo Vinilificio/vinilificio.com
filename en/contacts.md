@@ -13,11 +13,6 @@ via Santa Margherita 14/A<br>
 Italy
 
 
-***IN AUGUST WE ARE OPEN FROM MONDAY TO FRIDAY 9:30 - 13:00***
-
-***WE ARE ON SUMMER VACATION FROM 14th TO 20th AUGUST - HAPPY SUMMER TIME***
-
-
 __We receives by appointment only__
 
 Information, enquiry and appointments, you can contact us Mon-Fri from 9:30 / 13:00 and from 14:30 / 18:00 :<br><br>
