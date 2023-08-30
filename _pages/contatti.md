@@ -10,9 +10,6 @@ via Santa Margherita 14/A<br>
 40123 Bologna<br>
 Italy
 
-***AD AGOSTO SIAMO APERTI DAL LUNEDì AL VENERDì DALLE 9:30 ALLE 13:00***
-
-***CHIUSI PER FERIE DAL 14 AL 20 AGOSTO - BUONE VACANZE***
 
 __Si riceve solo su appuntamento__
 
