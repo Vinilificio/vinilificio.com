@@ -2,11 +2,23 @@
 title: Piccole Tirature
 position: header
 index: 2
+menu:
+- titolo: Info
+  id: info
+- titolo: Prezzi
+  id: prezzi
+- titolo: Tempi di lavorazione
+  id: tempi-di-lavorazione
+- titolo: Come siamo equipaggiati
+  id: come–siamo-equipaggiati
+- titolo: Servizio fotografico
+  id: servizio-fotografico
 lang: it
 ref: small-run
 ---
 # Piccole tirature (inferiori ai 50 pezzi)
 
+### Info
 
 ![piccole tirature](/img/smallrun_07_small.jpg)
 
@@ -17,6 +29,8 @@ Il servizio di piccole tirature è particolarmente indicato per artisti, etichet
 * Prima di procedere con l'incisione della serie inviamo un <b>disco test</b> che il cliente dovrà approvare. Il costo del disco test e della spedizione è a carico del cliente e sarà dedotto dal totale.
 * Il nostro obiettivo è fare in modo che il vostro master suoni al meglio su vinile. Per questo consigliamo vivamente di fornire un master ottimizzato per vinile. Chiedi al tuo studio di mastering di fiducia, oppure se preferisci possiamo occuparci noi del tuo [mastering](/mastering/).
 
+
+### Prezzi
 
 ## VINILE 12" 
 
@@ -65,11 +79,13 @@ Su richiesta:
 
 (**) Il costo varia a seconda delle quantità e del formato. Contattaci per un preventivo personalizzato.
 
+### Tempi di lavorazione
 
-Tempi di lavorazione: in media 25/50 giorni lavorativi. 
+In media 25/50 giorni lavorativi. 
 Le tempistiche variano a seconda delle quantità, della durata del master, dalle opzioni scelte e del periodo. Contattaci per maggiori informazioni.
 
-## COME SIAMO EQUIPAGGIATI
+### Come siamo equipaggiati
+
 Incidiamo le piccole tirature con:
 <br>
 
@@ -101,5 +117,12 @@ Se desideri avere la tua piccola tiratura con Nightingale 2.0 i tempi di lavoraz
 
 Per preventivi personalizzati, informazioni e ordini scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
 
+### Servizio fotografico
+
+Su richiesta realizziamo un set di foto professionali, che potrai utilizzare per promuovere la tua piccola tiratura su social, sito, bandcamp, ufficio stampa...
+
+
+* 3 foto € 30,00 (iva inclusa)
+* 5 foto € 50,00 (iva inclusa)
 
 ![small runs](/img/small-run_small.jpg)
