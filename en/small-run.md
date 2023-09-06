@@ -2,12 +2,25 @@
 title: Small Run
 position: header
 index: 2
+menu:
+- titolo: Info
+  id: info
+- titolo: Prices
+  id: prices
+- titolo: Processing Times
+  id: processing-times
+- titolo: Equipment
+  id: equipment
+- titolo: Servizio fotografico
+  id: servizio-fotografico
 lang: en
 ref: small-run
 ---
 # Small Run (under 50 pieces)
 
 ![small run](/img/smallrun_07_small.jpg)
+
+### Info
 
 The short-run service is particularly suitable for artists, record labels and DJs.
 
@@ -16,6 +29,8 @@ The short-run service is particularly suitable for artists, record labels and DJ
 * Before proceeding with the engraving of the series, we send a <b>test disc</b> to be approved by the customer. The cost of the test disc and shipping is the responsibility of the customer and will be deducted from the total amount of the order.
 * Our goal is to make your audio master its best on vinyl. That is why we strongly recommend that you provide a master optimised for vinyl. Ask to your trusted mastering studio or, if you prefer, we can take care of your [mastering](/mastering/).
 
+
+### Prices
 
 ## VINYL 12" 
 
@@ -64,11 +79,12 @@ On request:
 
 (**) Cost varies depending on quantity and format. Contact us for a customised quote.
 
+### Processing Times
 
 Processing time: 25/50 working days on average. 
 Lead times vary depending on quantities, duration of master, options chosen and period. Contact us for more information.
 
-## VINYL RECORD LATHE CUT EQUIPMENT
+### Equipment
 We engrave short runs with
 <br>
 * no.2 **Vinyl Recorder T560** in parallel, semi-automatic, latest generation cutter-head 
@@ -94,6 +110,14 @@ Unique, fully automated system. Digitally controlled lead in, lead out, spacing 
 
 This system is a direct evolution of the famous Neumann SX74 cartridge. Undoubtedly the current technological highlight for audio transfer to vinyl. Incredibly defined mid and high frequencies and warm, cosy bass. This new system is particularly suitable for those who own quality masters and are looking for the sound of vinyl to its full potential. 
 If you would like to have your own small run with Nightingale 2.0, processing times may be longer. Please contact us for more information.
+
+### Photo shooting
+
+Upon request, we take a set of professional photos, which you can use to promote your small print run on social media, website, bandcamp, press office...
+
+
+* 3 photo € 30,00 (vat including)
+* 5 photo € 50,00 (vat including)
 
 
 For orders and information contact <a href="mailto:info@vinilificio.com"> info at vinilificio.com </a>
