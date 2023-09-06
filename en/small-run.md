@@ -11,8 +11,8 @@ menu:
   id: processing-times
 - titolo: Equipment
   id: equipment
-- titolo: Servizio fotografico
-  id: servizio-fotografico
+- titolo: Photo shooting
+  id: photo-shooting
 lang: en
 ref: small-run
 ---
