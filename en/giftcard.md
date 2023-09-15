@@ -10,7 +10,7 @@ ref: gift-card
 Would you like to give a personalised vinyl gift and you don't have the material, or have you arrived at the last moment and can't get your vinyl in time?<br>
 The <b>Vinilificio Gift Card</b> is just what you need.<br>
 The lucky person who receives the <b>Vinilificio Gift Card</b> will be able to make his own custom vinyl with his own audio and graphic content.<br>
-![giftcard](/img/GIFT-CARD_yellow_WEB_en)
+![giftcard](/img/GIFT-CARD_yellow_WEB_en.jpg)
 <br>
 Give the gift card in electronic format with your name, surname and dedication<br>
 
