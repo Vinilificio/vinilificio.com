@@ -12,7 +12,7 @@ Vorresti regalare un vinile personalizzato e non hai il materiale, oppure sei ar
 La <b>Vinilificio Gift Card </b> è quello che fa per te.<br><br>
 Il fortunato che riceverà la <b>Vinilificio Gift Card</b> potrà realizzare il proprio vinile personalizzato con i propri contenuti audio e grafici.
 <br>
-![giftcard](/img/Gift Card Digitale_new_small_en.jpg)
+![giftcard](/img/GIFT-CARD_yellow_WEB.jpg)
 <br>
 Regala la gift card in formato elettronico con il nome, cognome e dedica<br>
 
