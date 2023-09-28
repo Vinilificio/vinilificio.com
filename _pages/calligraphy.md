@@ -20,7 +20,7 @@ ref: calligraphy
 ![calligraphy](/img/CAROSELLO_1.jpg)
 
 
-### Il tuo disco d'artista
+### Il tuo disco d artista
 
 Abbiamo chiesto ad un’artista e calligrafa di realizzare la copertina personalizzata per il tuo disco in singola copia.
 <br><br>
