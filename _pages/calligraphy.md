@@ -2,8 +2,8 @@
 title: Calligraphy
 position: none
 menu:
-- titolo: Il tuo disco d'artista
-  id: il-tuo-disco-d'artista
+- titolo: Il tuo disco d artista
+  id: il-tuo-disco-d-artista
 - titolo: Cosa contiene il pacchetto Calligraphy
   id: cosa-contiene-il-pacchetto-calligraphy
 - titolo: Cosa devo fare
