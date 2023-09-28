@@ -2,11 +2,26 @@
 title: Gift Card
 position: header
 index: 6
+menu:
+- titolo: Calligraphy
+  id: calligraphy
+- titolo: Gift Card
+  id: gift-card  
 lang: it
 ref: gift-card
 ---
 
-# Gift Card
+### Calligraphy
+
+Il regalo perfetto, un vinile con la tua musica realizzato appositamente per te nelle grafiche di copertina e centrino da un artista calligrafo.
+
+Vuoi saperne di più? È facilissimo, <a href="/calligraphy/">Dai un'occhiata qua.</a>
+
+
+![calligraphy](/img/CAROSELLO_1.jpg)
+
+
+### Gift Card
 
 Vorresti regalare un vinile personalizzato e non hai il materiale, oppure sei arrivato all'ultimo momento e non riesci ad avere il tuo vinile per tempo?
 La <b>Vinilificio Gift Card </b> è quello che fa per te.<br><br>
