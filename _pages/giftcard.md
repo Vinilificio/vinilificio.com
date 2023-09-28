@@ -11,11 +11,13 @@ lang: it
 ref: gift-card
 ---
 
+
 ### Calligraphy
+Il regalo perfetto
 
-Il regalo perfetto, un vinile con la tua musica realizzato appositamente per te nelle grafiche di copertina e centrino da un artista calligrafo.
+Un vinile personalizzato con la tua musica e realizzato appositamente per te nelle grafiche di copertina e centrino da un artista calligrafo.
 
-Vuoi saperne di più? È facilissimo, <a href="/calligraphy/">Dai un'occhiata qua.</a>
+Come fare? È facilissimo, <a href="/calligraphy/">dai un'occhiata qua.</a>
 
 
 ![calligraphy](/img/CAROSELLO_1.jpg)
