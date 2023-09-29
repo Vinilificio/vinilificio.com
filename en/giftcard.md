@@ -2,11 +2,25 @@
 title: Gift Card
 position: header
 index: 6
+menu:
+- titolo: Calligraphy
+  id: calligraphy
+- titolo: Gift Card
+  id: gift-card  
 lang: en
 ref: gift-card
 ---
 
-# Gift Card
+### Calligraphy
+The perfect gift
+
+A custom vinyl record with your music and made especially for you by a calligraphy artist both in the cover and label graphics.
+
+How to do it? It is very easy, <a href="/en/calligraphy/">take a look here.</a>
+
+![calligraphy](/img/CAROSELLO_1.jpg)
+
+### Gift Card
 Would you like to give a personalised vinyl gift and you don't have the material, or have you arrived at the last moment and can't get your vinyl in time?<br>
 The <b>Vinilificio Gift Card</b> is just what you need.<br>
 The lucky person who receives the <b>Vinilificio Gift Card</b> will be able to make his own custom vinyl with his own audio and graphic content.<br>
