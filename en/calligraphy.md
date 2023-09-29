@@ -2,17 +2,17 @@
 title: Calligraphy
 position: none
 menu:
-- titolo: Il tuo disco d artista
-  id: il-tuo-disco-d-artista
-- titolo: Cosa contiene il pacchetto Calligraphy
-  id: cosa-contiene-il-pacchetto-calligraphy
-- titolo: Cosa devo fare
-  id: cosa-devo-fare
-- titolo: Cosa ti chiederemo
-  id: cosa-ti-chiederemo
-- titolo: Quanto costa
-  id: quanto-costa
-lang: it
+- titolo: Your artist s vinyl record
+  id: your-artist-s-vinyl-record
+- titolo: What the Calligraphy Package contains
+  id: what-the-calligraphy-package-contains
+- titolo: What should I do
+  id: what-should-i-do
+- titolo: What we will ask you
+  id: what-we-will-ask-you
+- titolo: How much does it costs
+  id: how-much-does-it-costs
+lang: en
 ref: calligraphy
 ---
 
@@ -20,39 +20,36 @@ ref: calligraphy
 ![calligraphy](/img/CAROSELLO_1.jpg)
 
 
-### Il tuo disco d artista
+### Your artist s vinyl record
 
-Abbiamo chiesto ad un’artista e calligrafa di realizzare la copertina personalizzata per il tuo disco in singola copia.
+We asked an artist and calligrapher to create the custom cover art for your single-copy record.
 <br><br>
-C A L L I G R A P H Y è il nome che abbiamo scelto per la nostra collezione in edizione limitata di vinili d’autore dedicata alla calligrafia.
+C A L L I G R A P H Y is the name we chose for our limited-edition collection of artist vinyls dedicated to calligraphy.
 
+### What the Calligraphy Package contains
 
-### Cosa contiene il pacchetto Calligraphy
-
-* Vinile 12” 180 gr. nero o trasparente inciso con la tua musica (entro i 15 minuti per lato)
-* Copertina d’artista con la stampa della scritta realizzata appositamente per te dalla nostra calligrafa Cecilia
-* Centrino personalizzato con la scritta che hai scelto
-* Impaginazione con i tuoi contenuti (titolo+testo/dedica) curata dalla grafica di Vinilificio
-* Busta protettiva con flap adesivo
-* Spedizione gratuita
+* 12" 180 gr. black or clear vinyl in single copy with your music (within 15 minutes per side).
+* Artist's cover with the print of the writing made especially for you by our calligrapher Cecilia
+* Custom label with your chosen writing
+* Layout with your content (title+text/dedication) designed by Vinilificio's graphic designers.
+* Protective clear transparent sleeve with self adhesive flap
+* Free shipping
 <br><br>  
-<b>La sicurezza di ricevere a casa tua un vinile unico e d’artista.</b>
 
-### Cosa devo fare
+### What should I do
 
-E’ facilissimo, ti basterà inviare una mail a <a href="mailto:info@vinilificio.com"> info@vinilificio.com</a> con oggetto CALLIGRAPHY e saremo noi a guidarti passo passo nella creazione del tuo vinile d’artista!
-
-
-### Cosa ti chiederemo
-
-* I file audio che vorrai incidere sul tuo disco
-* Le parole che la nostra calligrafa Cecilia scriverà per te sulla copertina ( max. 5/6 - una frase breve per far risaltare la bellezza del tratto a mano e lasciare il giusto respiro alla grafica )
-
-### Quanto costa
-
-Il pacchetto Calligraphy ha un costo (tutto incluso) di € 130,00 ed è limitato alle prime dieci persone che ne faranno richiesta! 
+It's so easy, just send an email to <a href="mailto:info@vinilificio.com"> info@vinilificio.com</a> with object: _CALLIGRAPHY_ and we will be the ones to guide you step by step in creating your artist vinyl!!
 
 
-Con opzione vinile colorato (bianco, turchese,rosso trasparente, verde trasparente, blue trasparente) maggiorazione di € 10,00
+### What we will ask you
+
+* The audio files you would like to transfer on your vinyl record.
+* The words that our calligrapher Cecilia will write for you on the cover ( max. 5/6 - a short sentence to bring out the beauty of the hand stroke and allow the graphics to breathe )
+
+### How much does it costs
+
+The Calligraphy package has a cost (all inclusive) of € 130.00 and is limited to the first ten people who request it! 
+
+With colored vinyl option (white, turquoise, transparent red, transparent green, transparent blue) surcharge of € 10.00
 
 ![calligraphy](/img/CAROSELLO_4.jpg)
