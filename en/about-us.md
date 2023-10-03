@@ -50,6 +50,7 @@ Since 2010, Vinilificio, in partnership with Rand Muzik, has provided record pre
 Vinilificio actively supports and is a partner of a number of cultural/musical events, including IDA WORLD DJ CHAMPIONSHIP, ORIGINAL CULTURES. 
 
 Something about Vinilficio:
+* [Il Corriere](https://corrieredibologna.corriere.it/notizie/cultura-e-tempo-libero/23_settembre_24/bologna-cristian-adamo-l-artigiano-del-vinile-nonostante-le-difficolta-non-scomparira-mai-6e3abec2-5360-4700-a83f-0a38eecccxlk.shtml?fbclid=IwAR3Z3ufI-BrEoT6tzLO5cVv6lAleoYEi2wg4P4I81SEevfdDe2bcxDZNxKs){:target="_blank"}
 * [Repubblica Bologna](https://www.facebook.com/photo?fbid=801644478634559&set=a.466429085489435){:target="_blank"}
 * [Zero](https://zero.eu/it/persone/vinilificio-cristian-adamo/){:target="_blank"}
 * [Clionet](https://rivista.clionet.it/autore/cristian-adamo/){:target="_blank"}
