@@ -50,7 +50,6 @@ Vinilificio effettua spedizioni con appositi imballaggi per vinile. Eventuali da
 
 1. In caso il cliente riscontri problemi qualitativi dovuti alla lavorazione dei supporti audio e/o grafici prodotti da Vinilificio, il cliente dovrà inviare una comunicazione via email a info@vinilificio.com entro e non oltre 8 giorni dalla ricezione dell'ordine. La comunicazione deve includere una chiara descrizione dell'eventuale problema unitamente ad una documentazione fotografica e/o video. Se richiesto da Vinilificio, il cliente dovrà rendere il materiale difettoso, al fine che possa essere visionato. Le spese di spedizione sono a carico del cliente e verranno rimborsate da Vinilificio qualora il difetto di lavorazione sia confermato.
 Vinilificio è tenuto a dare un riscontro entro 8 giorni lavorativi. In caso che il difetto dovuto alla lavorazione sia confermato, Vinilificio rimetterà nuovamente in lavorazione a proprie spese l'articolo che presenta problemi di lavorazione. Le spese di spedizione sono a carico di Vinilificio.
-Problemi
 
 2. Il cliente ha diritto di annullare l’ordine una volta effettuato il pagamento. 
 
