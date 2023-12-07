@@ -57,7 +57,7 @@ Problemi
 * In caso di un ordine non ancora messo in lavorazione, il rimborso sarà emesso entro 14 giorni dalla ricezione della richiesta.
 Vinilificio dedurrà dal rimborso un costo a forfait di € 10,00 per le spese di gestione e amministrative sostenute per l’annullamento dell’ordine. 
 
-* In caso l’ordine sia già stato messo in produzione il rimborso sarà emesso entro 14 giorni dalla ricezione della richiesta. Il cliente dovrà sostenere incondizionatamente un costo pari al 30% del materiale già prodotto a titolo di rimborso del materiale utilizzato, costi di gestione e amministrativi. Il rimborso sarà emesso entro 14 giorni dalla ricezione della richiesta.
+* In caso l’ordine sia già stato messo in produzione il rimborso sarà emesso entro 14 giorni dalla ricezione della richiesta. Il cliente dovrà sostenere incondizionatamente un costo pari al 50% del materiale già prodotto a titolo di rimborso del materiale utilizzato, olre ad un costo fisso di € 10,00 di gestione e amministrativi. Il rimborso sarà emesso entro 14 giorni dalla ricezione della richiesta.
 
 
 **SPEDIZIONI:**
