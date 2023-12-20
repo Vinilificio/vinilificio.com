@@ -16,6 +16,7 @@ Italy
 __We receives by appointment only__
 
 Information, enquiry and appointments, you can contact us Mon-Fri from 9:30 / 13:00 and from 14:30 / 18:00 :<br><br>
+__|||||||||| WE ARE CLOSED FROM 23 DECEMBER TO 03 JANUARY -HAPPY HOLIDAYS-||||||||||__<BR>
 
 __tel/fax__ <a href="tel:+390510311817" title="Call the Vinilifico">+39 051 031 1817</a><br>
 __whatsapp__ <a href="https://wa.me/393450782592" title="Chat on WhatsApp with the Vinilificio">+39 345 078 2592</a><br>
