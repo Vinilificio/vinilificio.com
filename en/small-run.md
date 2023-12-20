@@ -27,7 +27,7 @@ The short-run service is particularly suitable for artists, record labels and DJ
 * We release audio on vinyl for your promos or limited editions in small runs without having to wait many months and commit to large quantities.
 * Records are cut copy by copy on one or more machines. Each vinyl is unique, consider that there may be small differences between one vinyl and another.
 * Before proceeding with the engraving of the series, we send a <b>test disc</b> to be approved by the customer. The cost of the test disc and shipping is the responsibility of the customer and will be deducted from the total amount of the order.
-* Our goal is to make your audio master its best on vinyl. That is why we strongly recommend that you provide a master optimised for vinyl. Ask to your trusted mastering studio or, if you prefer, we can take care of your [mastering](/en/mastering/).
+* Our goal is to make your audio master its best on vinyl. That is why we strongly recommend that you provide a master optimised for vinyl. Ask to your trusted mastering studio or, if you prefer, we can take care of your [mastering](en/mastering/).
 
 
 ### Prices
