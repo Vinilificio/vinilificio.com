@@ -35,7 +35,7 @@ You can create your own customised vinyl in just a few steps and with the highes
 
 What do you need? just your music (audio files) and images (if you want printed parts as cover, label...)
 
-Do you have questions or need information you cannot find on this page? [Contact us](/contact/)
+Do you have questions or need information you cannot find on this page? [Contact us](/en/contacts/)
 
 ### Info
 
@@ -70,7 +70,7 @@ Processing and shipping times are calculated from the date of payment and depend
 <i>Processing times currently vary between 20 and 50 working days (Saturdays, Sundays and public holidays excluded).</i> The expected shipping date will be communicated by email within one working day after receipt of order.
 
 
-_Manufacturing vinyl is a highly crafted job that requires time, attention and extreme care. We do our best to meet the needs of each customer, but please consider that manufacturing good vinyl records needs time. If you have special needs do not hesitate to [contact us](/contact/)_.
+_Manufacturing vinyl is a highly crafted job that requires time, attention and extreme care. We do our best to meet the needs of each customer, but please consider that manufacturing good vinyl records needs time. If you have special needs do not hesitate to [contact us](/en/contacts/)_.
 
 
 
@@ -83,7 +83,7 @@ You can create your own graphics using the [designer - Vinilificio Web App](http
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f-9POIc7iwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For more information [contact us](/contact/). 
+For more information [contact us](/contacts/). 
 
 
 #### Specifications
