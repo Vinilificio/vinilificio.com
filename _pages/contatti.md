@@ -15,8 +15,6 @@ __Si riceve solo su appuntamento__
 
 Per informazioni, domande e appuntamenti puoi contattarci dal lunedì al venerdì dalle 9:30 alle 13:00 e dalle 14:30 alle 18:00 alle seguenti coordinate:<br><br>
 
-__SIAMO CHIUSI DAL 23/12 AL 03/01  BUONE FESTE __<br>
-
 __tel/fax__ <a href="tel:+390510311817" title="Chiama il Vinilifico">+39 051 031 1817</a><br>
 __whatsapp (SOLO CHAT)__ <a href="https://wa.me/393450782592" title="Chatta su WhatsApp con il Vinilificio">+39 345 078 2592</a><br>
 __web__ www.vinilificio.com<br>
