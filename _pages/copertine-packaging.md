@@ -161,7 +161,7 @@ La label o centrino è l'etichetta tonda che si trova al centro del vinile. Può
 
 Scarica le specifiche:
 
-* <a href="https://www.randmuzik.de/media/label_7inch_km_2019.pdf" target="_blank">Centrino con foro grande per 7"</a>
+* <a href="https://www.randmuzik.de/media/label_7inch_gm_2019.pdf" target="_blank">Centrino con foro grande per 7"</a>
 * <a href="https://www.randmuzik.de/media/label_7inch_km_2019.pdf" target="_blank">Centrino per 7"</a>
 * <a href="https://www.randmuzik.de/media/label_12inch_2019.pdf" target="_blank">Centrino per 12"</a>
 
