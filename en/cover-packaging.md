@@ -113,6 +113,6 @@ The label is the round label located in the center of the vinyl. It can be neutr
 
 Download the specifications:
 
-* <a href="https://www.randmuzik.de/media/label_7inch_km_2019.pdf" target="_blank">LABELS 7" (92 MM, SMALL CENTER HOLE)</a>
+* <a href="https://www.randmuzik.de/media/label_7inch_gm_2019.pdf" target="_blank">LABELS 7" (92 MM, SMALL CENTER HOLE)</a>
 * <a href="https://www.randmuzik.de/media/label_7inch_km_2019.pdf" target="_blank">LABEL 7" (92 MM, LARGE CENTER HOLE)</a>
 * <a href="https://www.randmuzik.de/media/label_12inch_2019.pdf" target="_blank">LABEL 12" (100 MM)</a>
