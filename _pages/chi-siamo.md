@@ -29,7 +29,7 @@ Dal 2005, grazie ai continui investimenti e alla continua ricerca Vinilificio è
 Il nostro studio di audio transfer è equipaggiato con
 * 2 Vinyl Recorder semi automatici
 * 1 Vinylizer montato su Vinyl Recorder. Sistema totalemnte automatico.
-* 1 Nightingale 2.0 montato su meccanica Vinyl Recorder
+* 1 Nightingale 2.0 montato su meccanica Vinyl Recorder customizzato
 
 
 Grazie alla partnership con Rand Muzik di cui è concessionario esclusivo per l'Italia, Vinilificio fornisce servizio di stampa a partire da 100 copie e duplicazione cassette a paritre da 50 copie.
@@ -70,10 +70,12 @@ Il Vinilificio supporta eventi culturali e musicali. Per essere aggiornato segui
 
 
 ### Portfolio (alcuni dei nostri clienti)
+
 * [Archeo Recordings](https://www.archeo-recordings.com/){:target="_blank"}
 * [Avant Records](http://www.avantrecords.com/){:target="_blank"}
 * [Bassplate Records](http://www.bassplaterecords.net/){:target="_blank"}
 * BL MUSIC
+* [blacksweatrecords] (https://www.blacksweatrecords.com/){:target="_blank"}
 * [Bronson Recordings](http://bronsonrecordings.com/){:target="_blank"}
 * [BUREAU BETAK Paris](http://www.bureaubetak.com/){:target="_blank"}
 * Chiara Fumai
@@ -95,6 +97,7 @@ Il Vinilificio supporta eventi culturali e musicali. Per essere aggiornato segui
 * [Khalisa Dischi](https://www.facebook.com/KhalisaDischi/){:target="_blank"}
 * Lamborghini
 * Land of Dance Records
+* [Lemos & Lemhann](https://www.lemosandlehmann.com/solstice/){:target="_blank"}
 * [Lúa Coderch](http://luacoderch.com/){:target="_blank"}
 * [Malintenti Dischi](http://www.malintenti.it/){:target="_blank"}
 * [Maple Death Records](http://www.mapledeathrecords.com/){:target="_blank"}
@@ -114,6 +117,7 @@ Il Vinilificio supporta eventi culturali e musicali. Per essere aggiornato segui
 * [Sangue Dischi](https://sanguedischi.com/){:target="_blank"}
 * [Schleifmühlgasse 12-14](http://12-14.org/){:target="_blank"}
 * [Slam Jam](https://www.slamjamsocialism.com){:target="_blank"}
+* [Stretto Blaster](https://strettoblaster.com/label/){:target="_blank"}
 * [Studio Cromie](http://studiocromie.org/){:target="_blank"}
 * [Tava Tava](https://www.facebook.com/bestsoundcollection/){:target="_blank"}
 * [Twelve Notes](http://www.twelve-notes.net/){:target="_blank"}
@@ -122,7 +126,9 @@ Il Vinilificio supporta eventi culturali e musicali. Per essere aggiornato segui
 * [Yerevan Tape](https://yerevantapes.bandcamp.com/){:target="_blank"}
 * [Sound Vintage Jukebox](https://soundvintagejukebox.wordpress.com/){:target="_blank"}
 * [DATATEX](http://datatex-italia.com/shop/prodotti-per-la-registrazione-analogica.html){:target="_blank"}
+* ... e molti altri
 
+Ultimo ma non per ultimo... Vinilifcio è contro tutti i fascismi, contro i razzismi e qualsiasi tipo di discriminazione. Siamo contro tutte le guerre, la violenza e l'opressione.
 
 ### Crediti
 * Scatti e concetto delle quattro foto degli slideshow di vinilificio.com a cura di Gabriele Guarisco e Vinilificio.
