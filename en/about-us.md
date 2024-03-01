@@ -20,7 +20,7 @@ ref: about
 ### About
 Vinilificio was established in Bologna in 2005 by Cristian Adamo and is the first company to produce fully customized single-copy vinyl records.
 
-Vinilificio makes it possible for anyone to have his or her own music pressed onto a customized vinyl record for a low price and in just a few days.
+Vinilificio makes it possible for anyone to have his or her own music pressed onto a customized vinyl record.
 
 Vinilificio customers are predominantly :
 
@@ -45,9 +45,9 @@ Our vinyl audio transfer studio is equipped with:
 
 Vinilificio is the undisputed leader in the Italian market and is one of the top brands in Europe.
 
-Since 2010, Vinilificio, in partnership with Rand Muzik, has provided record pressing services in small, medium and large quantities. Our company values are quality and customer satisfaction. Driven by our continuous commitment, passion and dedication to keeping up with the latest technological developments, we strive to exceed customer expectations.
+Since 2008, Vinilificio, in partnership with Rand Muzik, has provided record pressing services in small, medium and large quantities. Our company values are quality and customer satisfaction. Driven by our continuous commitment, passion and dedication to keeping up with the latest technological developments, we strive to exceed customer expectations.
 
-Vinilificio actively supports and is a partner of a number of cultural/musical events, including IDA WORLD DJ CHAMPIONSHIP, ORIGINAL CULTURES. 
+Vinilificio actively supports and is a partner of a number of cultural/musical events, including IDA WORLD DJ CHAMPIONSHIP, ORIGINAL CULTURES and others.
 
 Something about Vinilficio:
 * [Il Corriere](https://corrieredibologna.corriere.it/notizie/cultura-e-tempo-libero/23_settembre_24/bologna-cristian-adamo-l-artigiano-del-vinile-nonostante-le-difficolta-non-scomparira-mai-6e3abec2-5360-4700-a83f-0a38eecccxlk.shtml?fbclid=IwAR3Z3ufI-BrEoT6tzLO5cVv6lAleoYEi2wg4P4I81SEevfdDe2bcxDZNxKs){:target="_blank"}
@@ -65,6 +65,7 @@ Something about Vinilficio:
 * [Avant Records](http://www.avantrecords.com/){:target="_blank"}
 * [Bassplate Records](http://www.bassplaterecords.net/){:target="_blank"}
 * BL MUSIC
+* [blacksweatrecords] (https://www.blacksweatrecords.com/){:target="_blank"}
 * [Bronson Recordings](http://bronsonrecordings.com/){:target="_blank"}
 * [BUREAU BETAK Paris](http://www.bureaubetak.com/){:target="_blank"}
 * Chiara Fumai
@@ -86,6 +87,7 @@ Something about Vinilficio:
 * [Khalisa Dischi](https://www.facebook.com/KhalisaDischi/){:target="_blank"}
 * Lamborghini
 * Land of Dance Records
+* [Lemos & Lemhann](https://www.lemosandlehmann.com/solstice/){:target="_blank"}
 * [Lúa Coderch](http://luacoderch.com/){:target="_blank"}
 * [Malintenti Dischi](http://www.malintenti.it/){:target="_blank"}
 * [Maple Death Records](http://www.mapledeathrecords.com/){:target="_blank"}
@@ -105,6 +107,7 @@ Something about Vinilficio:
 * [Sangue Dischi](https://sanguedischi.com/){:target="_blank"}
 * [Schleifmühlgasse 12-14](http://12-14.org/){:target="_blank"}
 * [Slam Jam](https://www.slamjamsocialism.com){:target="_blank"}
+* [Stretto Blaster](https://strettoblaster.com/label/){:target="_blank"}
 * [Studio Cromie](http://studiocromie.org/){:target="_blank"}
 * [Tava Tava](https://www.facebook.com/bestsoundcollection/){:target="_blank"}
 * [Twelve Notes](http://www.twelve-notes.net/){:target="_blank"}
@@ -113,7 +116,10 @@ Something about Vinilficio:
 * [Yerevan Tape](https://yerevantapes.bandcamp.com/){:target="_blank"}
 * [Sound Vintage Jukebox](https://soundvintagejukebox.wordpress.com/){:target="_blank"}
 * [DATATEX](http://datatex-italia.com/shop/prodotti-per-la-registrazione-analogica.html){:target="_blank"}
+* ... and many others
 
+
+Last but not least... Vinilifcio is against all fascism, racism and all kinds of discrimination. We are against all wars and all forms of violence and oppression.
 
 ### Credits
 * Photographs and image concept of vinilificio.com and slideshows by Gabriele Guarisco and Vinilificio.
