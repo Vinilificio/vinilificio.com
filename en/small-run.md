@@ -73,6 +73,7 @@ On request:
 * Black Cover (**)
 * Brown Cover (**)
 * Printed Cover (**)
+* Printed Cover with [soft touch finishing with gold, silver foil or glossy print](https://www.instagram.com/p/C4F18YUMd7W/){:target="_blank"} (**)
 * PVC Envelope (**)
 * Transparent Vinyl 2mm (**)
 * Ad hoc customisation (**)
