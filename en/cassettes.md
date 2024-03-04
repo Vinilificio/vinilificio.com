@@ -47,9 +47,11 @@ Artwork for imprint correct
 ### Quotation
 In order to process an estimate, the following information is required:
 
-* duration of the master
-* With or wihtout the print on the cassette
+* Quantity
+* Duration of the master
+* With or wihtout the print (1c or 4c) on the cassette
 * With or without the inlay
+* Extra
 
 ### Order
 To order your cassettes write to <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
