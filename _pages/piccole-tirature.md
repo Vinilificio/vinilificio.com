@@ -73,7 +73,7 @@ Su richiesta:
 * Copertina Nera (**)
 * Copertina Marrone (**)
 * Copertina Stampata (**)
-* Copertina Stampata con [finitura soft touch e stampa colotura oro, argento o stampa lucida](https://www.instagram.com/p/C4F18YUMd7W/){:target="_blank"} (**)
+* Copertina Stampata con [finitura soft touch e stampa colatura oro, argento o stampa lucida](https://www.instagram.com/p/C4F18YUMd7W/){:target="_blank"} (**)
 * Busta PVC (**)
 * Vinile trasparente 2mm (**)
 * Personalizzazioni ad hoc (**)
