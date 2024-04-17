@@ -53,6 +53,12 @@ Vinilificio ships with appropriate vinyl packaging. Any damages caused by mishan
 
 * In the event that the order has already been put into production, the refund will be issued within 14 days of receipt of the request. The customer must unconditionally bear a cost equal to 50% of the material already produced as a refund for the material used and a flat fee of € 10.00 for the management and administrative costs incurred for the order cancellation. The refund will be issued within 14 days of receipt of the request.”
 
+
+3. The client has the right not to accept the order on delivery.
+
+* In the event that the client decides to reject the order on delivery and send it back to the sender (Vinilificio), the client must unconditionally bear a cost equal to 50% of the material already produced as a reimbursement for the material used, plus a fixed cost of €10.00 for handling and administration. The refund will be issued no later than 14 days after return to the sender.
+
+
 **SHIPMENTS**
 
 Shipments are made at the risk and expense of the client. Vinilificio will inform the client of the shipping method, courier appointed, costs, shipping code. Under no circumstances is Vinilificio responsible for loss, damage, delays or other damage caused by the courier.
