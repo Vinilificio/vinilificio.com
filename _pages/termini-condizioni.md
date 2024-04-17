@@ -59,6 +59,11 @@ Vinilificio dedurrà dal rimborso un costo a forfait di € 10,00 per le spese d
 * In caso l’ordine sia già stato messo in produzione il rimborso sarà emesso entro 14 giorni dalla ricezione della richiesta. Il cliente dovrà sostenere incondizionatamente un costo pari al 50% del materiale già prodotto a titolo di rimborso del materiale utilizzato, olre ad un costo fisso di € 10,00 di gestione e amministrativi. Il rimborso sarà emesso entro 14 giorni dalla ricezione della richiesta.
 
 
+3. Il cliente ha diritto di non accettare l'ordine alla consegna. 
+
+* Nel caso il cliente decida di rifutare l'ordine alla consenga e rispedirlo al mittente (Vinilificio), il cliente dovrà sostenere incondizionatamente un costo pari al 50% del materiale già prodotto a titolo di rimborso del materiale utilizzato, olre ad un costo fisso di € 10,00 di gestione e amministrativi. Il rimborso sarà emesso entro e non oltre 14 giorni dalla riconsegna al mittente.
+
+
 **SPEDIZIONI:**
 
 Le spedizioni avvengono a rischio e a spese del cliente. Vinilificio informerà il cliente in merito alla modalità di spedizione, corriere incaricato, costi, codice di spedizione. Per nessuna cirsconstanza Vinilificio è responsabile per lo smarrimento, danneggiamento, ritardi o altro danni causati dal corriere.
