@@ -70,6 +70,8 @@ Processing and shipping times are calculated from the date of payment and depend
 <i>Processing times currently vary between 20 and 50 working days (Saturdays, Sundays and public holidays excluded).</i> The expected shipping date will be communicated by email within one working day after receipt of order.
 
 
+URGENT PROCESSING: availability is extremely limited and depends on the time of year and order configuration. Please write to us for availability and costs.<BR>
+
 _Manufacturing vinyl is a highly crafted job that requires time, attention and extreme care. We do our best to meet the needs of each customer, but please consider that manufacturing good vinyl records needs time. If you have special needs do not hesitate to [contact us](/en/contacts/)_.
 
 
