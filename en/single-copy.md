@@ -164,6 +164,9 @@ We accept any type of digital audio format. wav, aiff, mp3...
 
 If you really want to transfer on vinyl compressed files formats such as mp3, do not convert them to any other file format.
 
+The speed of the engraving (33/45/78 rpm) is another important factor affecting the quality of the groove reading along with the disc size (5‘/7’/10‘/12’). The closer you get towards the centre of the disc, the slower the stylus reads the groove. Decreasing the speed towards the centre of the disc results in a less accurate reading of the groove causing, among other problems, distortion. For the reasons mentioned above, qualitatively speaking it is not recommended (although technically possible) to record a 7’ format at 33 rpm.
+
+
 **Low freqeunces:**
 
 * Frequencies below 20 Hz can create resonance problems
