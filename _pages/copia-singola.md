@@ -152,6 +152,8 @@ Ricordiamo che migliore sarà la qualità del master, migliore sarà la qualità
 
 Accettiamo qualsiasi tipo di formato audio digitale. wav, aiff, mp3... Per una migliore resa consigliamo vivamente formato .wav o aiff. Se proprio vuoi incidere formati compressi come l'mp3 non convertirli in altro foramto.
 
+La velocità dell'incisione (33/45/78 rpm) è un'altro fattore importante che influisce sulla qualità della lettura del solco unitamente alla dimensione del supporto (5"/7"/10"/12"). Più ci si avvicina verso il centro del disco minore è la velocità con la quale la puntina legge il solco. Il diminuire della velocità verso il centro del disco determinata una lettura meno precisa del solco causando tra gli altri problemi di distorsione. Per le ragioni sopra citate, qualitativamente parlando è sconsigliata (anche se tecnicamente possibile) l'incisione di un formato 7" a 33 rpm.
+
 **Frequenze basse:**
 
 * Taglio sotto i 20hz. Le frequenze sotto i 20 Hz possono creare problemi di risonanza.
