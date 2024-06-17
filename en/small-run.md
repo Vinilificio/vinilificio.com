@@ -21,7 +21,7 @@ ref: small-run
 ![small run](/img/smallrun_07_small.jpg)
 
 ### Info
-
+<a href="mailto:info@vinilificio.com">Write us</a>
 The short-run service is particularly suitable for artists, record labels and DJs.
 
 * We release audio on vinyl for your promos or limited editions in small runs without having to wait many months and commit to large quantities.
