@@ -22,7 +22,7 @@ ref: small-run
 
 ![piccole tirature](/img/smallrun_07_small.jpg)
 
-<a href="mailto:info@vinilificio.com">Scrivici </a>
+Vuoi saperne di più? <a href="mailto:info@vinilificio.com">Scrivici</a>
 
 Il servizio di piccole tirature è particolarmente indicato per artisti, etichette discografiche e dj.
 
