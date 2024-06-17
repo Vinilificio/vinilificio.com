@@ -39,7 +39,7 @@ Do you have questions or need information you cannot find on this page? [Contact
 
 ### Info
 
-Since 2005 we produce your vinyl in single copy with the latest technology and the highest quality. All vinyl records format are available in black, coloured (black, transparent, white, transparent red, transparent blue, transparent green) or picture disc. High-quality print of covers and labels.
+Since 2005 we produce your vinyl in single copy with the latest technology and the highest quality. All vinyl records format are available in black, coloured (<b><u>black, transparent, white, transparent red, transparent blue, transparent green</u></b>) or picture disc. High-quality print of covers and labels.
 
 Vinilificio's audio transfer studio is unique. It is equipped with 4 audio transfer systems:
 
