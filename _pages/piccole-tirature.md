@@ -22,6 +22,8 @@ ref: small-run
 
 ![piccole tirature](/img/smallrun_07_small.jpg)
 
+<a href="mailto:info@vinilificio.com">Scrivici </a>
+
 Il servizio di piccole tirature è particolarmente indicato per artisti, etichette discografiche e dj.
 
 * Riversiamo l’audio su vinile per i tuoi promo o edizioni limitate in piccole tirature senza dover attendere molti mesi ed impegnarsi in grandi quantità.
