@@ -29,8 +29,8 @@ We press your vinyl starting from 100 copies in the following formats: **7", 10"
 
 We provide black, colored and marbled vinyl records in 7” (standard and big hole), 10", 12”; 140 gr. and 180 g. We also print covers, labels, stickers, inserts and download cards.
 
-[Vinyl color overview](https://www.randmuzik.de/media/mustervinylfarben_samplesvinylcolors_highres_6.pdf)
-Contact us for updated colors list.
+[Vinyl color overview](https://online.anyflip.com/cwok/pxfu/mobile/index.html)
+
 
 We print cover, sleeves, inlay, labels, stickers in all sizes and in b/w, full color or special colors and varnishes (Pantone, UV, metallics, etc.).
 
