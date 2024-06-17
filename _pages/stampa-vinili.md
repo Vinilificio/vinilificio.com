@@ -31,7 +31,7 @@ Stampiamo i tuoi vinili a partire da
 
 Stampiamo vinili neri, colorati e marmorizzati nei formati 7" (foro standard e grande),10", 12" 140 gr. e 180 g., oltre alla stampa di copertine, centrini, adesivi, inserti e downlad card.
 
-<a href="https://online.anyflip.com/cwok/pxfu/mobile/index.html">Questi i colori in catalogo.</a>
+<a href="https://online.anyflip.com/cwok/pxfu/mobile/index.html" target="_blank">Questi i colori in catalogo.</a>
 
 Stampiamo copertine buste, inserti, centrini, sticker adesivi, in tutti i formati, in bianco e nero, a colori o con colori speciali (Pantone, UV, metallici...).
 
