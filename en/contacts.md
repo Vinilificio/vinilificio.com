@@ -13,6 +13,10 @@ via Santa Margherita 14/A<br>
 Italy
 
 
+<b>In August the office is open mon-fri form 9:30 - 13:00<br>
+Apointements are suspended for the whole month<br>
+We are closed for summer holidays 12-18 August</b><br>
+
 __We receives by appointment only__
 
 Information, enquiry and appointments, you can contact us Mon-Fri from 9:30 / 13:00 and from 14:30 / 18:00 :<br><br>
