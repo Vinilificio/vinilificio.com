@@ -14,6 +14,8 @@ ref: gift-card
 ### Gift Card
 Regala la <b>Vinilificio Gift Card</b> a partire da € 20,00.
 <br><br>
+La Gift Card può essere:
+<br><br>
 ![giftcard](/img/GIFT-CARD_yellow_WEB.jpg) <br>
 Digitale in formato jpg o pdf.
 
