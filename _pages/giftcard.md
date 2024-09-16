@@ -3,14 +3,49 @@ title: Gift Card
 position: header
 index: 6
 menu:
+- titolo: Gift Card
+  id: gift-card 
 - titolo: Calligraphy
   id: calligraphy
-- titolo: Gift Card
-  id: gift-card  
 lang: it
 ref: gift-card
 ---
 
+### Gift Card
+Regala la <b>Vinilificio Gift Card</b> a partire da € 20,00.
+<br>
+<br>
+|   Gift Card   | Descrizione                                                      |
+| ------------- |:-----------------------------------------------------------------------:|
+| Digitale| ![giftcard](/img/GIFT-CARD_yellow_WEB.jpg)<br>Invio per email della gift card con dedica e nome del destinatario in formato jpg o pdf. Nessun costo aggiuntivo oltre al valore della gift card|
+| Fisica| ![giftcardvinile](/img/gift-card-mockup-front_web.jpg)![giftcardvinile](/img/gift-card-mockup-back_web.jpg) <br>Disco 5" nero con centrino personalizzato e folder gift card. Include l'inserimento nella grafica del nome e di una dedica.<br> + € 15,00 (spese di spedizione incluse con Poste) oltre al valore della gift card|
+| Fisica con messaggio vocale| Disco 5" nero con incisa nota vocale di 60 secondi, centrino personalizzato e folder gift card. Include l'inserimento nella grafica del nome e di una dedica. <br> + € 20,00 (spese di spedizione incluse con Poste) oltre al valore della gift card|
+
+<br><br>
+Scegli tra i seguenti pacchetti o decidi un budget o una configurazione a te congeniale.
+<br>
+|   Pacchetto   | Descrizione                                                      |
+| ------------- |:-----------------------------------------------------------------------:|
+| A scelta | Scegli un budget o una configurazione a tuo piacimento |
+| 7" base | incisione su vinile 7" nero (< 4 min. per lato) con centrino bianco e busta bianca € 20,00 (*) |
+| 7" full | incisione su vinile 7" nero (< 4 min. per lato) con centrino stampato e copertina stampata € 46,00 (*)|
+| 7" color full | incisione su vinile 7" colorato (< 4 min. per lato) con centrino stampato e copertina stampata € 53,00 (*)    |
+| 10" base | incisione su vinile 10" nero (< 8 min. per lato) con centrino bianco e busta bianca € 35,00 (*) |
+| 10" full | incisione su vinile 10" nero (< 8 min. per lato) con centrino stampato e copertina stampata € 66,00 (*)|
+| 10" color full | incisione su vinile 10" colorato (< 8 min. per lato) con centrino stampato e copertina stampata € 73,00 (*)|
+| 12" base | incisione su vinile 12" nero (15-20 min. per lato) con centrino bianco e busta bianca € 55,00 (*) |
+| 12" full | incisione su vinile 12" nero (15-20 min. per lato) con centrino stampato e copertina stampata € 86,00 (*) |
+| 12" color full | incisione su vinile 12" colorato (15-20 min. per lato) con centrino stampato e copertina stampata € 93,00 (*) |
+
+(*) Il costo della spedizione non è incluso e varia a seconda del servizio scelto Poste o DHL e dalla destinazione. 
+
+
+
+<br><br>
+Per ordinare la tua gift card o richiedere informazioni scrivi a
+<a href="mailto:office@vinilificio.com">office at vinilificio.com</a>
+
+<br>
 
 ### Calligraphy
 Il regalo perfetto
@@ -23,45 +58,3 @@ Come fare? È facilissimo, <a href="/calligraphy/">dai un'occhiata qua.</a>
 ![calligraphy](/img/CAROSELLO_1.jpg)
 
 
-### Gift Card
-
-Vorresti regalare un vinile personalizzato e non hai il materiale, oppure sei arrivato all'ultimo momento e non riesci ad avere il tuo vinile per tempo?
-La <b>Vinilificio Gift Card </b> è quello che fa per te.<br><br>
-Regala la <b>Vinilificio Gift Card</b>, per realizzare il vinile personalizzato con i propri contenuti audio e grafici a partire da € 20,00.
-<br>
-<br>
-Scegli tra le nostre tre gift card
-
-## Gift Card Digitale
-![giftcard](/img/GIFT-CARD_yellow_WEB.jpg)
-<br>
-Nessun costo aggiuntivo oltre al valore della gift card <br>
-
-## Gift Card Fisica
-![giftcardvinile](/img/gift-card-mockup-front_web.jpg)
-![giftcardvinile](/img/gift-card-mockup-back_web.jpg)
-<br>
-Con una maggiorazione di sole € 15,00 (spese di spedizione incluse) spediremo l'esclusiva speciale gift card.
-
-## Gift Card Fisica con nota vocale
-Con una maggiorazione di sole € 20,00 (spese di spedizione incluse) spediremo l'esclusiva speciale gift card con la tua nota vocale.
-
-|   Gift Card   | Descrizione                                                      |
-| ------------- |:-----------------------------------------------------------------------:|
-| Digitale| Invio per email della gift card in formato jpg o pdf.| Nessun costo aggiuntivo oltre al valore della gift card *|
-| Fisica| Disco 5" nero con centrino personalizzato e folder gift card (vedi foto). Include l'inserimento nella grafica del nome e di una dedica. <br>Maggiorazione di € 15,00 (spese di spedizione incluse con Poste) oltre al valore della gift card *|
-| Fisica con messaggio vocale| Disco 5" nero con nota vocale di 60 secondi, con centrino personalizzato e folder gift card (vedi foto). Include l'inserimento nella grafica del nome e di una dedica. <br>Maggiorazione di € 20,00 (spese di spedizione incluse con Poste) oltre al valore della gift card *|
-
-
-(*) Valore Gift card a partire da € 20,00. 
-
-
-
-
-<br>
-Per realizzare la tua <b>Vinilificio Gift Card</b><br>
-- Puoi scegliere il tipo di vinile (formato, colore e quanti minuti di musica vuoi che vengano incisi) e se desideri la stampa dei centrini e della copertina.
-- Oppure puoi scegliere il valore della gift card a partire da € 20,00.<br>
-
-<br><br>
-Per maggiori informazioni <a href="mailto:office@vinilificio.com">office at vinilificio.com</a>
