@@ -52,10 +52,10 @@ Fisica con o senza nota vocale incisa.
 (*) Il costo della spedizione non è incluso e varia a seconda del servizio scelto Poste o DHL e dalla destinazione. 
 
 
-
-<br><br>
-Per ordinare la tua gift card o richiedere informazioni scrivi a
-<a href="mailto:office@vinilificio.com">office at vinilificio.com</a>
+**Per ordinare**
+1. scegli il formato della gift card (digitale o fisico)
+2. il pacchetto a te più congeniale (vedi tabella)
+3. scrivi a <a href="mailto:office@vinilificio.com">office at vinilificio.com</a>
 
 <br>
 
