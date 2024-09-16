@@ -13,13 +13,16 @@ ref: gift-card
 
 ### Gift Card
 Regala la <b>Vinilificio Gift Card</b> a partire da € 20,00.
+<br>
 ![giftcard](/img/GIFT-CARD_yellow_WEB.jpg) 
+Digitale in formato jpg o pdf
 ![giftcardvinile](/img/gift-card-mockup-front_web.jpg)![giftcardvinile](/img/gift-card-mockup-back_web.jpg)
+Fisica con o senza nota vocale incisa
 <br>
 <br>
 | **Gift Card**| **Descrizione**|
 | --- | --- |
-| Digitale  | <img src="/img/gift-card-mockup-front_web.jpg"> Invio per email della gift card con dedica e nome del destinatario in formato jpg o pdf. Nessun costo aggiuntivo oltre al valore della gift card|
+| Digitale  |Invio per email della gift card con dedica e nome del destinatario in formato jpg o pdf. Nessun costo aggiuntivo oltre al valore della gift card|
 | Fisica  | Disco 5" nero con centrino personalizzato e folder gift card. Include l'inserimento nella grafica del nome e di una dedica. + € 15,00 (spese di spedizione incluse con Poste) oltre al valore della gift card|
 | Fisica con nota vocale | Disco 5" nero con incisa nota vocale di 60 secondi, centrino personalizzato e folder gift card. Include l'inserimento nella grafica del nome e di una dedica. + € 20,00 (spese di spedizione incluse con Poste) oltre al valore della gift card |
 
