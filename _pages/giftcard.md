@@ -15,17 +15,18 @@ ref: gift-card
 Regala la <b>Vinilificio Gift Card</b> a partire da € 20,00.
 <br>
 <br>
-|   Gift Card   | Descrizione                                                      |
-| ------------- |:-----------------------------------------------------------------------:|
-| Digitale| ![giftcard](/img/GIFT-CARD_yellow_WEB.jpg)<br>Invio per email della gift card con dedica e nome del destinatario in formato jpg o pdf. Nessun costo aggiuntivo oltre al valore della gift card|
-| Fisica| ![giftcardvinile](/img/gift-card-mockup-front_web.jpg)![giftcardvinile](/img/gift-card-mockup-back_web.jpg) <br>Disco 5" nero con centrino personalizzato e folder gift card. Include l'inserimento nella grafica del nome e di una dedica.<br> + € 15,00 (spese di spedizione incluse con Poste) oltre al valore della gift card|
-| Fisica con messaggio vocale| Disco 5" nero con incisa nota vocale di 60 secondi, centrino personalizzato e folder gift card. Include l'inserimento nella grafica del nome e di una dedica. <br> + € 20,00 (spese di spedizione incluse con Poste) oltre al valore della gift card|
+| **Gift Card**| **Descrizione**|
+| --- | --- |
+| Digitale  | ![giftcard](/img/GIFT-CARD_yellow_WEB.jpg)<br>Invio per email della gift card con dedica e nome del destinatario in formato jpg o pdf. Nessun costo aggiuntivo oltre al valore della gift card|
+| Fisica  | ![giftcardvinile](/img/gift-card-mockup-front_web.jpg)![giftcardvinile](/img/gift-card-mockup-back_web.jpg) <br>Disco 5" nero con centrino personalizzato e folder gift card. Include l'inserimento nella grafica del nome e di una dedica. + € 15,00 (spese di spedizione incluse con Poste) oltre al valore della gift card |
+| Fisica con nota vocale | Disco 5" nero con incisa nota vocale di 60 secondi, centrino personalizzato e folder gift card. Include l'inserimento nella grafica del nome e di una dedica. + € 20,00 (spese di spedizione incluse con Poste) oltre al valore della gift card |
 
 <br><br>
 Scegli tra i seguenti pacchetti o decidi un budget o una configurazione a te congeniale.
 <br>
-|   Pacchetto   | Descrizione                                                      |
-| ------------- |:-----------------------------------------------------------------------:|
+
+| **Pacchetto** |**Descrizione** |
+| --- | --- |
 | A scelta | Scegli un budget o una configurazione a tuo piacimento |
 | 7" base | incisione su vinile 7" nero (< 4 min. per lato) con centrino bianco e busta bianca € 20,00 (*) |
 | 7" full | incisione su vinile 7" nero (< 4 min. per lato) con centrino stampato e copertina stampata € 46,00 (*)|
