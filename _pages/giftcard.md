@@ -13,7 +13,15 @@ ref: gift-card
 
 ### Gift Card
 Regala la <b>Vinilificio Gift Card</b> a partire da € 20,00.
-<br><br>
+<br>
+
+
+**Per ordinare**
+1. scegli il formato della gift card (digitale o fisico)
+2. il pacchetto a te più congeniale (vedi tabella)
+3. scrivi a <a href="mailto:office@vinilificio.com">office at vinilificio.com</a>
+
+<br>
 La Gift Card può essere:
 <br><br>
 ![giftcard](/img/GIFT-CARD_yellow_WEB.jpg) <br>
@@ -50,12 +58,6 @@ Fisica con o senza nota vocale incisa.
 | **12" color full** | incisione su vinile 12" colorato (15-20 min. per lato) con centrino stampato e copertina stampata € 93,00 (*) |
 
 (*) Il costo della spedizione non è incluso e varia a seconda del servizio scelto Poste o DHL e dalla destinazione. 
-
-
-**Per ordinare**
-1. scegli il formato della gift card (digitale o fisico)
-2. il pacchetto a te più congeniale (vedi tabella)
-3. scrivi a <a href="mailto:office@vinilificio.com">office at vinilificio.com</a>
 
 <br>
 
