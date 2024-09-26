@@ -35,7 +35,10 @@ Hai domande o hai bisogno di informazioni che non trovi in questa pagina? [Conta
 
 
 ### Info
-Dal 2005 realizziamo il tuo vinile in tutti i formati in singola copia con le tecnologie più avanzate e la massima qualità. Vinili neri, colorati (<b><u>nero, trasparente, bianco, rosso trasparente, blue trasparente, verde trasparente</u></b>) o picture disc. Stampiamo in alta qualità copertine e centrini.
+Dal 2005 realizziamo il tuo vinile in tutti i formati in singola copia con le tecnologie più avanzate e la massima qualità. Vinili neri, colorati (<b><u>nero, trasparente, bianco, rosso trasparente, blue trasparente, verde trasparente, turchese, arancione(*), giallo(*), rosa (*)</u></b>) o picture disc. Stampiamo in alta qualità copertine e centrini.
+
+(*) Vinili pressati di nuova generazione. Non c'è alcuna differenza con un disco stampato industrialmente. Un vero disco in vinile!!!
+
 
 Lo studio di audio transfer di Vinilificio è unico nel suo genere. È equipaggiato con i seguenti sistemi:
 
