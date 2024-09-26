@@ -3,13 +3,65 @@ title: Gift Card
 position: header
 index: 6
 menu:
+- titolo: Gift Card
+  id: gift-card
 - titolo: Calligraphy
   id: calligraphy
-- titolo: Gift Card
-  id: gift-card  
 lang: en
 ref: gift-card
 ---
+
+
+### Gift Card
+Make a gift! <b>Vinilificio Gift Card</b> starting from € 20,00.
+<br>
+
+
+**To Order**
+1. choose the gift card format (digital or physical)
+2. the package that suits you best (see table)
+3. write to <a href="mailto:office@vinilificio.com">office at vinilificio.com</a>
+
+<br>
+La Gift Card can be:
+<br><br>
+![giftcard](/img/GIFT-CARD_yellow_WEB.jpg)<br>
+Digital format jpg o pdf.
+
+* ***Emailing the gift card with dedication and recipient's name in jpg or pdf format.***
+  + No additional costs beyond the value of the gift card<br>
+
+![giftcardvinile](/img/gift-card-mockup-front_web.jpg)![giftcardvinile](/img/gift-card-mockup-back_web.jpg) <br>
+Physical with or without engraved vocal note.
+
+* ***Black 5" disc with personalised doily and gift card folder. Includes insertion of name and dedication in the graphic.***
+  + € 15,00 (postage included with Poste) + the value of the gift card.
+
+* ***Black 5" disc with engraved 60 second vocal note, personalised doily and gift card folder. Includes engraving of name and dedication***
+  + € 20.00 (postage included with Poste) + the value of the gift card.
+
+
+<br><br>
+**Choose from the following packages or decide on a budget or configuration that suits you.**
+<br>
+
+| **Package** |**Description** |
+| --- | --- |
+| **Of your choice** | Choose a budget or configuration to suit you |
+| **7" base** | audio transfer on 7" black vinyl (< 4 min. per side) with white label and white envelope € 20,00 (*) |
+| **7" full** | audio transfer on 7" black vinyl (< 4 min. per side) with printed label and printed cover € 46,00 (*) |
+| **7" color full** | audio transfer on 7" coloured vinyl (< 4 min. per side) with printed doily and printed cover € 53,00 (*) |
+| **10" base** | audio transfer on 10" black vinyl (< 8 min. per side) with white label and white envelope € 35,00 (*) |
+| **10" full** | audio transfer on 10" black vinyl (< 8 min. per side) with printed doily and printed cover € 66,00 (*)|
+| **10" color full** | audio transfer on 10" coloured vinyl (< 8 min. per side) with printed doily and printed cover € 73,00 (*)|
+| **12" base** | audio transfer on 12" black vinyl (15-20 min. per side) with white doily and white envelope € 55.00 (*) |
+| **12" full** | audio transfer on 12" black vinyl (15-20 min. per side) with printed doily and printed cover € 86,00 (*) |
+| **12" color full** | audio transfer on 12" coloured vinyl (15-20 min. per side) with printed doily and printed cover € 93,00 (*) |
+
+(*) Shipping cost is not included and varies depending on the service chosen Poste or DHL and destination.
+
+<br>
+
 
 ### Calligraphy
 The perfect gift
@@ -20,26 +72,4 @@ How to do it? It is very easy, <a href="/en/calligraphy/">take a look here.</a>
 
 ![calligraphy](/img/CAROSELLO_1.jpg)
 
-### Gift Card
-Would you like to give a personalised vinyl gift and you don't have the material, or have you arrived at the last moment and can't get your vinyl in time?<br>
-The <b>Vinilificio Gift Card</b> is just what you need.<br>
-The lucky person who receives the <b>Vinilificio Gift Card</b> will be able to make his own custom vinyl with his own audio and graphic content.<br>
-![giftcard](/img/GIFT-CARD_yellow_WEB_en.jpg)
-<br>
-Give the gift card in electronic format with your name, surname and dedication<br>
 
-![giftcardvinile](/img/modello vinyl gift card_small_en.jpg)
-<br>
-or with a surcharge of only € 22,00 (including shipping costs) we will send you the exclusive gift card on a black 5" <i>pocket vinyl</i> with personalized center labels with name, surname and dedication. 
-
-
-
-
-<br>
-To make your <b>Vinilificio Gift Card</b><br>
-- You can choose the type of vinyl (format, colour and how many minutes of music you want to be recorded) and whether you want the printed center labels and printed cover.
- and the cover.
-- Or you can choose the value of the gift card starting from € 20.00.<br>
-
-<br><br>
-For more information <a href="mailto:office@vinilificio.com">office at vinilificio.com</a>
