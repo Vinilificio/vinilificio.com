@@ -52,11 +52,11 @@ Physical with or without engraved vocal note.
 | **7" full** | audio transfer on 7" black vinyl (< 4 min. per side) with printed label and printed cover € 46,00 (*) |
 | **7" color full** | audio transfer on 7" coloured vinyl (< 4 min. per side) with printed doily and printed cover € 53,00 (*) |
 | **10" base** | audio transfer on 10" black vinyl (< 8 min. per side) with white label and white envelope € 35,00 (*) |
-| **10" full** | audio transfer on 10" black vinyl (< 8 min. per side) with printed doily and printed cover € 66,00 (*)|
-| **10" color full** | audio transfer on 10" coloured vinyl (< 8 min. per side) with printed doily and printed cover € 73,00 (*)|
-| **12" base** | audio transfer on 12" black vinyl (15-20 min. per side) with white doily and white envelope € 55.00 (*) |
-| **12" full** | audio transfer on 12" black vinyl (15-20 min. per side) with printed doily and printed cover € 86,00 (*) |
-| **12" color full** | audio transfer on 12" coloured vinyl (15-20 min. per side) with printed doily and printed cover € 93,00 (*) |
+| **10" full** | audio transfer on 10" black vinyl (< 8 min. per side) with printed label and printed cover € 66,00 (*)|
+| **10" color full** | audio transfer on 10" coloured vinyl (< 8 min. per side) with printed label and printed cover € 73,00 (*)|
+| **12" base** | audio transfer on 12" black vinyl (15-20 min. per side) with white label and white envelope € 55.00 (*) |
+| **12" full** | audio transfer on 12" black vinyl (15-20 min. per side) with printed label and printed cover € 86,00 (*) |
+| **12" color full** | audio transfer on 12" coloured vinyl (15-20 min. per side) with printed label and printed cover € 93,00 (*) |
 
 (*) Shipping cost is not included and varies depending on the service chosen Poste or DHL and destination.
 
