@@ -25,14 +25,16 @@ Make a gift! <b>Vinilificio Gift Card</b> starting from € 20,00.
 <br>
 La Gift Card can be:
 <br><br>
+<b>Digital format jpg o pdf.</b><br>
 ![giftcard](/img/GIFT-CARD_yellow_WEB.jpg)<br>
-Digital format jpg o pdf.
+
 
 * ***Emailing the gift card with dedication and recipient's name in jpg or pdf format.***
   + No additional costs beyond the value of the gift card<br>
 
+<b>Physical with or without engraved vocal note.</b><br>
 ![giftcardvinile](/img/gift-card-mockup-front_web.jpg)![giftcardvinile](/img/gift-card-mockup-back_web.jpg) <br>
-Physical with or without engraved vocal note.
+
 
 * ***Black 5" disc with personalised doily and gift card folder. Includes insertion of name and dedication in the graphic.***
   + € 15,00 (postage included with Poste) + the value of the gift card.
