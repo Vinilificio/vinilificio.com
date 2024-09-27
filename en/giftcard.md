@@ -23,7 +23,7 @@ Make a gift! <b>Vinilificio Gift Card</b> starting from € 20,00.
 3. write to <a href="mailto:office@vinilificio.com">office at vinilificio.com</a>
 
 <br>
-La Gift Card can be:
+Gift Card can be:
 <br><br>
 <b>Digital format jpg o pdf.</b><br>
 ![giftcard](/img/GIFT-CARD_yellow_WEB.jpg)<br>
