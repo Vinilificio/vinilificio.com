@@ -36,10 +36,10 @@ Gift Card can be:
 ![giftcardvinile](/img/gift-card-mockup-front_web.jpg)![giftcardvinile](/img/gift-card-mockup-back_web.jpg) <br>
 
 
-* ***Black 5" disc with personalised doily and gift card folder. Includes insertion of name and dedication in the graphic.***
+* ***VINYL GIFT CARD_ Black 5" disc with personalised label and gift card folder. Includes insertion of name and dedication in the graphic.***
   + € 15,00 (postage included with Poste) + the value of the gift card.
 
-* ***Black 5" disc with engraved 60 second vocal note, personalised doily and gift card folder. Includes engraving of name and dedication***
+* ***TALKING GIFT CARD_ Black 5" disc with engraved 60 second vocal note, personalised label and gift card folder. Includes engraving of name and dedication***
   + € 20.00 (postage included with Poste) + the value of the gift card.
 
 
@@ -52,7 +52,7 @@ Gift Card can be:
 | **Of your choice** | Choose a budget or configuration to suit you |
 | **7" base** | audio transfer on 7" black vinyl (< 4 min. per side) with white label and white envelope € 20,00 (*) |
 | **7" full** | audio transfer on 7" black vinyl (< 4 min. per side) with printed label and printed cover € 46,00 (*) |
-| **7" color full** | audio transfer on 7" coloured vinyl (< 4 min. per side) with printed doily and printed cover € 53,00 (*) |
+| **7" color full** | audio transfer on 7" coloured vinyl (< 4 min. per side) with printed label and printed cover € 53,00 (*) |
 | **10" base** | audio transfer on 10" black vinyl (< 8 min. per side) with white label and white envelope € 35,00 (*) |
 | **10" full** | audio transfer on 10" black vinyl (< 8 min. per side) with printed label and printed cover € 66,00 (*)|
 | **10" color full** | audio transfer on 10" coloured vinyl (< 8 min. per side) with printed label and printed cover € 73,00 (*)|
