@@ -34,10 +34,10 @@ La Gift Card può essere:
 ![giftcardvinile](/img/gift-card-mockup-front_web.jpg)![giftcardvinile](/img/gift-card-mockup-back_web.jpg) <br>
 
 
-* ***Disco 5" nero con centrino personalizzato e folder gift card. Include l'inserimento nella grafica del nome e di una dedica.***
+* ***GIFT CARTD VINILE_ Disco 5" nero con centrino personalizzato e folder gift card. Include l'inserimento nella grafica del nome e di una dedica.***
   + € 15,00 (spese di spedizione incluse con Poste) + il valore della gift card.
 
-* ***Disco 5" nero con incisa nota vocale di 60 secondi, centrino personalizzato e folder gift card. Include l'inserimento nella grafica del nome e di una dedica.***
+* ***GIFT CARD PARLANTE_ Disco 5" nero con incisa nota vocale di 60 secondi, centrino personalizzato e folder gift card. Include l'inserimento nella grafica del nome e di una dedica.***
   + € 20,00 (spese di spedizione incluse con Poste) + il valore della gift card.
 
 
