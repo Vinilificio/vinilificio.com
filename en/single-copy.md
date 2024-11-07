@@ -69,11 +69,12 @@ With the [Vinilificio app](https://app.vinilificio.com) you can calculate the co
 
 Processing and shipping times are calculated from the date of payment and depend on the quantity ordered, the duration of the disc, whether or not there are printed covers, and the order launch period,
 
-<i>Processing times currently vary between 20 and 50 working days (Saturdays, Sundays and public holidays excluded).</i> The expected shipping date will be communicated by email within one working day after receipt of order. 
-<b>ATTENTION</b>Orders received from 6 November onwards will be processed from January.
+<i>Processing times currently vary between 20 and 50 working days (Saturdays, Sundays and public holidays excluded).</i> The expected shipping date will be communicated by email within one working day after receipt of order. <br>
+<b>ATTENTION</b> Orders received from 6 November onwards will be processed from January.
 
 
 URGENT PROCESSING: DUE TO THE HIGH VOLUME OF REQUESTS, THE URGENT SERVICE IS SUSPENDED. WE KINDLY ASK YOU NOT TO REQUEST TO ANTICIPATE THE PROCESSING. UNFORTUNATELY, THIS IS NOT POSSIBLE AT THIS TIME. THANK YOU FOR YOUR UNDERSTANDING!
+
 availability is extremely limited and depends on the time of year and order configuration. Please write to us for availability and costs.<BR>
 
 _Manufacturing vinyl is a highly crafted job that requires time, attention and extreme care. We do our best to meet the needs of each customer, but please consider that manufacturing good vinyl records needs time. If you have special needs do not hesitate to [contact us](/en/contacts/)_.
