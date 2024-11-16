@@ -62,12 +62,15 @@ Con l' [App di Vinilificio](https://app.vinilificio.com) in maniera semplice ed 
 ### Tempi di lavorazione
 I tempi di lavorazione e di spedizione sono calcolati dalla data di pagamento e dipendono dalla quantità ordinata, dalla durata del disco, dalla presenza o meno di copertine stampate e dal periodo di lancio dell'ordine.
 
-<i>I tempi di lavorazione attualmente variano tra i 20 e i 50 giorni lavorativi (sabato, domenica e giorni festivi esclusi).</i> La data prevista per la spedizione sarà comunicata via email entro il giorno lavorativo successivo la ricezione dell'ordine. 
-<b>IMPORTANTE</b> gli ordini che riceviamo a partire dal 6 novembre saranno programmati a gennaio.
+*I tempi di lavorazione attualmente variano tra i 20 e i 50 giorni lavorativi (sabato, domenica e giorni festivi esclusi).* La data prevista per la spedizione sarà comunicata via email entro il giorno lavorativo successivo la ricezione dell'ordine. 
 
-LAVORAZIONE URGENTE: A CAUSA DELL'ELEVATO FLUSSO DI RICHIESTE, IL SERVIZIO URGENTE È SOSPESO. TI CHIEDIAMO LA CORTESIA DI NON RICHIEDERE DI ANTICIPARE LA LAVORAZIONE. PURTROPPO IN QUESTO MOMENTO NON È POSSIBILE. GRAZIE PER LA COMPRENSIONE!
+[!IMPORTANT] <ins>gli ordini che riceviamo a partire dal 6 novembre saranno programmati da gennaio.</ins>
 
-La disponbilità è estremamente limitata e dipende dal periodo dell'anno e dalla configurazione dell'ordine. Scrivici per conoscere la disponiblità e i costi.<br>
+*LAVORAZIONE URGENTE:<br>
+A CAUSA DELL'ELEVATO FLUSSO DI RICHIESTE, IL SERVIZIO URGENTE È SOSPESO. TI CHIEDIAMO LA CORTESIA DI NON RICHIEDERE DI ANTICIPARE LA LAVORAZIONE. PURTROPPO IN QUESTO MOMENTO NON È POSSIBILE. <br>
+GRAZIE PER LA COMPRENSIONE!*
+
+<!-- La disponbilità è estremamente limitata e dipende dal periodo dell'anno e dalla configurazione dell'ordine. Scrivici per conoscere la disponiblità e i costi. -->
 
 
 _Produrre vinili è un lavoro di alta artiginalità che richiede tempo, attenzione e un'estrema cura. Facciamo del nostro meglio per soddisfare le esigenze di ciasucn cliente, ma considera che per produrre vinili di qualità è necessario tempo. Se hai necessità particolari non esitare a [contattaci](/contatti/)._ 
