@@ -40,8 +40,9 @@ Gift Card can be:
   + € 15,00 (postage included with Poste) + the value of the gift card.
 
 * ***TALKING GIFT CARD_ Black 5" disc with engraved 60 second vocal note, personalised label and gift card folder. Includes engraving of name and dedication***
-  + € 20.00 (postage included with Poste) + the value of the gift card.
+  + € 25.00 (postage included with Poste *) + the value of the gift card.
 
+(*) The shipping cost is calculated for Europe. The final shipping cost may vary depending on the final destination.
 
 <br><br>
 **Choose from the following packages or decide on a budget or configuration that suits you.**
