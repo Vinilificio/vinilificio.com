@@ -66,10 +66,11 @@ I tempi di lavorazione e di spedizione sono calcolati dalla data di pagamento e 
 
 <p>
 
-__IMPORTANTE__ <ins> gli ordini che riceviamo a partire dal 23 dicembre saranno programmati a marzo.</ins> Per maggiori informazioni non esitare a [contattarci](/contatti/). <br>
+<b>IMPORTANTE</b> <ins> gli ordini che riceviamo a partire dal 23 dicembre saranno programmati a marzo.</ins> Per maggiori informazioni non esitare a [contattarci](/contatti/).  <br>
      
-__SIAMO CHIUSI DAL 24 DICEMBRE AL 6 GENNAIO INCLUSI. BUONE FESTE!__ <br>
-    Gli ordini che riceveremo tra il 24 dicembre e il 6 gennaio verranno programmati, come al solito, in base al giorno in cui saranno creati e pagati. 
+<b>SIAMO CHIUSI DAL 24 DICEMBRE AL 6 GENNAIO INCLUSI. BUONE FESTE!</b> <br>
+
+Gli ordini che riceveremo tra il 24 dicembre e il 6 gennaio verranno programmati, come al solito, in base al giorno in cui saranno creati e pagati. 
 </p>
 
 *LAVORAZIONE URGENTE:<br>
