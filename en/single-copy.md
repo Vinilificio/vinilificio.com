@@ -73,9 +73,10 @@ Processing and shipping times are calculated from the date of payment and depend
 
 <p>
 
-__ATTENTION__ the orders we receive after 23 December will be scheduled in March. For more information please do not hesitate to [contact us](/contact/).<br>
+<b>ATTENTION</b> the orders we receive after 23 December will be scheduled in March. For more information please do not hesitate to [contact us](/en/contacts/). <br>
 
-__WE ARE CLOSED FROM 24 DECEMBER TO 6 JANUARY INCLUDED. HAPPY HOLIDAYS!__
+<b>WE ARE CLOSED FROM 24 DECEMBER TO 6 JANUARY INCLUDED. HAPPY HOLIDAYS!</b>
+<br>
 
 The orders we receive between 24 December and 6 January will be scheduled, as usual, according to the day they are created and paid for.</p>
 
