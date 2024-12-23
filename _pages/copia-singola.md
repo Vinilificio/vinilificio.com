@@ -64,14 +64,14 @@ I tempi di lavorazione e di spedizione sono calcolati dalla data di pagamento e 
 
 *I tempi di lavorazione attualmente variano tra i 20 e i 50 giorni lavorativi (sabato, domenica e giorni festivi esclusi).* La data prevista per la spedizione sarà comunicata via email entro il giorno lavorativo successivo la ricezione dell'ordine. 
 
-<p>
-
+<br>
+<br>
 <b>IMPORTANTE</b> <ins> gli ordini che riceviamo a partire dal 23 dicembre saranno programmati a marzo.</ins> Per maggiori informazioni non esitare a [contattarci](/contatti/).  <br>
      
 <b>SIAMO CHIUSI DAL 24 DICEMBRE AL 6 GENNAIO INCLUSI. BUONE FESTE!</b> <br>
 
 Gli ordini che riceveremo tra il 24 dicembre e il 6 gennaio verranno programmati, come al solito, in base al giorno in cui saranno creati e pagati. 
-</p>
+<br>
 
 *LAVORAZIONE URGENTE:<br>
 A CAUSA DELL'ELEVATO FLUSSO DI RICHIESTE, IL SERVIZIO URGENTE È SOSPESO. TI CHIEDIAMO LA CORTESIA DI NON RICHIEDERE DI ANTICIPARE LA LAVORAZIONE. PURTROPPO IN QUESTO MOMENTO NON È POSSIBILE. <br>
