@@ -66,11 +66,8 @@ I tempi di lavorazione e di spedizione sono calcolati dalla data di pagamento e 
 
 <br>
 <br>
-<b>IMPORTANTE</b> <ins> gli ordini che riceviamo a partire dal 23 dicembre saranno programmati a marzo.</ins> Per maggiori informazioni non esitare a [contattarci](/contatti/).  <br>
-     
-<b>SIAMO CHIUSI DAL 24 DICEMBRE AL 6 GENNAIO INCLUSI. BUONE FESTE!</b> <br>
+<b>IMPORTANTE</b> <ins> gli ordini che riceviamo a partire dal 15 gennaio saranno programmati a partire dal 17 marzo.</ins> Per maggiori informazioni non esitare a [contattarci](/contatti/).  <br>
 
-Gli ordini che riceveremo tra il 24 dicembre e il 6 gennaio verranno programmati, come al solito, in base al giorno in cui saranno creati e pagati. 
 <br>
 
 *LAVORAZIONE URGENTE:<br>
@@ -80,7 +77,7 @@ GRAZIE PER LA COMPRENSIONE!*
 <!-- La disponbilità è estremamente limitata e dipende dal periodo dell'anno e dalla configurazione dell'ordine. Scrivici per conoscere la disponiblità e i costi. -->
 
 
-Produrre vinili è un lavoro di alta artiginalità che richiede tempo, attenzione e un'estrema cura. Facciamo del nostro meglio per soddisfare le esigenze di ciasucn cliente, ma considera che per produrre vinili di qualità è necessario tempo. Se hai necessità particolari non esitare a [contattarci](/contatti/). 
+Produrre vinili è un lavoro di alta artiginalità che richiede tempo, attenzione e un'estrema cura. Facciamo del nostro meglio per soddisfare le esigenze di ciasucn cliente, ma considera che per produrre vinili di qualità è necessario tempo. Se hai necessità particolari non esitare a [contattaci](/contatti/). 
 
 
 
