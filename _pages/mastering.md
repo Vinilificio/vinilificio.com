@@ -17,7 +17,7 @@ Le nostre tariffe per mastering associato alla produzione in singola copia, picc
 |               | Costo al minuto                                                         |
 | ------------- |:-----------------------------------------------------------------------:|
 | Mastering (*) | € 6,00 al minuto + € 30,00 di setup fee per durate minori di 40 minuti. (+iva)|
-| Ottimizzazione per vinile (**)      | € 3,00 al minuto + € 30,00 di setup fee per durate minori di 40 minuti. (+iva)|
+| Ottimizzazione per vinile (**)      | € 4,50 al minuto + € 30,00 di setup fee per durate minori di 40 minuti. (+iva)|
 
 
 
