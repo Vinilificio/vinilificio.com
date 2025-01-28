@@ -66,7 +66,7 @@ I tempi di lavorazione e di spedizione sono calcolati dalla data di pagamento e 
 
 <br>
 <br>
-<b>IMPORTANTE</b> <ins> gli ordini che riceviamo a partire dal 15 gennaio saranno programmati a partire dal 17 marzo.</ins> Per maggiori informazioni non esitare a [contattarci](/contatti/).  <br>
+<b>IMPORTANTE</b> <ins> gli ordini che riceviamo a partire dal 28 gennaio saranno programmati a partire dal 01 aprile.</ins> Per maggiori informazioni non esitare a [contattarci](/contatti/).  <br>
 
 <br>
 
