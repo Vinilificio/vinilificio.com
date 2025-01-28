@@ -117,6 +117,7 @@ In caso di disservizi del corriere il cliente ha la faccoltà di fare reclamo di
 
 7. Non siamo responsabili della qualità sonora delle lacche in arrivo.
 
+8. Gli stampatori realizzati da Rand per la stampa dei dischi, rimangono di proprietà del cliente per un anno. Dopo un anno saranno smaltiti. Gli stampatori, le copertine e le etichette saranno conservati a pagamento per 12 mesi a rischio del cliente.
 
 
 Ogni modifica d'ordine ha un costo amministrativo aggiuntivo di € 30,00
