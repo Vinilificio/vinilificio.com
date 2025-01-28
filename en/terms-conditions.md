@@ -88,6 +88,8 @@ This point relates above all, but not only, to the final weight of the record, w
 
 4. We are entitled to provide part performances, provided the customer can be reasonably expected to accept them.
 
+5. The pressing moulds made remain the property of the customer for one year. After that they will be disposed of. Moulds, sleeves and labels will be stored properly for a fee for 12 months at the risk of the customer.
+
 Any changes of the running order will be charged with a administrative fee of 30,00€
 
 Terms and Conditions for the vinyl pressing done at RAND MUZIK: [General Terms and Conditions](https://www.randmuzik.de/en/terms-and-conditions/)
