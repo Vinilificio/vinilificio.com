@@ -73,7 +73,7 @@ Processing and shipping times are calculated from the date of payment and depend
 <br>
 <br>
 
-<b>ATTENTION</b> the orders we receive after 17 January will be scheduled starting from 17 March. For more information please do not hesitate to [contact us](/en/contacts/). 
+<b>ATTENTION</b> the orders we receive after 28 January will be scheduled starting from 1 April. For more information please do not hesitate to [contact us](/en/contacts/). 
 <br>
 <br>
 
