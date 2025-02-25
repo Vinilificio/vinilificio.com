@@ -1,7 +1,6 @@
 ---
 title: Vinylpostcard
-position: header
-index: 7
+position: none
 menu:
   - titolo: Info
     id: info
@@ -14,7 +13,7 @@ menu:
   - titolo: Ordina
     id: ordina
 lang: it
-ref: vinylpostcard
+ref: vpc
 ---
 # Vinylpostcard
 
