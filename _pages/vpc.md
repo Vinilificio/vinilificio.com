@@ -54,7 +54,7 @@ _Utilizza il VPC per combinare l'arte visiva con l'audio._
 
 * Creare oggetti da collezione 
 * Cartolina sonora come invito alle vostre mostre
-* Supportare la vostra arte con la musica
+* Supportare la tua arte con la musica
 * Accedere a contenuti digitali tramite il codice presente sulla VPC
 
 **Festival ed Eventi**\
@@ -117,10 +117,10 @@ La tua grafica deve essere preparata secondo le nostre specifiche (148mmx105mm +
 Per poter eseguire la tua commissione, è necessario che confermi di possedere i diritti d'autore o di avere una licenza per la produzione del materiale fornito. Trovie la dichiarazione <a href="https://www.vinylpostcards.com/_files/ugd/598cea_c018387a6d514809b0d70c6931faf951.pdf" target="blank">QUI</a>.
 
 **- VPC digitale**\
-Una volta verificati e approvati i contenuti relativi alla produzione fisica, vi verrà attivato l'accesso al modulo online App data, dove potrete definire il contenuto della vostra Vinylpostcard digitale. 
+Una volta verificati e approvati i contenuti relativi alla produzione fisica, vi verrà attivato l'accesso al modulo online App data, dove potrete definire il contenuto della tua Vinylpostcard digitale. 
 
 **- Ordinare**\
 Non appena avrai preparato tutti i contenuti e sarai pronto a effettuare l'ordine, <a href="mailto:info@vinilificio.com">scrivici un email</a> e ti daremo tutte le indicazione per completare l'ordine.
 
-Se hai domande o desideri ricevere assistenza durante l'ordine, contattateci.
+Se hai domande o desideri ricevere assistenza durante l'ordine, contattaci.
 
