@@ -7,7 +7,7 @@ menu:
   - titolo: Utilizzi
     id: utilizzi
   - titolo: Prezzi
-    id: costi   
+    id: prezzi   
   - titolo: Specifiche
     id: specifiche
   - titolo: Faq
@@ -79,7 +79,6 @@ Vuoi salutare i tuoi fan, amici o familiari? La Vinylpostcard è il biglietto d'
 * Aumenta la fedeltà dei clienti
 
 ### Prezzi
-**QUANTO COSTA STAMPARE UNA VINYL POSTCARD**
 * 100 Unità - € 5,75 / Unità (IVA esclusa)
 * 200 Unità - € 4,25 / Unità (IVA esclusa)
 * 300 Unità - € 3,69 / Unità (IVA esclusa)
@@ -106,4 +105,4 @@ Vuoi saperne di più? Guarda le nostre <a href="/faq-vpc/">FAQ.</a>
 
 ### Ordina
 
-Per ordinare la tua VPC scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
+Per ordinare la tua VPC <a href="mailto:info@vinilificio.com">contattaci</a>
