@@ -40,8 +40,7 @@ La VPC è in oltre un prezioso strumento per accedere a contenuti digitali (digi
 Gli usi della Vinylpostcard sono molteplici. Questi alcuni esempi
 
 **Tour & Live Merchandise**\
-Il Vinypostcard ha dimostrato di essere una grande risorsa sul tavolo del merchandising di ogni artista in tournée!
-Vinypostcard è un souvenir molto apprezzato che soddisfa tutti i fan, non importa se appassionati di vinile o meno. Ultimo ma non per ultimo è un ulteriore flusso di entrate per l'artista/band in tour.
+Il Vinypostcard ha dimostrato di essere una grande risorsa sul tavolo del merchandising di ogni artista in tournée! Vinypostcard è un souvenir molto apprezzato che soddisfa tutti i fan, non importa se appassionati di vinile o meno. Ultimo ma non per ultimo è un ulteriore flusso di entrate per l'artista/band in tour.
 
 **Single & Album Release**\
 La Vinypostcard è un’ottima soluzione per promuovere con un singolo una nuova release. 
@@ -51,7 +50,6 @@ La Vinypostcard è un’ottima soluzione per promuovere con un singolo una nuova
 
 **Arte e cultura**\
 Vinylposcard combina stampa, audio fonografico e contenuti digitali. È il media ottimale per veicolare contenuti originali tra fisico, analogico e digitale.
-
 _Utilizza il VPC per combinare l'arte visiva con l'audio._
 
 * Creare oggetti da collezione 
@@ -106,3 +104,23 @@ Vuoi saperne di più? Guarda le nostre <a href="/faq-vpc/">FAQ.</a>
 ### Ordina
 
 Per ordinare la tua VPC <a href="mailto:info@vinilificio.com">contattaci</a>
+
+Per commissionare una tiratura di Vinylpostcards, assicurati di avere pronti i seguenti elementi:
+
+**- Master vinile**\
+Per stampare le Vinylpostcards è necessario un master ottimizzato per vinile. Per i requisiti, consultare le <a href="/specifiche-vpc/">specifiche tecniche</a>. Se non sei in grado di fornire un master per vinile, saremo lieti di crearne uno per voi ad un costo di € 110,00.
+
+**- Dati di stampa**\
+La tua grafica deve essere preparata secondo le nostre specifiche (148mmx105mm + 3mm di margine su ogni lato) | modalità colore CMYK | 300dpi | considerate lo spazio per il codice seriale | è obbligatorio inserire come produttore (“manufactured by Vinylpostcards”). Per ulteriori dettagli, consulta le specifiche tecniche e utilizza i nostri templates per ottenere un risultato ottimale.
+
+**- Dichiarazione individuale**\
+Per poter eseguire la tua commissione, è necessario che confermi di possedere i diritti d'autore o di avere una licenza per la produzione del materiale fornito. Trovie la dichiarazione <a href="https://www.vinylpostcards.com/_files/ugd/598cea_c018387a6d514809b0d70c6931faf951.pdf" target="blank">QUI</a>.
+
+**- VPC digitale**\
+Una volta verificati e approvati i contenuti relativi alla produzione fisica, vi verrà attivato l'accesso al modulo online App data, dove potrete definire il contenuto della vostra Vinylpostcard digitale. 
+
+**- Ordinare**\
+Non appena avrai preparato tutti i contenuti e sarai pronto a effettuare l'ordine, <a href="mailto:info@vinilificio.com">scrivici un email</a> e ti daremo tutte le indicazione per completare l'ordine.
+
+Se hai domande o desideri ricevere assistenza durante l'ordine, contattateci.
+
