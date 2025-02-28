@@ -19,11 +19,13 @@ ref: vpc
 ---
 # Vinylpostcard
 
-![cassetta](/img/vpc01.jpg)
+![vpc](/img/vpc01.jpg)
 
 ### Info
 
 Grazie alla partnership con **Vinylpostcard**, Vinilifcio è rivenditore per l’Italia delle originali cartoline vinile, **Vinylpostcard (VPC)**.
+
+<a name=”sezione1″>Ordina la tua VPC</a>
 
 _Una cartolina vinile?_ Sì hai capito bene. **Vinylpostcard** è una cartolina (_formato DIN A6_) che suona proprio come un disco in vinile. Metti la cartolina sul giradischi, appoggia la puntina, fai partire il piatto e buon ascolto!
 
@@ -31,9 +33,9 @@ _Una cartolina vinile?_ Sì hai capito bene. **Vinylpostcard** è una cartolina 
 È una cartolina di dimensione _DIN A6: 14,8 cm x 10,5 cm_ con stampa in quadricromia fronte e retro.
 Il fronte della cartolina ha un’incisione fonografica che permette l’ascolto dell’audio inciso su giradischi. 
 _È possibile incidere fino a 3m:30s a 45 giri_. Per maggiori informazioni consulta le specifiche.
-La VPC è in oltre un prezioso strumento per accedere a contenuti digitali (digital release, audio, video...). Dai un occhio alla web app https://my.vinylpostcards.com/  
+La VPC è in oltre un prezioso strumento per accedere a contenuti digitali (digital release, audio, video...). Dai un occhio alla web app <a href="https://my.vinylpostcards.com/" target="blank"> my.vinylpostcards.com</a>
 
-
+![vpc](/img/vpc03.jpg)
 
 ### Utilizzi
 
@@ -76,6 +78,8 @@ Vuoi salutare i tuoi fan, amici o familiari? La Vinylpostcard è il biglietto d'
 * Promuovi il tuoi prodotti in modo originale ed efficace
 * Aumenta la fedeltà dei clienti
 
+![vpc](/img/vpc02.jpg)
+
 ### Prezzi
 * 100 Unità - € 5,75 / Unità (IVA esclusa)
 * 200 Unità - € 4,25 / Unità (IVA esclusa)
@@ -103,7 +107,7 @@ Vuoi saperne di più? Guarda le nostre <a href="/faq-vpc/">FAQ.</a>
 
 ### Ordina
 
-Per ordinare la tua VPC <a href="mailto:info@vinilificio.com">contattaci</a>
+<a href=”#sezione1″>Per ordinare la tua VPC</a> <a href="mailto:info@vinilificio.com">contattaci</a>
 
 Per commissionare una tiratura di Vinylpostcards, assicurati di avere pronti i seguenti elementi:
 
@@ -111,13 +115,13 @@ Per commissionare una tiratura di Vinylpostcards, assicurati di avere pronti i s
 Per stampare le Vinylpostcards è necessario un master ottimizzato per vinile. Per i requisiti, consultare le <a href="/specifiche-vpc/">specifiche tecniche</a>. Se non sei in grado di fornire un master per vinile, saremo lieti di crearne uno per voi ad un costo di € 110,00.
 
 **- Dati di stampa**\
-La tua grafica deve essere preparata secondo le nostre specifiche (148mmx105mm + 3mm di margine su ogni lato) | modalità colore CMYK | 300dpi | considerate lo spazio per il codice seriale | è obbligatorio inserire come produttore (“manufactured by Vinylpostcards”). Per ulteriori dettagli, consulta le specifiche tecniche e utilizza i nostri templates per ottenere un risultato ottimale.
+La tua grafica deve essere preparata secondo le nostre specifiche (148mmx105mm + 3mm di margine su ogni lato) | modalità colore CMYK | 300dpi | considerate lo spazio per il codice seriale | è obbligatorio inserire come produttore (“_manufactured by Vinylpostcards_”). Per ulteriori dettagli, consulta le specifiche tecniche e utilizza i nostri templates per ottenere un risultato ottimale.
 
 **- Dichiarazione individuale**\
 Per poter eseguire la tua commissione, è necessario che confermi di possedere i diritti d'autore o di avere una licenza per la produzione del materiale fornito. Trovie la dichiarazione <a href="https://www.vinylpostcards.com/_files/ugd/598cea_c018387a6d514809b0d70c6931faf951.pdf" target="blank">QUI</a>.
 
 **- VPC digitale**\
-Una volta verificati e approvati i contenuti relativi alla produzione fisica, vi verrà attivato l'accesso al modulo online App data, dove potrete definire il contenuto della tua Vinylpostcard digitale. 
+Una volta verificati e approvati i contenuti relativi alla produzione fisica, verrà attivato l'accesso al modulo online App data, dove potrai definire il contenuto della tua Vinylpostcard digitale. 
 
 **- Ordinare**\
 Non appena avrai preparato tutti i contenuti e sarai pronto a effettuare l'ordine, <a href="mailto:info@vinilificio.com">scrivici un email</a> e ti daremo tutte le indicazione per completare l'ordine.
