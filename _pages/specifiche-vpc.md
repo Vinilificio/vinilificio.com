@@ -49,7 +49,7 @@ Utilizzate il template da noi fornito per semplificare il processo. Per la creaz
 - Il formato finale del materiale di stampa è DIN A6: 148 × 105 mm o 105 × 148 mm.
 - È necessario applicare l’abbondanza di 3 mm. Attivare l'indicatore di abbondanza
 - Tenere conto del foro centrale di Ø 7,3 mm al centro del cartoncino, ma non escluderlo dalla propria produzione grafica.
-- Formato del file: PDF (almeno Acrobat 6 | PDF 1.5) Consegnare la grafica del fronte e del retro in un unico PDF. Non in due file separati e non criptare i file.
+- Formato del file: PDF (almeno Acrobat 6 PDF 1.5) Consegnare la grafica del fronte e del retro in un unico PDF. Non in due file separati e non criptare i file.
 - Tieni conto che la nostra tolleranza di produzione è di +/- 1 mm, gli oggetti centrati nell'artwork potrebbero non essere perfettamente centrati sul prodotto finale.
 - Rispetta il codice seriale sul retro della carta nell'angolo in basso a destra, non deve essere coperto
 - Stampiamo su carta naturale non patinata. Il contrasto e la saturazione potrebbero avere un’intensità diversa rispetto alla carta patinata. Contattateci per ulteriori informazioni
