@@ -33,7 +33,7 @@ Per ordinare la tua VPC <a href="mailto:info@vinilificio.com">contattaci</a>
 **Ma di cosa si tratta esattamente?** \
 È una cartolina di dimensione _DIN A6: 14,8 cm x 10,5 cm_ con stampa in quadricromia fronte e retro.
 Il fronte della cartolina ha un’incisione fonografica che permette l’ascolto dell’audio inciso su giradischi. 
-_È possibile incidere fino a 3m:30s a 45 giri_. Per maggiori informazioni consulta le specifiche.
+_È possibile incidere fino a 3m:30s a 45 giri_. Per maggiori informazioni consulta le specifiche.\
 La VPC è in oltre un prezioso strumento per accedere a contenuti digitali (digital release, audio, video...). Dai un occhio alla web app <a href="https://my.vinylpostcards.com/" target="blank"> my.vinylpostcards.com</a>
 
 ![vpc](/img/vpc03.jpg)
