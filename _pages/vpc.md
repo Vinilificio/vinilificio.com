@@ -44,7 +44,7 @@ La VPC è in oltre un prezioso strumento per accedere a contenuti digitali (digi
 * 300 Unità - € 3,69 / Unità (IVA esclusa)
 * 500 Unità - € 3,19 / Unità (IVA esclusa)
 
-Per quantità maggiori informazioni <a href="/contatti/">contattaci.</a>
+Per quantità maggiori <a href="/contatti/">contattaci.</a>
 
 Incluso nel costo:
 
@@ -58,7 +58,7 @@ Incluso nel costo:
 
 Per ordinare la tua VPC <a href="mailto:info@vinilificio.com">contattaci</a>
 
-Per commissionare una tiratura di Vinylpostcards, assicurati di avere pronti i seguenti elementi:
+Per realizzare la tua VPC serve:
 
 **- Master vinile**\
 Per stampare le Vinylpostcards è necessario un master ottimizzato per vinile. Per i requisiti, consultare le <a href="/specifiche-vpc/">specifiche tecniche</a>. Se non sei in grado di fornire un master per vinile, saremo lieti di crearne uno per voi ad un costo di € 110,00.
