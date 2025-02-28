@@ -41,7 +41,7 @@ Se non disponi di un master per vinile, possiamo occuparcene noi. Contattaci.
 #### 1.3 Test pressing:
 Sulla base del tuo master in vinile, creiamo il master cut. Il nostro obiettivo è trasferirlo il più fedelmente possibile sulla Vinylpostcard. A causa dei particolari requisiti tecnici del supporto, potrebbe essere necessario intervenire sul master per evitare eventuali distorsioni sul formato analogico. Per questo motivo offriamo la possibilità di ordinare un test pressing. In questo modo avrai la possibilità di controllare e approvare il suono finale della tua Vinylpostcard. Se desideri un test press, contattateci.
 
-### 2. Dati di stampa
+### Dati di stampa
 Il design del fronte e del retro della Vinylpostcard è interamente a carico del cliente. La menzione di Vinylpostcards come produttore con la dicitura: "**_manufactured by Vinylpostcards_**" (dimensione minima: 6 pt) è obbligatoria. Si prega inoltre di riservare la posizione del codice seriale sul retro della cartolina nell'angolo in basso a destra <a href="https://www.vinylpostcards.com/_files/archives/598cea_5a4f3e3866974cec9fcf53bd556541d8.zip?dn=VPC_artwork_templates_2023.zip">(vedi template)</a>.
 Utilizzate il template da noi fornito per semplificare il processo. Per la creazione dei dati di stampa, attenersi alle seguenti informazioni. Eventuali scostamenti dei dati rispetto alle nostre specifiche di stampa possono comportare un blocco o ritardo della lavorazione. È necessario che tali specifiche siano definite o verificate da grafici professionisti.
 
@@ -61,5 +61,5 @@ Utilizzate il template da noi fornito per semplificare il processo. Per la creaz
 - I caratteri devono essere convertiti in tracciati
 - La saturazione del colore non deve superare il 300% e non deve scendere sotto il 10%.
 
-### 3. Disclaimer generale
+### Disclaimer generale
 A causa del processo di produzione, è possibile che le cartoline abbiamo una leggera piegatura. Tieni in oltre presente che le caratteristiche sonore tipiche del vinile - rumore di fondo, clic, ecc. - fanno parte dell'immagine sonora.
