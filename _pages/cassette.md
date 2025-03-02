@@ -28,8 +28,10 @@ Offriamo i seguenti servizi e personalizzazioni:
 
 - Stampa su cassetta a un colore o stampa UV in quadricromia
 - Stampa inserto J-card (0 ante, 1 anta, 2 ante)
-- Stampa su custodia di cartone stampata
+- Stampa su custodia di cartoncino
+- Custodie di cartoncino nero, bianco, marrone
 - Confezione con incellofanatura
+- Download code
 - Incidiamo su nastro al ferro
 - Nastro endless loop
 - Nastro al cromo (solo per le cassette vergini).
