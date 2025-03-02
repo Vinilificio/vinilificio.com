@@ -19,7 +19,7 @@ Grazie a solide partnership con aziende leader Vinilifcio completa il suo catalo
 
 <a href="/vpc/">![vinylpostcard](/img/vpc_giradischi.jpg)</a>
 
-Seppure la storia di questo supporto risale agli anni 50, la Vinylposcard è un supporto innovativo di nuova generazione che unisce 
+Seppure la storia di questo supporto risalga agli anni 50, <a href="/vpc/">la Vinylposcard</a> è un supporto innovativo di nuova generazione che unisce 
 - la stampa tipografica
 - l'incisione audio di alta qualità (comparabile ad un vero e proprio vinile)
 - l'accesso a contenuti digitali
@@ -36,9 +36,10 @@ Vuoi saperne di più e ordinare le tue Vinylpostcard? <a href="/vpc/">clicca qui
 
 ### Cassette
 
-![cassetta](/img/cassette_scrapvinyl01.jpg)
+<a href="/cassette/">![cassetta](/img/cassette_scrapvinyl01.jpg)</a> 
 
-La cassetta rimane un supporto di grande fascino, personalizzabile in tutte le sue parti, audio fino a 90 minuti, ultimo ma non per ultimo con un costo molto interessante.
+<a href="/cassette/">La cassetta</a> rimane un supporto di grande fascino, personalizzabile in tutte le sue parti, con un audio fino a 90 minuti, quantità a partire da 50 pezzi e ultimo ma non per ultimo con un costo molto interessante.
+
 - Vasto catalogo di colori di cassette e custodie.
 - Stampare su cassetta ad un colore o UV in quadricromia.
 - J-card fino a tre ante
@@ -47,7 +48,7 @@ La cassetta rimane un supporto di grande fascino, personalizzabile in tutte le s
 - Incellofanatura
 - Nastro endless loop
 
-Vuoi saperne di più e ordinare le tue cassette? <a href="/cassette/">clicca qui.</a>
+Vuoi saperne di più, richiedere un preventivo e ordinare le tue cassette? <a href="/cassette/">clicca qui.</a>
 
 
 ### CD
