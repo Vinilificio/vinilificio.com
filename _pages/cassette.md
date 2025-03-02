@@ -21,15 +21,18 @@ ref: cassette
 
 Le vecchie cassette, le ricordi? Quelle che si ascoltavano nel mangianastri, nel ghetto blaster  o nello stereo dell’automobile?
 
-Grazie alla partnership con Tape Muzik, Vinilificio può realizzare audiocassette a partire da 50 copie. 
+Grazie alla partnership con _Tape Muzik_, Vinilificio può realizzare audiocassette a partire da 50 copie.
+
+Offriamo i seguenti servizi e personalizzazioni:
+
 
 - Stampa su cassetta a un colore o stampa UV in quadricromia
-- Stampa inseto J-card (0 ante, 1 anta, 2 ante)
+- Stampa inserto J-card (0 ante, 1 anta, 2 ante)
 - Stampa su custodia di cartone stampata
-- Confezionate con incellofanatura
+- Confezione con incellofanatura
 - Incidiamo su nastro al ferro
 - Nastro endless loop
-- Nastro al cromo è solo per le cassette vergini.
+- Nastro al cromo (solo per le cassette vergini).
 - Vasto catalogo di colori di cassette e custodie. Per saperne di più <a href="mailto:info@vinilificio.com">scrivici</a>
 
 ![cassetta](/img/cassette_scrapvinyl02.jpg)
