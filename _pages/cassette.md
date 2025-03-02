@@ -47,12 +47,12 @@ Per poter elaborare un preventivo sono necessarie le seguenti informazioni:
 * Quantità (minimo 50 pezzi)
 * Durata Master
 * Con o senza stampa sulla cassetta (1 colore o 4 colori) 
-* Con o senza inlay (inserto di carta stampato)
-* extra
+* Con o senza j-card (inserto di carta stampato)
+* extra (incellofanatura, download code...)
 
 ### Ordina
 
-Per ordinare le tue cassette scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
+Per richiedere un preventivo e ordinare le tue cassette <a href="mailto:info@vinilificio.com">scrivici.</a>
 
 
 ### Specifiche
