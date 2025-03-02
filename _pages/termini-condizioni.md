@@ -68,15 +68,16 @@ Vinilificio dedurrà dal rimborso un costo a forfait di € 10,00 per le spese d
 
 Le spedizioni avvengono a rischio e a spese del cliente. Vinilificio informerà il cliente in merito alla modalità di spedizione, corriere incaricato, costi, codice di spedizione. Per nessuna cirsconstanza Vinilificio è responsabile per lo smarrimento, danneggiamento, ritardi o altro danni causati dal corriere.
 Il cliente è tenuto a comunicare direttamente al corriere eventuali modifiche di indirizzo, aggiornamenti relativi ai servizi offerti dal corriere incaricato. 
-In caso di disservizi del corriere il cliente ha la faccoltà di fare reclamo direttametne al corriere incaricato.
+In caso di disservizi del corriere il cliente ha la faccoltà di fare reclamo direttamente al corriere incaricato.
 
 
 **SERVIZIO DI INTERMEDIAZIONE PER LA PRODUZIONE DI DISCHI IN VINILE:**
 
+
 *I. Scopo
 1. I seguenti termini e condizioni si applicano a tutti i rapporti commerciali con Cristian Adamo. Si applicano esclusivamente i nostri termini e condizioni. I riferimenti o le contro-conferme del cliente in riferimento alle proprie condizioni generali di contratto sono qui espressamente contraddetti. I termini e le condizioni del cliente che differiscono dai nostri termini e condizioni commerciali non sono validi.
 
-2. Il Vinilificio offre servizio di intermediazione commerciale e tecnica tra cliente e industrie per la produzione e duplicazione di audio su dischi in vinile. Il Vinilificio pertanto non effettua in nessun caso duplicazioni in serie tramite matrice. Il cliente che farà uso di questo servizio è obbligato ad espletare tutte le pratiche richieste per la licenza di riproduzione meccanica presso la società concessionaria nel proprio paese e a prendere visioni dei Termini e Condizioni del servizio di stampa vinile. Qualsiasi disputa in merito alla stampa di vinile e ai prodotti/servizi ad essa connessi, fanno solo ed esclusivo riferimento ai Termini e Condizioni della stamperia, e quindi eventuali reclami dovranno essere indirizzati esclusivamente all'azienda produttrice.
+2. Il Vinilificio offre servizio di intermediazione commerciale e tecnica tra cliente e industrie per la produzione e duplicazione di audio su dischi in vinile, cassette, cd e vinylpostcard e altri supporti e servzi, non qui espressamente elencati. Il Vinilificio pertanto non effettua in nessun caso duplicazioni in serie tramite matrice. Il cliente che farà uso di questo servizio è obbligato ad espletare tutte le pratiche richieste per la licenza di riproduzione meccanica presso la società concessionaria nel proprio paese e a prendere visioni dei Termini e Condizioni del servizio di stampa vinile. Qualsiasi disputa in merito alla stampa di vinile e ai prodotti/servizi ad essa connessi, fanno solo ed esclusivo riferimento ai Termini e Condizioni della stamperia, e quindi eventuali reclami dovranno essere indirizzati esclusivamente all'azienda produttrice.
 
 *II. Formazione del contratto*
 1. L'ordine è un'offerta vincolante. Possiamo scegliere di accettare tale offerta entro quattro settimane, inviando una conferma d'ordine scritta o spedendo la merce ordinata al committente entro tale periodo. Tale termine decorre dal momento in cui l'ordine ci perviene e dal ricevimento dei documenti e dei materiali necessari da parte del committente. Tuttavia, i materiali di partenza devono essere in perfetto stato.
@@ -123,6 +124,10 @@ In caso di disservizi del corriere il cliente ha la faccoltà di fare reclamo di
 Ogni modifica d'ordine ha un costo amministrativo aggiuntivo di € 30,00
 
 Termini e Condizioni per il servizio di stampa vinile presso RAND MUZIK: [TERMINI E CONDIZIONI STAMPA VINILI](https://www.randmuzik.de/en/terms-and-conditions/)
+
+Termini e Condizioni per il servizio di stampa vinile presso TAPE MUZIK: [TERMINI E CONDIZIONI DUPLICAZIONE CASSETTE](https://www.randmuzik.de/en/terms-and-conditions/)
+
+Termini e Condizioni per il servizio di stampa vinile presso VINYLPOSTCARD: [TERMINI E CONDIZIONI STAMPA VIYLPOSTCARD](https://www.vinylpostcards.com/general-terms-and-conditions/)
 
 **ARCHIVIAZIONE DEI MATERIALI AUDIO E GRAFICI:**
 
