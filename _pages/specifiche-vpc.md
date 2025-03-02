@@ -14,7 +14,7 @@ lang: it
 ref: specifiche-vpc
 ---
 
-# Specifiche Vinylpostcard
+# Specifiche <a href="/vpc/">Vinylpostcard.</a>
 
 ### Specifiche e linee guida
 
