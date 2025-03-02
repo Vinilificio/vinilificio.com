@@ -32,6 +32,7 @@ ref: faqvpc
 
 # FAQ <a href="/vpc/">Vinylpostcard.</a>
 
+
 ### Quanta musica contiene una vpc
 Fino a 3m:30s a 45 giri/min 
 Il tempo massimo di riproduzione varia a seconda della musica. I brani con molte basse occupano più spazio e viceversa.
