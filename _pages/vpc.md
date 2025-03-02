@@ -31,10 +31,10 @@ _Una cartolina vinile?_ Sì hai capito bene. **Vinylpostcard** è una cartolina 
 _Per ordinare la tua VPC <a href="mailto:info@vinilificio.com">contattaci</a>_
 
 **Ma di cosa si tratta esattamente?** 
-- UNA CARTOLINA: È una cartolina di dimensione _DIN A6: 14,8 cm x 10,5 cm_ con stampa in quadricromia fronte e retro.
-- UN DISCO: Il fronte della cartolina ha un’incisione fonografica che permette l’ascolto dell’audio inciso su giradischi.
-- È possibile incidere fino a _3m:30s a 45 giri_. Per maggiori informazioni consulta le specifiche.
-- ACCESSO A CONTENUTI DIGITALI: La VPC è in oltre un prezioso strumento per accedere a contenuti digitali (digital release, audio, video...). Dai un occhio alla web app <a href="https://my.vinylpostcards.com/" target="blank"> my.vinylpostcards.com</a>
+- _UNA CARTOLINA_: È una cartolina di dimensione _DIN A6: 14,8 cm x 10,5 cm_ con stampa in quadricromia fronte e retro.
+- _UN DISCO:_ Il fronte della cartolina ha un’incisione fonografica che permette l’ascolto dell’audio inciso su giradischi.
+- È possibile incidere fino a _3m:30s a 45 giri_. Per maggiori informazioni consulta le <a href="/specifiche-vpc/">specifiche tecniche</a>.
+- _ACCESSO A CONTENUTI DIGITALI:_ La VPC è in oltre un prezioso strumento per accedere a contenuti digitali (digital release, audio, video...). Dai un occhio alla web app <a href="https://my.vinylpostcards.com/" target="blank"> my.vinylpostcards.com</a>
 
 ![vpc](/img/vpc03.jpg)
 
