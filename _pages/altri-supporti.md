@@ -27,7 +27,7 @@ Seppure la storia di questo supporto risalga agli anni 50, <a href="/vpc/">la Vi
 Adatto per diversi <a href="/vpc/#utilizzi">utilizzi</a> come 
 - merch per le band in tour
 - supporto per eventi culturali artistici
-- lancio di singoli e albun
+- lancio di singoli e album
 - festival ed eventi
 - gadget per le aziende
 - auguri ed eventi
@@ -41,14 +41,14 @@ Vuoi saperne di più e ordinare le tue Vinylpostcard? <a href="/vpc/">clicca qui
 <a href="/cassette/">La cassetta</a> rimane un supporto di grande fascino, personalizzabile in tutte le sue parti, con un audio fino a 90 minuti, quantità a partire da 50 pezzi e ultimo ma non per ultimo con un costo molto interessante.
 
 - Vasto catalogo di colori di cassette e custodie.
-- Stampare su cassetta ad un colore o UV in quadricromia.
+- Stampa su cassetta ad un colore o UV in quadricromia.
 - J-card fino a tre ante
 - Custodie di cartoncino neutre o stampate
 - Download code
 - Incellofanatura
 - Nastro endless loop
 
-Vuoi saperne di più, richiedere un preventivo e ordinare le tue cassette? <a href="/cassette/">clicca qui.</a>
+Vuoi saperne di più? Richiedi un preventivo e ordina le tue cassette. <a href="/cassette/">clicca qui.</a>
 
 
 ### CD
