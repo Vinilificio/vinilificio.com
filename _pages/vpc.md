@@ -130,7 +130,7 @@ Vuoi salutare i tuoi fan, amici o familiari? La Vinylpostcard è il biglietto d'
 
 ### Faq
 
-Vuoi saperne di più? Guarda le nostre <a href="/faq-vpc/">FAQ.</a>
+Vuoi saperne di più? Guarda le nostre <a href="/faqvpc/">FAQ.</a>
 
 
 
