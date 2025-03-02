@@ -6,7 +6,7 @@ menu:
     id: quanta-musica-si-può-incidere-su-una-vpc
   - titolo: Tempi di produzione
     id: tempi-di-produzione
-  - titolo: Quant-è la quantità minima
+  - titolo: Quant è la quantità minima
     id: quant-è-la-quantità-minima
   - titolo: Quante volte posso suonare una vpc
     id: quante-volte-posso-suonare-una-vpc
