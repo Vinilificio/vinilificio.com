@@ -3,7 +3,7 @@ title: FAQ
 position: none
 menu:
   - titolo: Quanta musica si può incidere su una VPC?
-    id: quanta-musica-si-può-incidere-su-una-VPC?
+    id: quanta-musica-si-può-incidere-su-una-VPC
   - titolo: Tempi di produzione
     id: tempi-di-produzione
   - titolo: Quant’è la quantità minima
@@ -34,7 +34,7 @@ ref: faqvpc
 
 # FAQ Vinylpostcard
 
-### Quanta musica si può incidere su una VPC?
+### Quanta musica si può incidere su una VPC ?
 Fino a 3m:30s a 45 giri/min 
 Il tempo massimo di riproduzione varia a seconda della musica. I brani con molte basse occupano più spazio e viceversa.
 
