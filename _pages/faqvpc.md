@@ -20,8 +20,6 @@ menu:
     id: ho-bisogno-di-un-master-per-vinile
   - titolo: Test pressing
     id: test-pressing
-  - titolo: Ho bisogno di un master per vinile
-    id: ho-bisogno-di-un-master-per-vinile
   - titolo: Posso duplicare qualsiasi tipo di musica
     id: posso-duplicare-qualsiasi-tipo-di-musica
   - titolo: La parte grafica e personalizzabile
