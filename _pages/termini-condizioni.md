@@ -127,7 +127,7 @@ Termini e Condizioni per il servizio di stampa vinile presso RAND MUZIK: [TERMIN
 
 Termini e Condizioni per il servizio di stampa vinile presso TAPE MUZIK: [TERMINI E CONDIZIONI DUPLICAZIONE CASSETTE](https://www.randmuzik.de/en/terms-and-conditions/)
 
-Termini e Condizioni per il servizio di stampa vinile presso VINYLPOSTCARD: [TERMINI E CONDIZIONI STAMPA VIYLPOSTCARD](https://www.vinylpostcards.com/general-terms-and-conditions/)
+Termini e Condizioni per il servizio di stampa vinile presso VINYLPOSTCARD: [TERMINI E CONDIZIONI STAMPA VINYLPOSTCARD](https://www.vinylpostcards.com/general-terms-and-conditions/)
 
 **ARCHIVIAZIONE DEI MATERIALI AUDIO E GRAFICI:**
 
