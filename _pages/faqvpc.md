@@ -32,7 +32,7 @@ lang: it
 ref: faqvpc
 ---
 
-# FAQ Vinylpostcard
+# FAQ <a href="/vpc/">Vinylpostcard.</a>
 
 ### Quanta musica si può incidere su una VPC ?
 Fino a 3m:30s a 45 giri/min 
