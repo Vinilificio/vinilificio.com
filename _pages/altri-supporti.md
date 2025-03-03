@@ -10,7 +10,7 @@ menu:
   - titolo: CD
     id: cd
 lang: it
-ref: cassette
+ref: altri-supporti
 ---
 # Altri Supporti
 Grazie a solide partnership con aziende leader Vinilifcio completa il suo catalogo di supporti come _cartoline vinile, cassette e cd._ 
