@@ -88,8 +88,8 @@ Gli usi della Vinylpostcard sono molteplici. Questi alcuni esempi
 Il Vinypostcard ha dimostrato di essere una grande risorsa sul tavolo del merchandising di ogni artista in tournée! Vinypostcard è un souvenir molto apprezzato che soddisfa tutti i fan, non importa se appassionati di vinile o meno. Ultimo ma non per ultimo è un ulteriore flusso di entrate per l'artista/band in tour.
 
 **Single & Album Release**\
-La Vinypostcard è un’ottima soluzione per promuovere con un singolo una nuova release. 
-* Vinylpostcards ti permette di pubblicare il tup singolo e persino il tuo album sul dominio digitale.
+La Vinypostcard è l'innovativa soluzione che per promuovere un singolo o una nuova release. 
+* Vinylpostcards ti permette di pubblicare il tuo singolo e persino il tuo album sul dominio digitale.
 * Aggiungi alla piattaforma contenuti speciali come video musicali, immagini e pacchetti di download esclusivi.
 * Incuriosisci i tuoi fan con i contenuti digitali e porta la tua pubblicazione a un livello completamente nuovo.
 
