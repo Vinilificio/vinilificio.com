@@ -21,7 +21,7 @@ Grazie a solide partnership con aziende leader Vinilifcio completa il suo catalo
 
 Seppure la storia della cartolina vinile risalga ai tardi anni 50, <a href="/vpc/">la Vinylposcard</a> è un supporto innovativo di nuova generazione che unisce 
 - la stampa tipografica
-- l'incisione audio di alta qualità (comparabile ad un vero e proprio vinile)
+- stampa fonografica di alta qualità (comparabile ad un vero e proprio vinile)
 - l'accesso a contenuti digitali
 
 Adatto per diversi <a href="/vpc/#utilizzi">utilizzi</a> come 
