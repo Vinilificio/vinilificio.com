@@ -72,14 +72,10 @@ Processing and shipping times are calculated from the date of payment and depend
 <i>Processing times currently vary between 20 and 50 working days (Saturdays, Sundays and public holidays excluded).</i> The expected shipping date will be communicated by email within one working day after receipt of order. 
 <br>
 <br>
-
-<b>ATTENTION</b> the orders we receive after 28 January will be scheduled starting from 1 April. For more information please do not hesitate to [contact us](/en/contacts/). 
+**Processing times currently vary between 20 and 50 working days (Saturdays, Sundays and public holidays excluded).** The expected delivery date will be communicated by email within one working day after receipt of your order.
 <br>
 <br>
-
-
-*URGENT PROCESSING:* <br>
-_DUE TO THE HIGH VOLUME OF REQUESTS, THE URGENT SERVICE IS SUSPENDED. WE KINDLY ASK YOU NOT TO REQUEST TO ANTICIPATE THE PROCESSING. UNFORTUNATELY, THIS IS NOT POSSIBLE AT THIS TIME. THANK YOU FOR YOUR UNDERSTANDING!_
+**If you have special requirements for delivery by a specific date, please [contact us](/en/contacts/).**
 
 <!-- availability is extremely limited and depends on the time of year and order configuration. Please write to us for availability and costs.-->
 
