@@ -62,11 +62,11 @@ Con l' [App di Vinilificio](https://app.vinilificio.com) in maniera semplice ed 
 ### Tempi di lavorazione
 I tempi di lavorazione e di spedizione sono calcolati dalla data di pagamento e dipendono dalla quantità ordinata, dalla durata del disco, dalla presenza o meno di copertine stampate e dal periodo di lancio dell'ordine.
 
-*I tempi di lavorazione attualmente variano tra i 20 e i 50 giorni lavorativi (sabato, domenica e giorni festivi esclusi).* La data prevista per la spedizione sarà comunicata via email entro il giorno lavorativo successivo la ricezione dell'ordine. 
+**I tempi di lavorazione attualmente variano tra i 20 e i 50 giorni lavorativi (sabato, domenica e giorni festivi esclusi).** La data prevista per la spedizione sarà comunicata via email entro il giorno lavorativo successivo la ricezione dell'ordine. 
 
 <br>
 
-*Se hai esigenze particolari di consegna entro una data precisa contattaci.*
+**Se hai esigenze particolari di consegna entro una data precisa [contattaci](/contatti/).**
 
 <!-- La disponbilità è estremamente limitata e dipende dal periodo dell'anno e dalla configurazione dell'ordine. Scrivici per conoscere la disponiblità e i costi. -->
 
