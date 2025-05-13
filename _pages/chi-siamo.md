@@ -18,7 +18,7 @@ ref: about
 ---
 
 
-![venti anni](img/A6 - comunicato_2.jpg)
+![venti anni](/img/A6 - comunicato_2.jpg)
 
 ### Chi siamo
 
