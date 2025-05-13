@@ -16,6 +16,7 @@ menu:
 
 ref: about
 ---
+![venti anni](/img/A6 - comunicato_2.jpg)
 
 ### About
 Vinilificio was established in Bologna in 2005 by Cristian Adamo and is the first company to produce fully customized single-copy vinyl records.
