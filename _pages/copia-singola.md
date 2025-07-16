@@ -157,7 +157,11 @@ Su vinile si può incidere più o meno qualsiasi tipo di segnale audio. Per aver
 
 Ricordiamo che migliore sarà la qualità del master, migliore sarà la qualità dell'audio inciso su vinile. Consigliamo sempre un apposito mastering per vinile.
 
-Accettiamo qualsiasi tipo di formato audio digitale. wav, aiff, mp3... Per una migliore resa consigliamo vivamente formato .wav o aiff. Se proprio vuoi incidere formati compressi come l'mp3 non convertirli in altro foramto.
+Accettiamo qualsiasi tipo di formato audio digitale. wav, aiff, mp3...
+
+<i>Per una migliore resa consigliamo vivamente formato .wav o .aiff 16 bit 41 khz, 24 bit 48 khz .</i> Se hai dei dubbi e files con frequenze di campionamento e bit differenti contattaci.
+
+Se proprio vuoi incidere formati compressi come l'mp3 non convertirli in altro foramto.
 
 La velocità dell'incisione (33/45/78 rpm) è un'altro fattore importante che influisce sulla qualità della lettura del solco unitamente alla dimensione del supporto (5"/7"/10"/12"). Più ci si avvicina verso il centro del disco minore è la velocità con la quale la puntina legge il solco. Il diminuire della velocità verso il centro del disco determinata una lettura meno precisa del solco causando tra gli altri problemi di distorsione. Per le ragioni sopra citate, qualitativamente parlando è sconsigliata (anche se tecnicamente possibile) l'incisione di un formato 7" a 33 rpm.
 
