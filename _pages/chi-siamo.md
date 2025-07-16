@@ -42,6 +42,8 @@ Grazie alla partnership con Rand Muzik di cui è concessionario esclusivo per l'
 Ad ognuno la propria musica ad ognuno il proprio vinile personalizzato.
 
 A proposito di Vinilificio e dintorni
+* [Soundwall](https://www.soundwall.it/il-vinile-e-arte-vita-impresa-20-anni-di-vinilificio/)
+* [Zero](https://zero.eu/it/eventi/339266-vinilificio-ventanni-di-dischi-2005-2025,bologna/)
 * [Corriere di Bologna](https://corrieredibologna.corriere.it/notizie/cultura-e-tempo-libero/23_settembre_24/bologna-cristian-adamo-l-artigiano-del-vinile-nonostante-le-difficolta-non-scomparira-mai-6e3abec2-5360-4700-a83f-0a38eecccxlk.shtml?fbclid=IwAR3Z3ufI-BrEoT6tzLO5cVv6lAleoYEi2wg4P4I81SEevfdDe2bcxDZNxKs){:target="_blank"}
 * [Repubblica Bologna](https://www.facebook.com/photo?fbid=801644478634559&set=a.466429085489435){:target="_blank"}
 * [Zero](https://zero.eu/it/persone/vinilificio-cristian-adamo/){:target="_blank"}
@@ -74,8 +76,8 @@ Il Vinilificio supporta eventi culturali e musicali. Per essere aggiornato segui
 * [Instagram Vinilificio](https://www.instagram.com/vinilificio/){:target="_blank"}
 
 
-### Portfolio (alcuni dei nostri clienti)
-
+### Portfolio (alcuni dei nostri clienti passati e presenti)
+* Andrius Arutiunian
 * [Archeo Recordings](https://www.archeo-recordings.com/){:target="_blank"}
 * [Avant Records](http://www.avantrecords.com/){:target="_blank"}
 * [Bassplate Records](http://www.bassplaterecords.net/){:target="_blank"}
@@ -104,6 +106,7 @@ Il Vinilificio supporta eventi culturali e musicali. Per essere aggiornato segui
 * Land of Dance Records
 * [Lemos & Lemhann](https://www.lemosandlehmann.com/solstice/){:target="_blank"}
 * [Lúa Coderch](http://luacoderch.com/){:target="_blank"}
+* [Magnavolt](https://magnavolt.bandcamp.com/)
 * [Malintenti Dischi](http://www.malintenti.it/){:target="_blank"}
 * [Maple Death Records](http://www.mapledeathrecords.com/){:target="_blank"}
 * [Marangoni Spettacolo](http://www.marangonispettacolo.it/){:target="_blank"}
@@ -124,6 +127,7 @@ Il Vinilificio supporta eventi culturali e musicali. Per essere aggiornato segui
 * [Slam Jam](https://www.slamjamsocialism.com){:target="_blank"}
 * [Stretto Blaster](https://strettoblaster.com/label/){:target="_blank"}
 * [Studio Cromie](http://studiocromie.org/){:target="_blank"}
+* [Tartelet Records](https://tarteletrecords.bandcamp.com/)
 * [Tava Tava](https://www.facebook.com/bestsoundcollection/){:target="_blank"}
 * [Twelve Notes](http://www.twelve-notes.net/){:target="_blank"}
 * [What Ever Not](https://whatevernotrecords.bandcamp.com/){:target="_blank"}
