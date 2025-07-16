@@ -51,6 +51,8 @@ Since 2008, Vinilificio, in partnership with Rand Muzik, has provided record pre
 Vinilificio actively supports and is a partner of a number of cultural/musical events, including IDA WORLD DJ CHAMPIONSHIP, ORIGINAL CULTURES and others.
 
 Something about Vinilficio:
+* [Soundwall](https://www.soundwall.it/il-vinile-e-arte-vita-impresa-20-anni-di-vinilificio/)
+* [Zero](https://zero.eu/it/eventi/339266-vinilificio-ventanni-di-dischi-2005-2025,bologna/)
 * [Il Corriere](https://corrieredibologna.corriere.it/notizie/cultura-e-tempo-libero/23_settembre_24/bologna-cristian-adamo-l-artigiano-del-vinile-nonostante-le-difficolta-non-scomparira-mai-6e3abec2-5360-4700-a83f-0a38eecccxlk.shtml?fbclid=IwAR3Z3ufI-BrEoT6tzLO5cVv6lAleoYEi2wg4P4I81SEevfdDe2bcxDZNxKs){:target="_blank"}
 * [Repubblica Bologna](https://www.facebook.com/photo?fbid=801644478634559&set=a.466429085489435){:target="_blank"}
 * [Zero](https://zero.eu/it/persone/vinilificio-cristian-adamo/){:target="_blank"}
@@ -62,6 +64,7 @@ Something about Vinilficio:
 
 ### Portfolio
 
+* Andrius Arutiunian
 * [Archeo Recordings](https://www.archeo-recordings.com/){:target="_blank"}
 * [Avant Records](http://www.avantrecords.com/){:target="_blank"}
 * [Bassplate Records](http://www.bassplaterecords.net/){:target="_blank"}
@@ -90,6 +93,7 @@ Something about Vinilficio:
 * Land of Dance Records
 * [Lemos & Lemhann](https://www.lemosandlehmann.com/solstice/){:target="_blank"}
 * [Lúa Coderch](http://luacoderch.com/){:target="_blank"}
+* [Magnavolt](https://magnavolt.bandcamp.com/)
 * [Malintenti Dischi](http://www.malintenti.it/){:target="_blank"}
 * [Maple Death Records](http://www.mapledeathrecords.com/){:target="_blank"}
 * [Marangoni Spettacolo](http://www.marangonispettacolo.it/){:target="_blank"}
@@ -110,6 +114,7 @@ Something about Vinilficio:
 * [Slam Jam](https://www.slamjamsocialism.com){:target="_blank"}
 * [Stretto Blaster](https://strettoblaster.com/label/){:target="_blank"}
 * [Studio Cromie](http://studiocromie.org/){:target="_blank"}
+* [Tartelet Records](https://tarteletrecords.bandcamp.com/)
 * [Tava Tava](https://www.facebook.com/bestsoundcollection/){:target="_blank"}
 * [Twelve Notes](http://www.twelve-notes.net/){:target="_blank"}
 * [What Ever Not](https://whatevernotrecords.bandcamp.com/){:target="_blank"}
@@ -120,7 +125,7 @@ Something about Vinilficio:
 * ... and many others
 
 
-Last but not least... Vinilifcio is against all fascism, racism and all kinds of discrimination. We are against all wars and all forms of violence and oppression.
+Last but not least... Vinilifcio is against all fascism, racism and all kinds of discriminations. We are against all wars and all forms of violence and oppression.
 
 ### Credits
 * Photographs and image concept of vinilificio.com and slideshows by Gabriele Guarisco and Vinilificio.
