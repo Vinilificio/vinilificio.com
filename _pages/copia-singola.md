@@ -159,7 +159,8 @@ Ricordiamo che migliore sarà la qualità del master, migliore sarà la qualità
 
 Accettiamo qualsiasi tipo di formato audio digitale. wav, aiff, mp3...
 
-<i>Per una migliore resa consigliamo vivamente formato .wav o .aiff 16 bit 41 khz, 24 bit 48 khz .</i> Se hai dei dubbi e files con frequenze di campionamento e bit differenti contattaci.
+<i>Per una migliore resa consigliamo vivamente formato .wav o .aiff 16 bit 41 khz, 24 bit 48 khz .</i> 
+Se hai dei dubbi e files con frequenze di campionamento e bit differenti contattaci.
 
 Se proprio vuoi incidere formati compressi come l'mp3 non convertirli in altro foramto.
 
