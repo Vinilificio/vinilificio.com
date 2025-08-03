@@ -15,8 +15,9 @@ Italy
 
 __We receives by appointment only__
 
-Information, enquiry and appointments, you can contact us Mon-Fri from 9:30 / 13:00 and from 14:30 / 18:00 :<br><br>
-
+Information, enquiry and appointments, you can contact us Mon-Fri  9:30 / 13:00 and 14:30 / 18:00 :<br><br>
+__IN AUGUST WE ARE OPEN MONDAY - FRIDAY 9:30 / 13:00__ <BR>
+__WE ARE ON VACATION FROM THE 11th to the 17th__ <BR><BR>
 
 __tel/fax__ <a href="tel:+390510311817" title="Call the Vinilifico">+39 051 031 1817</a><br>
 __whatsapp__ <a href="https://wa.me/393450782592" title="Chat on WhatsApp with the Vinilificio">+39 345 078 2592</a><br>
@@ -25,7 +26,6 @@ __email__ <a href="mailto:info@vinilificio.com" title="Send an email to the Vini
 
 __facebook__ [facebook.com/VINILIFICIOVINYL](http://www.facebook.com/VINILIFICIOVINYL)<br>
 __instagram__ [instagram.com/vinilificio](http://instagram.com/vinilificio)<br>
-__twitter__ [twitter.com/vinilificio](http://www.twitter.com/vinilificio)
 <br>
 <br>
 
