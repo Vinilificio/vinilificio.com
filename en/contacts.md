@@ -13,7 +13,7 @@ via Santa Margherita 14/A<br>
 Italy
 
 
-__We receives by appointment only__
+__We receive by appointment only__
 
 Information, enquiry and appointments, you can contact us Mon-Fri  9:30 / 13:00 and 14:30 / 18:00 :<br><br>
 __IN AUGUST WE ARE OPEN MONDAY - FRIDAY 9:30 / 13:00__ <BR>
