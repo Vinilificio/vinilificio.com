@@ -10,8 +10,10 @@ via Santa Margherita 14/A<br>
 40123 Bologna<br>
 Italy
 
-__Si riceve solo su appuntamento__<br>
+__Si riceve solo su appuntamento__ <br>
 Per informazioni, domande e appuntamenti puoi contattarci dal lunedì al venerdì dalle 9:30 alle 13:00 e dalle 14:30 alle 18:00 alle seguenti coordinate:<br><br>
+__AD AGOSTO SIAMO APERTI DAL LUNEDì AL VENERDì DALLE 9:30 ALLE 13:00__ <br>
+__CHIUSI PER FERIE DALL'11 AL 17 INCLUSI__
 
 __tel/fax__ <a href="tel:+390510311817" title="Chiama il Vinilifico">+39 051 031 1817</a><br>
 __whatsapp (SOLO CHAT)__ <a href="https://wa.me/393450782592" title="Chatta su WhatsApp con il Vinilificio">+39 345 078 2592</a><br>
@@ -20,7 +22,7 @@ __email__ <a href="mailto:info@vinilificio.com" title="Scrivi al Vinilificio">in
 <br>
 __facebook__ [facebook.com/VINILIFICIOVINYL](http://www.facebook.com/VINILIFICIOVINYL)<br>
 __instagram__ [instagram.com/vinilificio](http://instagram.com/vinilificio)<br>
-__twitter__ [twitter.com/vinilificio](http://www.twitter.com/vinilificio)
+
 <br>
 <br>
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xdobonjv" method="post">
