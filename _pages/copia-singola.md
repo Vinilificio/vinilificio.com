@@ -64,14 +64,18 @@ Con l' [App di Vinilificio](https://app.vinilificio.com) in maniera semplice ed 
 ### Tempi di lavorazione
 I tempi di lavorazione e di spedizione sono calcolati dalla data di pagamento e dipendono dalla quantità ordinata, dalla durata del disco, dalla presenza o meno di copertine stampate e dal periodo di lancio dell'ordine.
 
-**I tempi di lavorazione attualmente variano tra i 20 e i 50 giorni lavorativi (sabato, domenica e giorni festivi esclusi).** La data prevista per la spedizione sarà comunicata via email entro il giorno lavorativo successivo la ricezione dell'ordine. 
+**I tempi di lavorazione attualmente variano tra i 20 e i 50 giorni lavorativi (sabato, domenica e giorni festivi esclusi).**
+
+**>>> ATTENZIONE: NON È GARANTITA LA CONSEGNA PRIMA DEL 23 DICEMBRE <<<**
+
+La data prevista per la spedizione sarà comunicata via email entro cinque giorni lavorativi la ricezione dell'ordine. 
 
 **Se hai esigenze particolari di consegna [contattaci](/contatti/).**
 
 <!-- La disponbilità è estremamente limitata e dipende dal periodo dell'anno e dalla configurazione dell'ordine. Scrivici per conoscere la disponiblità e i costi. -->
 
 
-Produrre vinili è un lavoro di alta artiginalità che richiede tempo, attenzione e un'estrema cura. Facciamo del nostro meglio per soddisfare le esigenze di ciasucn cliente, ma considera che per produrre vinili di qualità è necessario tempo. Se hai necessità particolari non esitare a [contattaci](/contatti/). 
+*Produrre vinili è un lavoro di alta artiginalità che richiede tempo, attenzione e un'estrema cura. Facciamo del nostro meglio per soddisfare le esigenze di ciasucn cliente, ma considera che per produrre vinili di qualità è necessario tempo. Se hai necessità particolari non esitare a [contattaci](/contatti/).*
 
 
 
@@ -190,3 +194,4 @@ La velocità dell'incisione (33/45/78 rpm) è un'altro fattore importante che in
 oppure
 
 * scrivi un'email a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
+
