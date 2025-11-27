@@ -6,6 +6,8 @@ lang: it
 menu:
 - titolo: Acquisto dei servizi
   id: acquisto-dei-servizi
+- titolo: Servizio di intermediazione
+  id: servizio-di-intermediazione
 - titolo: Cookie policy
   id: cookie-policy
 ref: terms-conditions
@@ -71,6 +73,7 @@ Il cliente è tenuto a comunicare direttamente al corriere eventuali modifiche d
 In caso di disservizi del corriere il cliente ha la faccoltà di fare reclamo direttamente al corriere incaricato.
 
 
+### Servizio di intermediazione
 **SERVIZIO DI INTERMEDIAZIONE PER LA PRODUZIONE DI DISCHI IN VINILE:**
 
 
