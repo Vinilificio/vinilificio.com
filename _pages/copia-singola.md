@@ -66,7 +66,7 @@ I tempi di lavorazione e di spedizione sono calcolati dalla data di pagamento e 
 
 **I tempi di lavorazione attualmente variano tra i 20 e i 50 giorni lavorativi (sabato, domenica e giorni festivi esclusi).**
 
-**>>> ATTENZIONE: GLI ORDINI FINALIZZATI DOPO IL 30 NOVEMBRE, SARANNO PRODOTTI E SPEDITI A PARTIRE DALLA SECONDA PARTE DALLA PRIMA SETTIMANA DI FEBBRAIO <<<**
+**>>> ATTENZIONE: GLI ORDINI FINALIZZATI DOPO IL 30 NOVEMBRE, SARANNO PRODOTTI E SPEDITI A PARTIRE DALLA PRIMA SETTIMANA DI FEBBRAIO <<<**
 
 Il servizio urgente al momento non è disponibile
 
@@ -196,6 +196,7 @@ La velocità dell'incisione (33/45/78 rpm) è un'altro fattore importante che in
 oppure
 
 * scrivi un'email a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
+
 
 
 
