@@ -75,7 +75,7 @@ Processing and shipping times are calculated from the date of payment and depend
 <br>
 **Processing times currently vary between 20 and 50 working days (Saturdays, Sundays and public holidays excluded).** The expected delivery date will be communicated by email within five working day after receipt of your order.
 <br>
-**>>> PLEASE NOTE: ORDERS PLACED AFTER 30 NOVEMBER WILL BE PRODUCED AND SHIPPED FROM THE FIRST WEEK OF FEBRUARY <<<**
+**>>> PLEASE NOTE: ORDERS PLACED AFTER 12 DECEMBER WILL BE PRODUCED AND SHIPPED FROM MARCH ONWARDS.<<<**
 <br>
 Due to high demand, the urgent service is currently unavailable.
 <br>
