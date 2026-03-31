@@ -73,8 +73,7 @@ With the [Vinilificio app](https://app.vinilificio.com) you can calculate the co
 Processing and shipping times are calculated from the date of payment and depend on the quantity ordered, the duration of the disc, whether or not there are printed covers, and the order launch period.
 <br>
 <br>
-**Processing times currently vary between 20 and 50 working days (Saturdays, Sundays and public holidays excluded).** The expected delivery date will be communicated by email within five working day after receipt of your order.
-<br>
+**Processing times currently vary between 20 and 50 working days (Saturdays, Sundays and public holidays excluded).** <br>
 Due to high demand, the urgent service is currently unavailable.
 <br>
 The expected shipping date will be communicated by email within seven working days of receiving the order. 
