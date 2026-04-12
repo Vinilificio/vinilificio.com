@@ -30,6 +30,9 @@ The audio material transferred by Vinilificio from a master onto a single suppor
 
 The client is responsible for the quality of the audio and graphic content supplied to Vinilificio for the audio master transfer service on vinyl records and for the quantity printing service. The client must read the technical specifications provided by Vinilificio on its web site and/or by email and provide materials according with Vinilificio specifications. No complaints will be accepted regarding the quality of the product made by Vinilificio in the case of non-compliant material. In the case of non-compliant material the client, before proceeding with the processing, can request support for the mastering service and/or graphic support. The mastering and/or graphic support services are activated only and exclusively upon the client's request and approval of the estimate.
 
+Vinilficio reserves the right, at its sole discretion, to refuse the reproduction of any content that features material or images associated with fascism, Nazism or any other references to racism, sexism, discriminatory content or content that glorifies violence. Should such content be found, Vinilficio will cancel the order and issue a full refund of the order amount to the customer, using the same payment method as the original transaction.
+
+
 **PROCESSING TIMES FOR SINGLE VINYL AND SMALL RUNS:**
 
 Processing times for single vinyl or small runs vary between 20 and 50 working days. Times may vary depending on the type of order (vinyl format, master length, prints, quantity...). The customer unconditionally grants Vinilificio an additional 40 working days in the event of (but not limited to) quality problems encountered during production, problems with the supply of raw materials and semi-finished products, operator illness and other external factors such as extreme weather events, earthquakes, wars and pandemics.
