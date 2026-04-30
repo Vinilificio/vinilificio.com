@@ -58,12 +58,8 @@ Vinilificio ships with appropriate vinyl packaging. Any damages caused by mishan
 
 3. Exclusion of the Right of Withdrawal, Returns and Refunds
 
-* The products covered by the orders are manufactured exclusively on the basis of the content provided by the customer, who assumes full and exclusive responsibility for the rights, licenses, and compliance of the submitted materials.
-
-Pursuant to Article 59, paragraph 1, letter c) of Legislative Decree 6 September 2005, no. 206 (Italian Consumer Code), the right of withdrawal is excluded for the supply of goods made to measure or clearly personalised. Therefore, due to the customised nature of the products provided, the customer may not exercise the right of withdrawal once the order has been completed.
-
-Consequently, once the record has been shipped, it will not be possible to accept returns or transfer the product to third parties.
-
+* The products covered by the orders are manufactured exclusively on the basis of the content provided by the customer, who assumes full and exclusive responsibility for the rights, licenses, and compliance of the submitted materials. Pursuant to Article 59, paragraph 1, letter c) of Legislative Decree 6 September 2005, no. 206 (Italian Consumer Code), the right of withdrawal is excluded for the supply of goods made to measure or clearly personalised.
+Therefore, due to the customised nature of the products provided, the customer may not exercise the right of withdrawal once the order has been completed. Consequently, once the record has been shipped, it will not be possible to accept returns or transfer the product to third parties.
 For the same reasons, no refunds of amounts paid are provided, except in cases expressly required by law.
 
 
