@@ -63,15 +63,11 @@ Vinilificio dedurrà dal rimborso un costo a forfait di € 10,00 per le spese d
 
 * In caso l’ordine sia già stato messo in produzione il rimborso sarà emesso entro 14 giorni dalla ricezione della richiesta. Il cliente dovrà sostenere incondizionatamente un costo pari al 50% del materiale già prodotto a titolo di rimborso del materiale utilizzato, olre ad un costo fisso di € 10,00 di gestione e amministrativi. Il rimborso sarà emesso entro 14 giorni dalla ricezione della richiesta.
 
-
 3. Esclusione del diritto di recesso, resi e rimborsi
 
 * I prodotti oggetto degli ordini sono realizzati esclusivamente sulla base dei contenuti forniti dal cliente, il quale ne assume la piena ed esclusiva responsabilità in relazione a diritti, licenze e conformità dei materiali trasmessi.
-
 Ai sensi e per gli effetti dell’art. 59, comma 1, lett. c) del Decreto Legislativo 6 settembre 2005, n. 206 (Codice del Consumo), il diritto di recesso è escluso per la fornitura di beni confezionati su misura o chiaramente personalizzati. Pertanto, in considerazione della natura personalizzata dei prodotti forniti, il cliente non potrà esercitare il diritto di recesso una volta concluso l’ordine.
-
 Conseguentemente, una volta che il disco è stato spedito, non sarà possibile accettare resi, né procedere alla cessione a terzi.
-
 Per le medesime ragioni, non è previsto alcun rimborso degli importi corrisposti, salvo i casi espressamente previsti dalla legge.
 
 **SPEDIZIONI:**
