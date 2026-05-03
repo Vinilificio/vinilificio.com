@@ -49,15 +49,16 @@ Vinilificio carries out quality control both during production and before shipme
 
 Vinilificio ships with appropriate vinyl packaging. Any damages caused by mishandling of the package shall be considered quality production problems. More information can be found in “Shipping” in Terms and Conditions.</i>
 
-1. In the event that the customer experiences quality problems due to the production of audio and/or graphic media produced by Vinilificio, the customer must send a communication via email to info@vinilificio.com no later than 8 days from the receipt of the order. The communication must include a clear description of any problems together with photographic and/or video documentation. If requested by Vinilificio, the customer must return the defective material for viewing. Shipping costs are borne by the customer and will be reimbursed by Vinilificio if the production defect is confirmed. Vinilificio must respond within 8 working days. If the production defect is confirmed, Vinilificio will remanufacture the item that has production problems at its own expense. Shipping costs are borne by Vinilificio. 
+1. **Quality Issues and Defective Products**
+In the event that the customer experiences quality problems due to the production of audio and/or graphic media produced by Vinilificio, the customer must send a communication via email to info@vinilificio.com no later than 8 days from the receipt of the order. The communication must include a clear description of any problems together with photographic and/or video documentation. If requested by Vinilificio, the customer must return the defective material for viewing. Shipping costs are borne by the customer and will be reimbursed by Vinilificio if the production defect is confirmed. Vinilificio must respond within 8 working days. If the production defect is confirmed, Vinilificio will remanufacture the item that has production problems at its own expense. Shipping costs are borne by Vinilificio. 
 
-2. The customer has the right to cancel the order once payment has been made. 
+3. **Order Cancellation**
 
 In the case of an order not yet in production, the refund will be issued within 14 days of receipt of the request. Vinilificio will deduct a flat fee of € 10.00 for the management and administrative costs incurred for the order cancellation. 
 
 In the event that the order has already been put into production, the refund will be issued within 14 days of receipt of the request. The customer must unconditionally bear a cost equal to 50% of the material already produced as a refund for the material used and a flat fee of € 10.00 for the management and administrative costs incurred for the order cancellation. The refund will be issued within 14 days of receipt of the request.”
 
-3. Exclusion of the Right of Withdrawal, Returns and Refunds
+3. **Exclusion of the Right of Withdrawal, Returns and Refunds**
 
 The products covered by the orders are manufactured exclusively on the basis of the content provided by the customer, who assumes full and exclusive responsibility for the rights, licenses, and compliance of the submitted materials. Pursuant to Article 59, paragraph 1, letter c) of Legislative Decree 6 September 2005, no. 206 (Italian Consumer Code), the right of withdrawal is excluded for the supply of goods made to measure or clearly personalised.
 Therefore, due to the customised nature of the products provided, the customer may not exercise the right of withdrawal once the order has been completed. Consequently, once the record has been shipped, it will not be possible to accept returns or transfer the product to third parties.
