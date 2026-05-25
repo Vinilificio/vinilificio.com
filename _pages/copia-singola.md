@@ -21,7 +21,7 @@ ref: single-copy
 
 # Vinile Personalizzato
 
-<a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;">Crea adesso il tuo vinile</a> 
+__È facile__  <a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;">Crea adesso il tuo vinile</a> 
 
 ![vinilepersonalizzato](/img/future-vinyl-project_web_medium.jpg)
 
