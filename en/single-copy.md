@@ -21,6 +21,8 @@ ref: single-copy
 
 # Custom Vinyl Record
 
+__Create now__  <a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;"> your vinyl record</a>
+
 ![vinilepersonalizzato](/img/future-vinyl-project_web_medium.jpg)
 
 Are you an insider and in need of high-quality vinyl record? 
