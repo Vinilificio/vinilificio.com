@@ -21,7 +21,7 @@ ref: single-copy
 
 # Custom Vinyl Record
 
-__Create now__  <a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;"> your vinyl record</a>
+__It's easy, create now__  <a class="button" href="https://app.vinilificio.com/" style="color: white;text-decoration: none;"> your vinyl record</a>
 
 ![vinilepersonalizzato](/img/future-vinyl-project_web_medium.jpg)
 
