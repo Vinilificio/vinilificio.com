@@ -39,8 +39,6 @@ Vinilficio, a suo insindacabile giudizio rifiuta la riproduzione di qualsiasi co
 I tempi di lavorazione previsti per la produzione di un vinile in singola copia o per piccole tirature varia tra i 20 e i 50 giorni lavorativi. Le tempistiche possono variare in base alla tipologia di ordine (formato vinile, durata master, stampe, quantità...). Il cliente concede incondizionatamente a Vinilificio ulteriori 40 giorni di lavorazione in caso di (ma non solo) problemi qualitativi riscontrati durante la produzione, problemi di approvvigionamento di materie prime e semilavorati, malattia degli operatori e altri fattori esterni come eventi climatici estremi, terremoti, guerre e pandemie.
 Vinilificio è comunque tenuto a comunicare eventuali ritardi al cliente entro 10 giorni dalla data comunicata nella conferma d'ordine. Allo scadere dei 40 giorni concessi il cliente ha il diritto di richidere il rimborso di quanto versato per la produzione dell'ordine.
 
-### Servizio di Lavorazione Urgente
-
 Il servizio di **Lavorazione Urgente** costituisce un servizio accessorio, disponibile esclusivamente previa verifica di fattibilità e conferma espressa da parte di Vinilificio.
 
 Il corrispettivo del servizio è determinato caso per caso, in funzione delle tempistiche richieste dal Cliente, delle caratteristiche dell'ordine e della capacità produttiva disponibile al momento della richiesta.
