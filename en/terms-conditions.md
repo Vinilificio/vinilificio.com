@@ -38,8 +38,6 @@ Vinilficio reserves the right, at its sole discretion, to refuse the reproductio
 Processing times for single vinyl or small runs vary between 20 and 50 working days. Times may vary depending on the type of order (vinyl format, master length, prints, quantity...). The customer unconditionally grants Vinilificio an additional 40 working days in the event of (but not limited to) quality problems encountered during production, problems with the supply of raw materials and semi-finished products, operator illness and other external factors such as extreme weather events, earthquakes, wars and pandemics.
 Vinilificio is however obliged to communicate any delays to the client within 10 days from the date communicated in the order confirmation. At the end of the 40 days allowed the client has the right to request a refund of the amount paid for the production of the order.
 
-### Urgent Production Service
-
 The **Urgent Production Service** is an optional ancillary service and is available solely upon feasibility assessment and express confirmation by Vinilificio.
 
 The fee for the Urgent Production Service is determined on a case-by-case basis, taking into account the requested production timeframe, the specifications of the order, and current production capacity.
