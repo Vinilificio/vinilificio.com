@@ -38,6 +38,18 @@ Vinilficio reserves the right, at its sole discretion, to refuse the reproductio
 Processing times for single vinyl or small runs vary between 20 and 50 working days. Times may vary depending on the type of order (vinyl format, master length, prints, quantity...). The customer unconditionally grants Vinilificio an additional 40 working days in the event of (but not limited to) quality problems encountered during production, problems with the supply of raw materials and semi-finished products, operator illness and other external factors such as extreme weather events, earthquakes, wars and pandemics.
 Vinilificio is however obliged to communicate any delays to the client within 10 days from the date communicated in the order confirmation. At the end of the 40 days allowed the client has the right to request a refund of the amount paid for the production of the order.
 
+### Urgent Production Service
+
+The **Urgent Production Service** is an optional ancillary service and is available solely upon feasibility assessment and express confirmation by Vinilificio.
+
+The fee for the Urgent Production Service is determined on a case-by-case basis, taking into account the requested production timeframe, the specifications of the order, and current production capacity.
+
+Once the Urgent Production Service has been confirmed, Vinilificio will communicate the **estimated shipping date** for the order. Such date represents Vinilificio's good-faith estimate based on the information available at the time of confirmation and refers exclusively to the completion of production and the handover of the goods to the selected carrier.
+
+Vinilificio shall not be liable for the carrier's performance, including, without limitation, shipping times, delivery delays, loss, damage, or any other issues arising during transportation, regardless of whether a particular shipping service or carrier has been recommended or suggested by Vinilificio.
+
+Vinilificio's responsibility under the Urgent Production Service is strictly limited to using commercially reasonable efforts to dispatch the order by the estimated shipping date communicated to the Customer. Vinilificio shall not be liable for any delay or failure to meet the estimated shipping date resulting from force majeure, unforeseen circumstances, Customer-requested modifications, delayed approvals, incomplete or incorrect files, data or materials provided by the Customer, or any other event beyond Vinilificio's reasonable control.
+
 **QUALITY, ORDER CANCELLATION AND REFUND:**
 
 <i>Given that:
