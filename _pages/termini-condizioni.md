@@ -39,6 +39,16 @@ Vinilficio, a suo insindacabile giudizio rifiuta la riproduzione di qualsiasi co
 I tempi di lavorazione previsti per la produzione di un vinile in singola copia o per piccole tirature varia tra i 20 e i 50 giorni lavorativi. Le tempistiche possono variare in base alla tipologia di ordine (formato vinile, durata master, stampe, quantità...). Il cliente concede incondizionatamente a Vinilificio ulteriori 40 giorni di lavorazione in caso di (ma non solo) problemi qualitativi riscontrati durante la produzione, problemi di approvvigionamento di materie prime e semilavorati, malattia degli operatori e altri fattori esterni come eventi climatici estremi, terremoti, guerre e pandemie.
 Vinilificio è comunque tenuto a comunicare eventuali ritardi al cliente entro 10 giorni dalla data comunicata nella conferma d'ordine. Allo scadere dei 40 giorni concessi il cliente ha il diritto di richidere il rimborso di quanto versato per la produzione dell'ordine.
 
+### Servizio di Lavorazione Urgente
+
+Il servizio di **Lavorazione Urgente** costituisce un servizio accessorio, disponibile esclusivamente previa verifica di fattibilità e conferma espressa da parte di Vinilificio.
+
+Il corrispettivo del servizio è determinato caso per caso, in funzione delle tempistiche richieste dal Cliente, delle caratteristiche dell'ordine e della capacità produttiva disponibile al momento della richiesta.
+
+Una volta confermata la Lavorazione Urgente, Vinilificio comunicherà al Cliente la **data prevista di spedizione** dell'ordine. Tale data rappresenta una stima effettuata sulla base delle informazioni disponibili al momento della conferma e si riferisce esclusivamente al completamento della lavorazione e all'affidamento della merce al corriere.
+
+Vinilificio non assume alcuna responsabilità per i tempi, le modalità o eventuali ritardi imputabili al vettore incaricato del trasporto, né garantisce la data di consegna finale della merce al Cliente, anche qualora sia stato consigliato o indicato uno specifico servizio di spedizione.
+
 **QUALITA' E RICHIESTA DI RIMBORSO:**
 
 
@@ -72,7 +82,7 @@ Per le medesime ragioni, non è previsto alcun rimborso degli importi corrispost
 
 **SPEDIZIONI:**
 
-Le spedizioni avvengono a rischio e a spese del cliente. Vinilificio informerà il cliente in merito alla modalità di spedizione, corriere incaricato, costi, codice di spedizione. Per nessuna cirsconstanza Vinilificio è responsabile per lo smarrimento, danneggiamento, ritardi o altro danni causati dal corriere.
+Le spedizioni avvengono a rischio e a spese del cliente. Vinilificio informerà il cliente in merito alla modalità di spedizione, corriere incaricato, costi, codice di spedizione. Per nessuna cirsconstanza Vinilificio è responsabile per lo smarrimento, danneggiamento, ritardi o altro danni o disservizi causati dal corriere.
 Il cliente è tenuto a comunicare direttamente al corriere eventuali modifiche di indirizzo, aggiornamenti relativi ai servizi offerti dal corriere incaricato. 
 In caso di disservizi del corriere il cliente ha la faccoltà di fare reclamo direttamente al corriere incaricato.
 
