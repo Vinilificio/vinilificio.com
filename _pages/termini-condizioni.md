@@ -88,11 +88,17 @@ In caso di disservizi del corriere il cliente ha la faccoltà di fare reclamo di
 ### Servizio di intermediazione
 **SERVIZIO DI INTERMEDIAZIONE PER LA PRODUZIONE DI DISCHI IN VINILE:**
 
+*Premesso che
+Vinilificio, nella persona di Cristian Adamo, presta un servizio di intermediazione commerciale per la realizzazione di stampe in quantità, avvalendosi di uno o più partner di produzione selezionati.
+
+La scelta della sede di produzione incaricata dell'esecuzione dell'ordine è effettuata a esclusiva e insindacabile discrezione di Vinilificio, sulla base di criteri organizzativi, logistici, produttivi e qualitativi, senza che ciò comporti variazioni nelle condizioni economiche o contrattuali concordate con il cliente.
+
+Il cliente può richiedere informazioni in merito alla sede di produzione incaricata del proprio ordine. Vinilificio fornirà tali informazioni, salvo i casi in cui la loro comunicazione sia limitata da obblighi di riservatezza nei confronti dei partner di produzione o da altre esigenze legittime di carattere commerciale od organizzativo.
 
 *I. Scopo
 1. I seguenti termini e condizioni si applicano a tutti i rapporti commerciali con Cristian Adamo. Si applicano esclusivamente i nostri termini e condizioni. I riferimenti o le contro-conferme del cliente in riferimento alle proprie condizioni generali di contratto sono qui espressamente contraddetti. I termini e le condizioni del cliente che differiscono dai nostri termini e condizioni commerciali non sono validi.
 
-2. Il Vinilificio offre servizio di intermediazione commerciale e tecnica tra cliente e industrie per la produzione e duplicazione di audio su dischi in vinile, cassette, cd e vinylpostcard e altri supporti e servzi, non qui espressamente elencati. Il Vinilificio pertanto non effettua in nessun caso duplicazioni in serie tramite matrice. Il cliente che farà uso di questo servizio è obbligato ad espletare tutte le pratiche richieste per la licenza di riproduzione meccanica presso la società concessionaria nel proprio paese e a prendere visioni dei Termini e Condizioni del servizio di stampa vinile. Qualsiasi disputa in merito alla stampa di vinile e ai prodotti/servizi ad essa connessi, fanno solo ed esclusivo riferimento ai Termini e Condizioni della stamperia, e quindi eventuali reclami dovranno essere indirizzati esclusivamente all'azienda produttrice.
+2. Il Vinilificio offre servizio di intermediazione commerciale e tecnica tra cliente e industrie per la produzione e duplicazione di audio su dischi in vinile, cassette, cd e vinylpostcard e altri supporti e servzi, non qui espressamente elencati. Il Vinilificio pertanto non effettua in nessun caso duplicazioni in serie tramite matrice. Il cliente che farà uso di questo servizio è obbligato ad espletare tutte le pratiche richieste per la licenza di riproduzione meccanica presso la società concessionaria nel proprio paese.
 
 *II. Formazione del contratto*
 1. L'ordine è un'offerta vincolante. Possiamo scegliere di accettare tale offerta entro quattro settimane, inviando una conferma d'ordine scritta o spedendo la merce ordinata al committente entro tale periodo. Tale termine decorre dal momento in cui l'ordine ci perviene e dal ricevimento dei documenti e dei materiali necessari da parte del committente. Tuttavia, i materiali di partenza devono essere in perfetto stato.
