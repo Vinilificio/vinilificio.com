@@ -106,7 +106,7 @@ In caso di disservizi del corriere il cliente ha la faccoltà di fare reclamo di
 *III. Tempi di lavorazione, consegna*
 
 1. L'ordine è da considerarsi valido solo a completa ricezione di tutto il materiale, informazioni, documentazioni richieste e pagamento secondo le condizioni commerciali concordate.
-2. I tempi di produzione indicati al momento dell'ordine sono indicativi e possono subire variazioni in base alle capacità produttive, disponibilità delle materie prime e dei semilavorati e ai controlli qualitativi svolti sul prodotto prima della spedizione. Per maggiori informazioni info@vinilificio.com .
+2. I tempi di produzione indicati al momento dell'ordine sono indicativi, inclusa la lavorazione urgente, e possono subire variazioni in base alle capacità produttive, disponibilità delle materie prime e dei semilavorati e ai controlli qualitativi svolti sul prodotto prima della spedizione. Per maggiori informazioni info@vinilificio.com .
 
 
 *IV. Quantità, qualità dei supporti*
