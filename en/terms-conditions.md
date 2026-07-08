@@ -84,9 +84,21 @@ In the event of courier service failures, the customer may complain directly to 
 
 **INTERMEDIATION SERVICES FOR THE PRODUCTION OF VINYL RECORDS**
 
+Vinilificio, represented by Cristian Adamo, provides commercial brokerage services for large-quantity vinyl record production by engaging one or more selected manufacturing partners.
+
+The manufacturing facility responsible for fulfilling each order shall be selected solely and at the exclusive discretion of Vinilificio, based on organizational, logistical, production, and quality considerations. Such selection shall not affect the commercial or contractual terms agreed upon with the Customer.
+
+The Customer may request information regarding the manufacturing facility assigned to produce the order. Vinilificio may disclose such information unless prevented from doing so by confidentiality obligations toward its manufacturing partners or by legitimate organizational or commercial reasons.
+
+The identity of the manufacturing facility or production partner is disclosed solely for informational and transparency purposes and does not grant the Customer any right to establish a direct commercial relationship with such manufacturer.
+
+The Customer agrees not to contact, directly or indirectly, the manufacturing partner involved in the execution of the order, whether during the performance of the order or for a period of twenty-four (24) months following its completion, for the purpose of requesting quotations, placing similar or related orders, or entering into any commercial relationship that would circumvent Vinilificio's brokerage services.
+
+Any breach of this provision shall constitute a material breach of the Agreement and shall entitle Vinilificio to seek compensation for all direct and indirect damages arising from the circumvention of its brokerage services, without prejudice to any other remedies available under applicable law.
+
 Vinilificio offers commercial and technical intermediation services between clients and the record industry for the production and duplication of audio on vinyl records. Furthermore, under no circumstances does Vinilificio make serial duplications from a matrix. The client who uses this service is obliged to fulfill all the required procedures for the permission of mechanical reproduction and copyright international laws with the authorized dealership in his native country.
 
-The production time of the order will be communicated when the order is placed. Production times are not binding and may vary between the request for a quote and the placing of the order.
+The production time of the order will be communicated when the order is placed. Production times are not binding (including urgent production process) and may vary between the request for a quote and the placing of the order.
 
 The delivery takes place within 120 working days at the latest, following receipt of the necessary documents and materials. The starting materials must be in perfect condition. If we are in default of delivery, the customer must set us a grace period of at least 6 weeks before they can withdraw from the contract.
 
