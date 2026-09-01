@@ -41,10 +41,10 @@ _Per ordinare la tua VPC <a href="mailto:info@vinilificio.com">contattaci</a>_
 ![vpc](/img/vpc03.jpg)
 
 ### Quanto costa
-* 100 Unità - € 5,75 / Unità (IVA esclusa)
-* 200 Unità - € 4,25 / Unità (IVA esclusa)
-* 300 Unità - € 3,69 / Unità (IVA esclusa)
-* 500 Unità - € 3,19 / Unità (IVA esclusa)
+* 100 Unità - € 5,95 / Unità (IVA esclusa)
+* 200 Unità - € 4,45 / Unità (IVA esclusa)
+* 300 Unità - € 3,89 / Unità (IVA esclusa)
+* 500 Unità - € 3,65 / Unità (IVA esclusa)
 
 Per quantità maggiori <a href="/contatti/">contattaci.</a>
 
