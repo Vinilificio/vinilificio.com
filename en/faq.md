@@ -21,6 +21,8 @@ menu:
   id: mastering
 - titolo: The importance of mastering
   id: the-importance-of-mastering
+- titolo: 5 inch vinyl records: why the stylus gets stuck
+  id: 5-inch-vinyl_records:-why-the-stylus-gets-stuck
 - titolo: Glossary
   id: glossary
 - titolo: How to order your vinyl
@@ -91,6 +93,10 @@ Mastering mainly (but not only) provides corrections on equalization, enhancemen
 ### The importance of mastering
 Mastering allows for the optimization of the audio produced for the support onto which it will be duplicated. A good record is not only the result of a good mixing and recording, but also of a well produced mastering. Never underestimate the mastering process and always rely on competent and experienced technicians. A bad mastering, or a duplication of a mastering audio without mastering, results in a poor quality disc.! 
 Before going to print always ensure the quality of your master, listen to it on different systems  and, if you have doubts, make a vinyl audio transfer to test  your master on vinyl.
+
+### 5 inch vinyl records: why the stylus gets stuck
+Not all turntables are able to play 5-inch vinyl records in their entirety. This format (12.7 cm) is slightly larger than the turntable’s centre hole (10 cm). Many hi-fi turntables have been designed to prevent the stylus from travelling beyond the groove and onto the centre of the record. The groove on a 5-inch vinyl record extends beyond a diameter of 10 cm. For this reason, when the stylus of a hi-fi turntable reaches a point roughly 10 cm from the centre of the record, it remains stationary, ‘getting stuck’. DJ turntables (such as the Technics 1200) do not have this ‘limit’ on the movement of the tonearm.
+
 
 ### Glossary
 * Audio transfer on vinyl: [Audio transfer on vinyl](#audio-transfer-in-single-copy)
