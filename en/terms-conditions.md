@@ -6,8 +6,8 @@ lang: en
 menu:
 - titolo: Vinificio Services
   id: vinificio-services
-- titolo: Cookie policy
-  id: cookie-policy
+- titolo: Intermediation Services
+  id: intermediation-services
 ref: terms-conditions
 ---
 
@@ -81,6 +81,7 @@ Shipments are made at the risk and expense of the client. Vinilificio will infor
 The client is obliged to inform the courier directly of any changes of address, updates relating to the services offered by the courier in charge. 
 In the event of courier service failures, the customer may complain directly to the courier company in charge.
 
+### Intermediation Services
 
 **INTERMEDIATION SERVICES FOR THE PRODUCTION OF VINYL RECORDS**
 
