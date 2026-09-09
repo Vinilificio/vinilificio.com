@@ -319,7 +319,13 @@ p + ul {
 }
 
 .site-footer__social {
-    padding-top: 0.25rem;
+    margin-top: 0.5rem;
+    padding-top: 0;
+}
+
+.site-footer__menu--legal {
+    margin-top: 0.5rem;
+    padding-top: 0;
 }
 
 .site-footer__icon {
@@ -524,7 +530,7 @@ p + ul {
     display: none;
     margin-top: 0.25rem;
     color: $white;
-} 
+}
 .cc-link {
     color: $white;
     text-decoration: underline;
@@ -532,7 +538,7 @@ p + ul {
         color: $white;
     }
 }
- 
+
 /*.cc-cookie {
     display: none;
     font-size: ms(-1);
