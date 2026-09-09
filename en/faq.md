@@ -22,7 +22,7 @@ menu:
 - titolo: The importance of mastering
   id: the-importance-of-mastering
 - titolo: 5 inch vinyl records why the stylus gets stuck
-  id: 5-inch-vinyl_records
+  id: 5-inch-vinyl_records-why-the-stylus-gets-stuck
 - titolo: Glossary
   id: glossary
 - titolo: How to order your vinyl
