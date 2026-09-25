@@ -89,7 +89,15 @@ Le nostre copertine sono realizzate con le migliori tecnologie di stampa, posson
 
 Puoi creare le tue grafiche utilizzando il [designer - Vinilificio Web App](https://app.vinilificio.com) oppure con i programmi di grafica utilizzando i nostri templates. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-9POIc7iwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="position:relative;width:100%;max-width:560px;padding-bottom:56.25%;height:0;margin:30px auto;overflow:hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/f-9POIc7iwc"
+    title="YouTube video player"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
 
 Per maggiori informazioni [contattaci](/contatti/). 
