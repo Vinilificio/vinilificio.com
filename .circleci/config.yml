@@ -1,4 +1,4 @@
-version: 2
+version: 2.1
 
 jobs:
   build:
@@ -20,7 +20,7 @@ jobs:
     docker:
       - image: circleci/python:3.6
     environment:
-      - CNAME: www.vinilificio.chialab.io
+      CNAME: www.vinilificio.chialab.io
     steps:
       - run:
           name: Install AWS CLI
@@ -31,17 +31,17 @@ jobs:
       - run:
           name: Update `robots.txt`
           command: mv _site/robots-dev.txt _site/robots.txt
-      - deploy:
+      - run:
           name: Deploy on S3
           command: ~/.local/bin/aws s3 sync _site s3://$CNAME --region ${AWS_REGION:-eu-west-1} --delete
-      - deploy:
+      - run:
           name: Create CloudFront invalidation
           command: ~/.local/bin/aws cloudfront create-invalidation --paths '/*' --distribution-id $(~/.local/bin/aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${CNAME}')].Id" --output text)
   deploy_production:
     docker:
       - image: circleci/python:3.6
     environment:
-      - CNAME: www.vinilificio.com
+      CNAME: www.vinilificio.com
     steps:
       - run:
           name: Install AWS CLI
@@ -49,15 +49,14 @@ jobs:
             pip install --user awscli
       - attach_workspace:
           at: '.'
-      - deploy:
+      - run:
           name: Deploy on S3
           command: ~/.local/bin/aws s3 sync _site s3://$CNAME --region ${AWS_REGION:-eu-west-1} --delete
-      - deploy:
+      - run:
           name: Create CloudFront invalidation
           command: ~/.local/bin/aws cloudfront create-invalidation --paths '/*' --distribution-id $(~/.local/bin/aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${CNAME}')].Id" --output text)
 
 workflows:
-  version: 2
   build-deploy:
     jobs:
       - build
