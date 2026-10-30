@@ -91,15 +91,19 @@ Le nostre copertine sono realizzate con le migliori tecnologie di stampa, posson
 
 Puoi creare le tue grafiche utilizzando il [designer - Vinilificio Web App](https://app.vinilificio.com) oppure con i programmi di grafica utilizzando i nostri templates. 
 
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/f-9POIc7iwc"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
+
+<div style="position:relative; width:100%; max-width:560px; aspect-ratio:16/9; margin:20px auto;">
+  <iframe
+    src="https://www.youtube.com/embed/f-9POIc7iwc"
+    title="Vinilificio - Custom print cover and label"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 
 
 Per maggiori informazioni [contattaci](/contatti/). 
@@ -135,7 +139,17 @@ Ad esempio, per incidere un disco di 30 minuti, serve un tempo che varia tra i 4
 
 #### Quanta musica si può incidere su vinile?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HhyyyNZ-8HU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="position:relative; width:100%; max-width:560px; aspect-ratio:16/9; margin:20px auto;">
+  <iframe
+    src="https://www.youtube.com/embed/HhyyyNZ-8HU"
+    title="Vinilificio - Audio"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
 
 
 Su vinile la quantità di musica incisa per lato determina il volume del segnale inciso.
