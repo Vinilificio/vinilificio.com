@@ -68,7 +68,7 @@ I tempi di lavorazione e di spedizione sono calcolati dalla data di pagamento e 
 
 **I tempi di lavorazione attualmente variano tra i 20 e i 50 giorni lavorativi (sabato, domenica e giorni festivi esclusi).**
 
-**ATTENZIONE: non è garantita la consegna entro il 24 dicembre**
+**ATTENZIONE: gli ordini ricevuti a partire dal 01 novembre sono programmati a partire dal 10 gennaio**
 
 Il servizio urgente al momento non è disponibile
 
