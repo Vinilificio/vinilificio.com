@@ -77,7 +77,7 @@ Processing and shipping times are calculated from the date of payment and depend
 <br>
 **Processing times currently vary between 20 and 50 working days (Saturdays, Sundays and public holidays excluded).** 
 
-**PLEASE NOTE: Delivery by 24 December cannot be guaranteed**
+**PLEASE NOTE: Orders received on or after November 1 are scheduled to be processed starting January 10**
 
 Due to high demand, the urgent service is currently unavailable.
 <br>
