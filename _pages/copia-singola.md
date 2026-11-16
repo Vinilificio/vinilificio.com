@@ -66,7 +66,9 @@ Con l' [App di Vinilificio](https://app.vinilificio.com) in maniera semplice ed 
 ### Tempi di lavorazione
 I tempi di lavorazione e di spedizione sono calcolati dalla data di pagamento e dipendono dalla quantità ordinata, dalla durata del disco, dalla presenza o meno di copertine stampate e dal periodo di lancio dell'ordine.
 
-**I tempi di lavorazione attualmente variano tra i 20 e i 50 giorni lavorativi (sabato, domenica e giorni festivi esclusi).**
+**I tempi di lavorazione attualmente variano tra i 40 e i 50 giorni lavorativi (sabato, domenica e giorni festivi esclusi).**
+
+**VINILIFICIO È CHIUSO PER FERIE DAL 31 DICEMBRE AL 6 GENNAIO INCLUSI.**
 
 **ATTENZIONE: gli ordini ricevuti a partire dal 01 novembre sono programmati a partire dal 10 gennaio**
 
